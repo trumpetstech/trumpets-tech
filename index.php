@@ -13,7 +13,7 @@ include"inc/navbar.php";
     <!-- header_end -->
 
     <!-- banner_area_start -->
-    <div class="banner_area" style="background-image: url('../img/banner/2.jpg'); background-size: cover; width: 100%; background-repeat: no-repeat; margin-top: 50px;">
+    <div class="banner_area" style="background-image: url('img/banner/2.jpg'); background-size: cover; width: 100%; background-repeat: no-repeat; margin-top: 50px;">
        <!--  <div class="ilstrator_img">
             <img src="img/banner/banner_ils.png" alt="">
         </div> -->
@@ -55,7 +55,7 @@ include"inc/navbar.php";
                         <p>We, at Trumpets, provide Intuitive, feature-rich and affordable Productivity Tools for Enterprises.<br>
 We’re not a reseller company, nor a consultant. Rather, we provide solutions related to Business Productivity Tools.</p>
                         <div class="site_link_form ">
-                           
+
                             <button type="submit" class="btn btn-primary px-5 py-3 font-weight-bold mt-2">Check Out Our Tools</button>
                            <!--  <form action="#" class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">
                                 <input name="text" placeholder="Enter your site link" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your site link'" required="" type="text">
@@ -95,7 +95,7 @@ We’re not a reseller company, nor a consultant. Rather, we provide solutions r
                             <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Short Introduction</h3>
                             <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Trumpets is a software company which started operation in 2014, situated at Nashik. The Company has been promoted by highly experienced professionals. We provide total IT solution under one roof.</p>
                             <ul>
-                                <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">We introduce innovative tips and modern technologies into the company of customers. 
+                                <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">We introduce innovative tips and modern technologies into the company of customers.
 
                                 </li>
                                 <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">We have some of the most knowledgeable and experienced IT professionals that offer user-friendly customized solutions & applications.
@@ -120,7 +120,7 @@ All in the cloud.</h1>
                <div class="col-md-6">
                    <p>Move your phone system, conferencing and call center to the cloud. Support your modern, mobile workers. Work from anywhere and let Ai make every call a smarter call.</p>
                </div>
-           </div> 
+           </div>
         </div>
     </div>
 <div class="features">
@@ -140,7 +140,7 @@ All in the cloud.</h1>
                         </div>
                     </a>
                     </div>
-                
+
                 <div class="col-md-6 mt-5 pt-5 pl-4" style="margin-top: 10px;">
                       <a href="https://enqubyte.trumpets.co.in" target="_blank">
                         <div class="card two shadow-sm">
@@ -168,10 +168,10 @@ All in the cloud.</h1>
                             </div>
                         </div>
                     </div>
-                
+
             </div>
     </div>
-    
+
 </div>
 
     <!-- features_area_start -->
@@ -206,14 +206,14 @@ All in the cloud.</h1>
                         <div class="single_brand wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
                             <img src="img/logo/thakkar.png" alt="" class="" style="width: 120px;">
                         </div>
-                       
+
                     </div>
                 </div>
             </div>
         </div>
     </div> <!-- features_area_end -->
 
-    
+
     <!-- service_area_start -->
     <!-- <div class="service_area">
         <div class="container">
