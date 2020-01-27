@@ -459,7 +459,7 @@ label {
 
 /* line 70, I:/HTML/scss/_btn.scss */
 .blank_btn:hover {
-  color: #000;
+  color: #000 !important;
   background: #fff;
 }
 
@@ -5154,7 +5154,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#164eb2",endCo
 /*----------------------------------------------------*/
 /* line 1, I:/HTML/scss/_case_01.scss */
 .case_study_page_01 {
-  padding-top: 180px;
+  padding-top: 110px;
   padding-bottom: 100px;
 }
 
@@ -5536,7 +5536,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#164eb2",endCo
 /*----------------------------------------------------*/
 /* line 1, I:/HTML/scss/_career.scss */
 .carrer_area {
-  padding-top: 180px;
+  padding-top: 110px;
   padding-bottom: 173px;
   word-wrap: break-word;
 }
@@ -6895,7 +6895,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#164eb2",endCo
 /* line 1, I:/HTML/scss/_contact.scss */
 .main_contact_area {
   padding-bottom: 60px;
-  padding-top: 180px;
+  padding-top: 110px;
 }
 
 @media (max-width: 767px) {

@@ -18,8 +18,8 @@ include"inc/navbar.php";
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text text-center">
-                        <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">Career</h3>
-                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s"><a href="index.php">Home</a> / career</p>
+                        <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">Careers</h3>
+                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s"><a href="index.php">Home</a> / careers</p>
                     </div>
                 </div>
             </div>
