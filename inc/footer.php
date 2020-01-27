@@ -38,9 +38,9 @@
                                 <h3>Company</h3>
                             </div>
                             <ul class="link_list">
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Careers</a></li>
+                                <li><a href="about.php">About</a></li>
+                                <li><a href="http://blog.trumpets.co.in/">Blog</a></li>
+                                <li><a href="career.php">Careers</a></li>
                                 <li><a href="#">Invest In Us</a></li>
                             </ul>
                         </div>
@@ -51,9 +51,9 @@
                                 <h3>Products</h3>
                             </div>
                             <ul class="link_list">
-                                <li><a href="#">Pletox</a></li>
-                                <li><a href="#"> Enqubyte</a></li>
-                                <li><a href="#">Desician</a></li>
+                                <li><a href="https://pletox.com/">Pletox</a></li>
+                                <li><a href="https://enqubyte.trumpets.co.in"> Enqubyte</a></li>
+                                <li><a href="https://www.freepik.com/user15168847">Desician</a></li>
                                 <!-- <li><a href="#">Ecommerce</a></li>
                                 <li><a href="#">Branding</a></li> -->
                             </ul>
@@ -65,9 +65,9 @@
                                 <h3>Help</h3>
                             </div>
                             <ul class="link_list">
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#"> Privacy Policy</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
+                                <li><a href="https://trumpets.atlassian.net/servicedesk/customer/portal/1">Support</a></li>
+                                <li><a href="privacy-policy.php"> Privacy Policy</a></li>
+                                <li><a href="terms.php">Terms & Conditions</a></li>
                                 <!-- <li><a href="#">Ecommerce</a></li>
                                 <li><a href="#">Branding</a></li> -->
                             </ul>

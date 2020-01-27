@@ -1,106 +1,15 @@
-<!doctype html>
-<html class="no-js" lang="zxx">
-
-
-<!-- Mirrored from uosdemo.themedraw.com/saasco-html/sassco/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jan 2020 05:30:14 GMT -->
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>sassco</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-    <!-- Place favicon.ico in the root directory -->
-
-    <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/nice-select.css">
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/slicknav.css"> 
-    <link rel="stylesheet" href="css/style.css">
-</head>
-
+<?php
+include"inc/header.php";
+?>
 <body>
     <!--[if lte IE 9]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
 
     <!-- header_start -->
-    <header>
-        <div id="sticky-header" class="header_area header_static">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="header__wrapper">
-                            <!-- header__left__start  -->
-                            <div class="header__left">
-                                <div class="logo_img">
-                                    <a href="index.html">
-                                        <img src="img/logo.png" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- header__left__start  -->
-    
-                            <!-- main_menu_start  -->
-                            <div class="main_menu text-center d-none d-lg-block">
-                                <nav>
-                                    <ul id="mobile-menu">
-                                        <li><a href="#">Home</a>
-                                            <ul class="submenu">
-                                                <li><a href="index.html">Home one</a></li>
-                                                <li><a href="index_2.html">home Two</a></li>
-                                            </ul>
-                                            <!--/ submenu  -->
-                                        </li>
-                                        <li><a href="#">pages</a>
-                                            <!-- submenu  -->
-                                            <ul class="submenu">
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="service.html">Services</a></li>
-                                                <li><a href="career.html">Carrier</a></li>
-                                                <li><a href="approach.html">Approach</a></li>
-                                                <li><a href="prising.html">prising</a></li>
-                                                <li><a href="404.html">404</a></li>
-                                            </ul>
-                                            <!--/ submenu  -->
-                                        </li>
-                                        <li><a href="case_study.html">portfolio</a></li>
-                                        <li><a href="blog_01.html">blog</a></li>
-                                        <li><a href="contact.html">contact</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                            <!-- main_menu_start  -->
-    
-                            <!-- header__right_start  -->
-                            <div class="header__right">
-                                <div class="contact_wrap d-flex align-items-center">
-                                    <div class="mobile_no d-none d-xl-block">
-                                        <p>Call Now: <span><a href="#">10 447 389 245</a></span></p>
-                                    </div>
-                                    <div class="contact_btn d-none d-lg-block">
-                                        <a href="contact.html" class="boxed_btn">Contact Us</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- header__right_end  -->
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="mobile_menu d-block d-lg-none"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+    <?php
+include"inc/navbar.php";
+    ?>
     <!-- header_end -->
 
     <!-- bradcam_area  -->
@@ -110,7 +19,7 @@
                 <div class="col-xl-12">
                     <div class="bradcam_text text-center">
                         <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">About Us</h3>
-                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s"><a href="index.html">Home</a> / About</p>
+                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s"><a href="index.php">Home</a> / About</p>
                     </div>
                 </div>
             </div>
@@ -122,26 +31,24 @@
     <div class="about_info_area">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-xl-6 col-md-6">
-                    <div class="info_thumb wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                        <img src="img/about_page/about_info/2.png" alt="">
-                    </div>
-                </div>
-                <div class="col-xl-6 col-md-6">
+
+                <div class="col-xl-12 col-md-12">
                     <div class="info_text">
                         <div class="section_title">
-                           <h4 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Technology-focused, <br>
-                            customized solutions <br>
-                            as a chaser.</h4>
+                           <h4 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Short Introduction</h4>
                         </div>
                         <p class="info_text_1 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                            Nothing illustrates the race to the top more categorically than the search engine industry.
-                            We have worked hard to remain at the forefront for more than eleven years now.
+                           Trumpets is a software company which started operation in 2014, situated at Nashik. The Company has been promoted by highly experienced professionals. We provide total IT solution under one roof. We adopt the latest, and more importantly stable technologies and platforms for development.
                         </p>
                         <p class="info_text_2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                                It was early by many standards. Search engine industry was nowhere close to the organized, well informed behemoth it is today. The eagerness to learn, device case-specific.
+                                We introduce innovative tips and modern technologies into the company of customers. Our unrivaled experience and strong technological skills hinges on business understanding and development of custom solutions to meet the certain business opportunity requirements of its clients.
                         </p>
-                        <a href="#" class="boxed_btn_2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Contact Us</a>
+                        <p class="info_text_2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                                <p class="info_text_2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                                We introduce innovative tips and modern technologies into the company of customers. Our unrivaled experience and strong technological skills hinges on business understanding and development of custom solutions to meet the certain business opportunity requirements of its clients.
+                        </p>
+                        </p>
+                        <a href="#" class="boxed_btn btn-primary wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -152,33 +59,30 @@
     <!-- about_info  -->
     <div class="about_info_area2">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-md-6">
-                    <div class="info_text">
-                        <div class="section_title wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-                            <h4>Our Goal</h4>
+           <div class="row">
+                    <div class="col-lg-6 col-sm-6 text-center">
+                        <div class="card py-5 px-4" style="box-shadow: 0 10px 30px 0 rgba(0,0,0,.1); border: none;">
+
+                            <h5 class="f_600 f_p t_color3 font-weight-bold"  style="font-size: 23px;">Our Vision</h5>
+                            <p style="font-size: 20px;">Build tools to simplify and enhance diverse segments of business.</p>
+
                         </div>
-                        <p class="info_text_1 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                            Nothing illustrates the race to the top more categorically than the search engine industry.
-                            We have worked hard to remain at the forefront for more than eleven years now.
-                        </p>
-                        <p class="info_text_2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                                It was early by many standards. Search engine industry was nowhere close to the organized, well informed behemoth it is today. The eagerness to learn, device case-specific.
-                        </p>
+                    </div>
+                    <div class="col-lg-6 col-sm-6 text-center">
+                        <div class="card py-5 px-4" style="box-shadow: 0 10px 30px 0 rgba(0,0,0,.1); border: none;">
+
+                            <h5 class="f_600 f_p t_color3 font-weight-bold" style="font-size: 23px;">Our Mission</h5>
+                            <p style="font-size: 20px">Make businesses work smarter and effecient with automating most of their manual workflow.</p>
+
+                        </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-md-6">
-                    <div class="info_thumb wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s">
-                        <img src="img/about_page/about_info/1.png" alt="">
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
     <!--/ about_info  -->
 
     <!-- counter  -->
-    <div class="counter_area plus_padding">
+    <!-- <div class="counter_area plus_padding">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -219,18 +123,162 @@
             </div>
         </div>
     </div>
-    <!--/ counter  -->
+ -->    <!--/ counter  -->
 
     <!-- youtube  -->
-    <div class="youtube_video_area youtube_bg">
+<!--     <div class="youtube_video_area youtube_bg">
         <div class="video_play_btn">
             <a class="popup-video" href="https://www.youtube.com/watch?v=OFIG6k4B3zg">
                 <i class="fa fa-play"></i>
             </a>
         </div>
-    </div>
+    </div> -->
     <!-- / youtube -->
 
+    <!-- director  -->
+   <div class="multipol_manage_area">
+        <div class="shapes">
+            <div class="shap_1">
+                <img src="img/home_2/shape/l_big.svg" alt="">
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="manage_tabs">
+                    <ul class="nav " id="myTab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active show" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="false">
+                                <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <h4>Foundor & CEO</h4>
+                                    <p></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">
+                                <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <h4>Director & Shareholder</h4>
+                                    <p></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="true">
+                                <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <h4>Investor</h4>
+                                    <p></p>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade active show" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="manage_banner d-flex content-align-between">
+                                <div class="col-md-4">
+                                    <div class="ex_team_item">
+                        <img src="img/about_page/team/cto.jpg" alt="" style="width: 100%;" height="350">
+                        <div class="team_content">
+                            <a href="#">
+                                <h3 class="f_p f_size_16 f_900 t_color3">Abhishek Wani</h3>
+                            </a>
+                            <h5>Founder &amp; CEO</h5>
+                        </div>
+                        <div class="hover_content">
+                            <div class="n_hover_content">
+                                <ul class="list-unstyled">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                </ul>
+                                <div class="br"></div>
+                                <a href="#">
+                                    <h3 class="f_p f_size_16 f_600 w_color">Abhishek Wani</h3>
+                                </a>
+                                <h5>Founder &amp; CEO</h5>
+                            </div>
+                        </div>
+                    </div>
+                                 </div>
+
+                                  <div class="col-md-8">
+                                    <blockquote class="quote-box">
+      <p class="quotation-mark">
+        “
+      </p>
+      <p class="quote-text">
+     If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.
+      </p>
+
+    </blockquote>
+                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                    <div class="row">
+                        <div class="col-lg-12">
+                               <div class="manage_banner d-flex content-align-between">
+                                <div class="col-md-4">
+                                    <div class="ex_team_item">
+                        <img src="img/about_page/team/director-akash.jpeg" alt="" style="width: 100%;" height="350">
+                        <div class="team_content">
+                            <a href="#">
+                                <h3 class="f_p f_size_16 f_600 t_color3">Akash Wani</h3>
+                            </a>
+                            <h5>Director &amp; Shareholder</h5>
+                        </div>
+                        <div class="hover_content">
+                            <div class="n_hover_content">
+                                <ul class="list-unstyled">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                </ul>
+                                <div class="br"></div>
+                                <a href="#">
+                                    <h3 class="f_p f_size_16 f_600 w_color">Akash Wani</h3>
+                                </a>
+                                <h5>Director &amp; Shareholder</h5>
+                            </div>
+                        </div>
+                    </div>
+                                 </div>
+
+                                  <div class="col-md-8">
+                                    <blockquote class="quote-box">
+      <p class="quotation-mark">
+        “
+      </p>
+      <p class="quote-text">
+     If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.
+      </p>
+
+    </blockquote>
+                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade " id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="manage_banner">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- / Director -->
     <!-- team_area  -->
     <div class="team_area">
         <div class="container">
@@ -245,7 +293,7 @@
                 <div class="col-xl-4 col-md-4">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                         <div class="team_thumb">
-                            <img src="img/about_page/team/team_1.png" alt="">
+                            <img src="img/about_page/team/1.jpg" alt="">
                             <div class="social_links">
                                 <ul>
                                     <li><a href="#"> <i class="fa fa-facebook-official"></i> </a></li>
@@ -255,15 +303,15 @@
                             </div>
                         </div>
                         <div class="team_content text-center">
-                            <h3>Amila Klack</h3>
-                            <p>Graphics Designer</p>
+                            <h3>Nikita Jadhav</h3>
+                            <p>Front-end Designer</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                         <div class="team_thumb">
-                            <img src="img/about_page/team/team_2.png" alt="">
+                            <img src="img/about_page/team/senior-gd.jpg" alt="">
                             <div class="social_links">
                                 <ul>
                                     <li><a href="#"> <i class="fa fa-facebook-official"></i> </a></li>
@@ -273,15 +321,15 @@
                             </div>
                         </div>
                         <div class="team_content text-center">
-                            <h3>Jacson Miller</h3>
-                            <p>Digital Marketer</p>
+                            <h3>Devangi Mehta</h3>
+                            <p>Graphic Designer</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                         <div class="team_thumb">
-                            <img src="img/about_page/team/team3.png" alt="">
+                            <img src="img/about_page/team/junior-gd.jpg" alt="">
                             <div class="social_links">
                                 <ul>
                                     <li><a href="#"> <i class="fa fa-facebook-official"></i> </a></li>
@@ -291,8 +339,8 @@
                             </div>
                         </div>
                         <div class="team_content text-center">
-                            <h3>Kamal Dolla</h3>
-                            <p>WordPress Developer</p>
+                            <h3>Vishakha Pathak</h3>
+                            <p>UI/UX Designer</p>
                         </div>
                     </div>
                 </div>
@@ -302,167 +350,12 @@
     <!-- / team_area -->
 
     <!-- contact_expert_start -->
-    <div class="contact_expert">
-        <div class="animation_img d-none d-lg-block">
-            <div class="anim_1 amination_custom">
-                <img src="img/banner/expert_anim_1.png" alt="">
-            </div>
-            <div class="anim_2 amination_custom4">
-                <img src="img/banner/expert_anim_2.png" alt="">
-            </div>
-            <div class="anim_3 amination_custom2">
-                <img src="img/banner/expert_anim_3.png" alt="">
-            </div>
-            <div class="anim_4 amination_custom11">
-                <img src="img/banner/expert_anim_4.png" alt="">
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="contact_expert_text text-center">
-                        <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Ready to speak with a marketing expert?</h3>
-                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Give us a ring at- <a href="#">10 (718 278 1789)</a> </p>
-                        <a href="contact.html" class="blank_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Contact Us</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- contact_expert_end -->
+   <?php
+include"inc/cta.php";
+?>
+ <!-- contact_expert_end -->
 
     <!-- footer_start -->
-    <footer>
-        <div class="ilstrator_footer_img d-none d-lg-block ">
-            <img src="img/banner/footer_ils_1.png" alt="">
-        </div>
-        <div class="anim_icon ">
-            <div class="anim_icon_1 amination_custom">
-                <img src="img/animated_icon/4.png" alt="">
-            </div>
-            <div class="anim_icon_2 amination_custom11">
-                <img src="img/animated_icon/5.png" alt="">
-            </div>
-        </div>
-        <div class="footer_top_area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="footer_widget wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-                            <div class="footer_logo">
-                                <a href="#">
-                                    <img src="img/logo.png" alt="">
-                                </a>
-                            </div>
-                            <div class="social_links">
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-                                    <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="footer_widget wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                            <div class="footer_title">
-                                <h3>Company</h3>
-                            </div>
-                            <ul class="link_list">
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">Case study</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="footer_widget wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                            <div class="footer_title">
-                                <h3>Services</h3>
-                            </div>
-                            <ul class="link_list">
-                                <li><a href="#">Web design</a></li>
-                                <li><a href="#"> Development</a></li>
-                                <li><a href="#">SEO & PPC</a></li>
-                                <li><a href="#">Ecommerce</a></li>
-                                <li><a href="#">Branding</a></li>
-                            </ul>
-                        </div>
-                    </div> 
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="footer_widget wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                            <div class="footer_title">
-                                <h3>Company</h3>
-                            </div>
-                            <p>
-                                    700, D-Link road, NewYork <br>
-                                    <a href="#">contact-saasco@company.com</a> <br>
-                                    <a  href="#">+10 789 278 2781</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="copyright_area">
-            <div class="container">
-                <div class="footer_border"></div>
-                <div class="row align-items-center">
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="copy_right_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-                            <p>
-                                    © 2019 UOSdesign. All rights reserved.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="copy_right_links wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                            <ul>
-                                <li>
-                                    <a href="#">Company Terms</a>
-                                    <a href="#">Privacy Policy</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- footer_end -->
-
-    <!-- back-top_start  -->
-    <div id="back-top" style="display: block;">
-        <a title="Go to Top" href="#">
-            <i class="ti-angle-up"></i>
-        </a>
-    </div>
-    <!-- back-top_end -->
-
-    <!-- JS here -->
-    <!--All JS here -->
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/nice-select.min.js"></script>
-    <script src="js/jquery.slicknav.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/parallax.js"></script>
-    <script src="js/plugins.js"></script>
-
-    <!-- main js  -->
-    <script src="js/main.js"></script>
-
-</body>
-
-
-<!-- Mirrored from uosdemo.themedraw.com/saasco-html/sassco/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jan 2020 05:30:21 GMT -->
-</html>
+    <?php
+include"inc/footer.php";
+    ?>

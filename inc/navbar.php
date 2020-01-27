@@ -25,11 +25,11 @@
                                         <li><a href="about.php">Company</a></li>
                                             <!-- submenu  -->
 
-                                        <li><a href="#">Products</a></li>
+                                        <li><a href="products.php">Products</a></li>
 
                                         <li><a href="http://blog.trumpets.co.in" target="_blank">blog</a></li>
-                                        
-                                        <li><a href="#">contact</a></li>
+
+                                        <li><a href="contact.php">contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -38,7 +38,7 @@
                             <!-- header__right_start--->
                             <div class="header__right">
                                 <div class="contact_wrap d-flex align-items-center">
-                                   
+
                                   <div class="contact_btn d-none d-lg-block ">
                                         <a href="contact.html" class="boxed_btn btn-primary">Contact Us</a>
                                     </div>
