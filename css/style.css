@@ -3361,7 +3361,7 @@ footer.footer_2 .copyright_area .copy_right_links li a:hover {
 
 /* line 16, I:/HTML/scss/_service.scss */
 .service_area .single_service .service_icon {
-  background: #ffecee;
+  background: #fff4e6;
   width: 100px;
   height: 100px;
   -webkit-border-radius: 50%;
@@ -3374,12 +3374,12 @@ footer.footer_2 .copyright_area .copy_right_links li a:hover {
 
 /* line 29, I:/HTML/scss/_service.scss */
 .service_area .single_service.green .service_icon {
-  background: #e5fdf7;
+  background: #fff4e6;
 }
 
 /* line 34, I:/HTML/scss/_service.scss */
 .service_area .single_service.violate .service_icon {
-  background: #f4eefe;
+  background: #fff4e6;
 }
 
 /* line 39, I:/HTML/scss/_service.scss */
