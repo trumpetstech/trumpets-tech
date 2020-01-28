@@ -298,7 +298,7 @@ include"inc/navbar.php";
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">
+                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile1" role="tab" aria-controls="profile" aria-selected="false">
                                 <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
                                     <h4>Director & Shareholder</h4>
                                     <p></p>
@@ -306,7 +306,7 @@ include"inc/navbar.php";
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="true">
+                            <a class="nav-link " id="contact-tab" data-toggle="tab" href="#contact1" role="tab" aria-controls="contact" aria-selected="true">
                                 <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
                                     <h4>Investor</h4>
                                     <p></p>
@@ -363,7 +363,7 @@ include"inc/navbar.php";
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                <div class="tab-pane fade" id="profile1" role="tabpanel" aria-labelledby="profile-tab">
                     <div class="row">
                         <div class="col-lg-12">
                                <div class="manage_banner content-align-between">
@@ -409,7 +409,7 @@ include"inc/navbar.php";
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade " id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                <div class="tab-pane fade " id="contact1" role="tabpanel" aria-labelledby="contact-tab">
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="manage_banner">
