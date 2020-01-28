@@ -554,7 +554,7 @@ All in the cloud.</h1>
                                     <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">See Our Clients Word <br>
                                             What they Say</h3>
                                 </div>
-                        <a href="#" class="boxed_btn wow fadeInUp btn-primary" data-wow-duration="1s" data-wow-delay=".3s">More Stories</a>
+                        <a href="#" class="boxed_btn wow fadeInUp btn-secondary" data-wow-duration="1s" data-wow-delay=".3s">More Stories</a>
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-6">
