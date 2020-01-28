@@ -21,7 +21,7 @@
                     <div class="contact_expert_text text-center">
                         <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Ready to speak with our expertise?</h3>
                         <!-- <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Give us a ring at- <a href="#">10 (718 278 1789)</a> </p> -->
-                        <a href="contact.html" class=" btn btn-primary px-5 py-3 font-weight-bold mt-5" data-wow-duration="1s" data-wow-delay=".3s" >Contact Us</a>
+                        <a href="contact.php" class=" btn btn-primary px-5 py-3 font-weight-bold mt-5" data-wow-duration="1s" data-wow-delay=".3s" >Contact Us</a>
                     </div>
                 </div>
             </div>
