@@ -8,7 +8,7 @@
                             <div class="header__left">
                                 <div class="logo_img">
                                     <a href="index.php">
-                                        <img src="img/logo/logo.png" alt="" style="width: 160px; padding-top: 30px; padding-bottom: 30px;">
+                                        <img src="img/logo/logo.png" class="header-logo" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                                 <div class="contact_wrap d-flex align-items-center">
 
                                   <div class="contact_btn d-none d-lg-block ">
-                                        <a href="contact.html" class="boxed_btn btn-secondary">Contact Us</a>
+                                        <a href="contact.php" class="boxed_btn btn-secondary">Contact Us</a>
                                     </div>
                                 </div>
                             </div>

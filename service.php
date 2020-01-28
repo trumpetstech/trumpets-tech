@@ -13,7 +13,7 @@ include"inc/header.php";
     <!-- header_end -->
 
     <!-- bradcam_area  -->
-    <div class="bradcam_area bradcam_bg_2">
+    <div class="bradcam_area bradcam_bg_1">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">

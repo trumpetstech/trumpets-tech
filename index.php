@@ -2,50 +2,14 @@
 include"inc/header.php";
 ?>
 <body>
-    <!--[if lte IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-        <![endif]-->
 
-    <!-- header_start -->
 <?php
 include"inc/navbar.php";
 ?>
     <!-- header_end -->
 
     <!-- banner_area_start -->
-    <div class="banner_area" style="background-image: url('img/banner/2.jpg'); background-size: cover; width: 100%; background-repeat: no-repeat; margin-top: 50px;">
-       <!--  <div class="ilstrator_img">
-            <img src="img/banner/banner_ils.png" alt="">
-        </div> -->
-        <!-- <div class="animated_icon ">
-            <div  class="circle_icon_1 amination_custom4">
-                <div class="layer" data-depth="0.2">
-                    <img src="img/animated_icon/1.png" alt="">
-                </div>
-            </div>
-            <div  class="circle_icon_2 amination_custom3 ">
-                <div class="layer" data-depth="0.2">
-                    <img src="img/animated_icon/2.png" alt="">
-                </div>
-            </div>
-            <div class="circle_icon_3 amination_custom4">
-                <div data-depth=".2"  class="layer">
-                    <img src="img/animated_icon/3.png" alt="">
-                </div>
-
-            </div>
-            <div class="circle_icon_4 amination_custom3 ">
-                <div data-depth=".2"  class="layer">
-                    <img src="img/banner/pulse.png" alt="">
-                </div>
-
-            </div>
-            <div class="circle_icon_5 amination_custom11">
-                <div data-depth=".2"  class="layer">
-                    <img src="img/banner/pulse.png" alt="">
-                </div>
-            </div>
-        </div> -->
+    <div class="banner_area banner-img">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12  col-lg-12">
@@ -133,7 +97,7 @@ All in the cloud.</h1>
                         <div class="card-body">
                             <div class="px-5 pt-3">
                                 <img src="img/logo/pletox.png" style="width: 150px;" class="pb-4">
-                                <p style="width: 50%;">A business phone system that just works—from any device, anywhere.</p>
+                                <p class="features-card">A business phone system that just works—from any device, anywhere.</p>
                                 <p style="color: #ed6123;">Explore More</p>
                                 </div>
                             </div>
@@ -141,13 +105,13 @@ All in the cloud.</h1>
                     </a>
                     </div>
 
-                <div class="col-md-6 mt-5 pt-5 pl-4" style="margin-top: 10px;">
+                <div class="col-md-6 mt-5 pt-5 pl-4 features-card" >
                       <a href="https://enqubyte.trumpets.co.in" target="_blank">
                         <div class="card two shadow-sm">
                         <div class="card-body">
                             <div class="px-5 pt-3">
                                 <img src="img/logo/enqubyte.png" style="width: 150px;" class="pb-4">
-                                <p style="width: 50%;">A business phone system that just works—from any device, anywhere.</p>
+                                <p class="product-text">A business phone system that just works—from any device, anywhere.</p>
                                 <a href="#"><p style="color: #ed6123;">Explore More</p></a>
                                 </div>
                             </div>
@@ -162,7 +126,7 @@ All in the cloud.</h1>
                         <div class="card-body">
                             <div class="px-5 pt-3">
                                 <img src="img/logo/desician.png" style="width: 150px;" class="pb-4">
-                                <p style="width: 50%;">A business phone system that just works—from any device, anywhere.</p>
+                                <p class="product-text">A business phone system that just works—from any device, anywhere.</p>
                                 <a href="#"><p style="color: #ed6123;">Explore More</p></a>
                                 </div>
                             </div>

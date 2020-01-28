@@ -48,7 +48,7 @@ include"inc/navbar.php";
                                 We introduce innovative tips and modern technologies into the company of customers. Our unrivaled experience and strong technological skills hinges on business understanding and development of custom solutions to meet the certain business opportunity requirements of its clients.
                         </p>
                         </p>
-                        <a href="#" class="boxed_btn btn-primary wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Contact Us</a>
+                        <a href="#" class="boxed_btn btn-secondary wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -60,19 +60,19 @@ include"inc/navbar.php";
     <div class="about_info_area2">
         <div class="container">
            <div class="row">
-                    <div class="col-lg-6 col-sm-6 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 text-center card-mb">
                         <div class="card py-5 px-4" style="box-shadow: 0 10px 30px 0 rgba(0,0,0,.1); border: none;">
 
                             <h5 class="f_600 f_p t_color3 font-weight-bold"  style="font-size: 23px;">Our Vision</h5>
-                            <p style="font-size: 20px;">Build tools to simplify and enhance diverse segments of business.</p>
+                            <p class="card-font">Build tools to simplify and enhance diverse segments of business.</p>
 
                         </div>
                     </div>
-                    <div class="col-lg-6 col-sm-6 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 text-center card-mb">
                         <div class="card py-5 px-4" style="box-shadow: 0 10px 30px 0 rgba(0,0,0,.1); border: none;">
 
                             <h5 class="f_600 f_p t_color3 font-weight-bold" style="font-size: 23px;">Our Mission</h5>
-                            <p style="font-size: 20px">Make businesses work smarter and effecient with automating most of their manual workflow.</p>
+                            <p class="card-font">Make businesses work smarter and effecient with automating most of their manual workflow.</p>
 
                         </div>
                     </div>
@@ -136,7 +136,7 @@ include"inc/navbar.php";
     <!-- / youtube -->
 
     <!-- director  -->
-   <div class="multipol_manage_area">
+   <div class="multipol_manage_area director-team">
         <div class="shapes">
             <div class="shap_1">
                 <img src="img/home_2/shape/l_big.svg" alt="">
@@ -176,9 +176,9 @@ include"inc/navbar.php";
             <div class="tab-content" id="myTabContent">
                 <div class="tab-pane fade active show" id="home" role="tabpanel" aria-labelledby="home-tab">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12 col-sm-12">
                             <div class="manage_banner d-flex content-align-between">
-                                <div class="col-md-4">
+                                <div class="col-md-4 col-sm-12">
                                     <div class="ex_team_item">
                         <img src="img/about_page/team/5.jpeg" alt="" style="width: 100%;" height="350">
                         <div class="team_content">
@@ -205,7 +205,7 @@ include"inc/navbar.php";
                     </div>
                                  </div>
 
-                                  <div class="col-md-8">
+                                  <div class="col-md-8 col-sm-12">
                                     <blockquote class="quote-box">
       <p class="quotation-mark">
         “
@@ -279,6 +279,148 @@ include"inc/navbar.php";
         </div>
     </div>
     <!-- / Director -->
+     <div class="multipol_manage_area director-team1">
+        <div class="shapes">
+            <div class="shap_1">
+                <img src="img/home_2/shape/l_big.svg" alt="">
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="manage_tabs">
+                    <ul class="nav " id="myTab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active show" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="false">
+                                <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <h4>Foundor & CEO</h4>
+                                    <p></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">
+                                <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <h4>Director & Shareholder</h4>
+                                    <p></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="true">
+                                <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <h4>Investor</h4>
+                                    <p></p>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade active show" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12">
+                            <div class="manage_banner content-align-between">
+                                <div class="col-md-4 col-sm-12">
+                                    <div class="ex_team_item">
+                        <img src="img/about_page/team/5.jpeg" alt="" style="width: 100%;" height="350">
+                        <div class="team_content">
+                            <a href="#">
+                                <h3 class="f_p f_size_16 f_900 t_color3">Abhishek Wani</h3>
+                            </a>
+                            <h5>Founder &amp; CEO</h5>
+                        </div>
+                        <div class="hover_content">
+                            <div class="n_hover_content">
+                                <ul class="list-unstyled">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                </ul>
+                                <div class="br"></div>
+                                <a href="#">
+                                    <h3 class="f_p f_size_16 f_600 w_color">Abhishek Wani</h3>
+                                </a>
+                                <h5>Founder &amp; CEO</h5>
+                            </div>
+                        </div>
+                    </div>
+                                 </div>
+
+                                  <div class="col-md-8 col-sm-12">
+                                    <blockquote class="quote-box">
+      <p class="quotation-mark">
+        “
+      </p>
+      <p class="quote-text">
+     If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.
+      </p>
+
+    </blockquote>
+                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                    <div class="row">
+                        <div class="col-lg-12">
+                               <div class="manage_banner content-align-between">
+                                <div class="col-md-4">
+                                    <div class="ex_team_item">
+                        <img src="img/about_page/team/director-akash.jpeg" alt="" style="width: 100%;" height="350">
+                        <div class="team_content">
+                            <a href="#">
+                                <h3 class="f_p f_size_16 f_600 t_color3">Akash Wani</h3>
+                            </a>
+                            <h5>Director &amp; Shareholder</h5>
+                        </div>
+                        <div class="hover_content">
+                            <div class="n_hover_content">
+                                <ul class="list-unstyled">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                </ul>
+                                <div class="br"></div>
+                                <a href="#">
+                                    <h3 class="f_p f_size_16 f_600 w_color">Akash Wani</h3>
+                                </a>
+                                <h5>Director &amp; Shareholder</h5>
+                            </div>
+                        </div>
+                    </div>
+                                 </div>
+
+                                  <div class="col-md-8">
+                                    <blockquote class="quote-box">
+      <p class="quotation-mark">
+        “
+      </p>
+      <p class="quote-text">
+     If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.
+      </p>
+
+    </blockquote>
+                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade " id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="manage_banner">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- team_area  -->
     <div class="team_area">
         <div class="container">

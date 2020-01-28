@@ -2,10 +2,7 @@
 include"inc/header.php";
 ?>
 <body>
-    <!--[if lte IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-        <![endif]-->
-    <!-- header_start -->
+
     <?php
 include"inc/navbar.php";
     ?>
@@ -38,7 +35,7 @@ include"inc/navbar.php";
                                     <div class="card-body">
                                     <div class="px-5 pt-3">
                                         <img src="img/logo/pletox.png" style="width: 150px;" class="pb-4">
-                                        <p style="width: 50%;">A business phone system that just works—from any device, anywhere.</p>
+                                        <p class="product-text">A business phone system that just works—from any device, anywhere.</p>
                                         <p style="color: #ed6123;">Explore More</p>
                                         </div>
                                     </div>
@@ -58,7 +55,7 @@ include"inc/navbar.php";
                              <div class="card-body">
                             <div class="px-5 pt-3">
                                 <img src="img/logo/enqubyte.png" style="width: 150px;" class="pb-4">
-                                <p style="width: 50%;">A business phone system that just works—from any device, anywhere.</p>
+                                <p class="product-text">A business phone system that just works—from any device, anywhere.</p>
                                 <p style="color: #ed6123;">Explore More</p>
                                 </div>
                             </div>
@@ -81,7 +78,7 @@ include"inc/navbar.php";
                                     <div class="card-body">
                                     <div class="px-5 pt-3">
                                         <img src="img/logo/desician.png" style="width: 150px;" class="pb-4">
-                                        <p style="width: 50%;">A business phone system that just works—from any device, anywhere.</p>
+                                        <p class="product-text">A business phone system that just works—from any device, anywhere.</p>
                                         <p style="color: #ed6123;">Explore More</p>
                                         </div>
                                     </div>
