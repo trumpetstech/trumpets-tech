@@ -55,6 +55,8 @@
                                                  </li>
                                             <li class="col-sm-3 text-center"></li>
                             </ul>
+                            <li><a href="http://blog.trumpets.co.in/">Blog</a></li>
+
                                 </nav>
                             </div>
                             <!-- main_menu_start  -->
