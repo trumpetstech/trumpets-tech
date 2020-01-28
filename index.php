@@ -56,7 +56,7 @@ include"inc/navbar.php";
 We’re not a reseller company, nor a consultant. Rather, we provide solutions related to Business Productivity Tools.</p>
                         <div class="site_link_form ">
 
-                            <button type="submit" class="btn btn-primary px-5 py-3 font-weight-bold mt-2">Check Out Our Tools</button>
+                            <button type="submit" class="btn btn-secondary px-5 py-3 font-weight-bold mt-2">Check Out Our Tools</button>
                            <!--  <form action="#" class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">
                                 <input name="text" placeholder="Enter your site link" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your site link'" required="" type="text">
                                 <input type="email"  placeholder="Enter email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email'" required="" >

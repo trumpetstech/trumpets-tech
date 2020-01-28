@@ -180,7 +180,7 @@ include"inc/navbar.php";
                             <div class="manage_banner d-flex content-align-between">
                                 <div class="col-md-4">
                                     <div class="ex_team_item">
-                        <img src="img/about_page/team/cto.jpg" alt="" style="width: 100%;" height="350">
+                        <img src="img/about_page/team/5.jpeg" alt="" style="width: 100%;" height="350">
                         <div class="team_content">
                             <a href="#">
                                 <h3 class="f_p f_size_16 f_900 t_color3">Abhishek Wani</h3>
@@ -285,15 +285,33 @@ include"inc/navbar.php";
             <div class="row">
                 <div class="col-xl-12">
                     <div class="section_title text-center mb-85 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-                        <h3>Support Team</h3>
+                        <h3>Our Team</h3>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xl-4 col-md-4">
+                <div class="col-xl-3 col-md-3">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                         <div class="team_thumb">
-                            <img src="img/about_page/team/1.jpg" alt="">
+                            <img src="img/about_page/team/4.jpeg" alt="">
+                            <div class="social_links">
+                                <ul>
+                                    <li><a href="#"> <i class="fa fa-facebook-official"></i> </a></li>
+                                    <li><a href="#"> <i class="fa fa-linkedin-square"></i> </a></li>
+                                    <li><a href="#"> <i class="fa fa-twitter "></i> </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="team_content text-center">
+                            <h3>Shubham Navarkar</h3>
+                            <p>Operation Manager</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-">
+                    <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
+                        <div class="team_thumb">
+                            <img src="img/about_page/team/1.jpeg" alt="">
                             <div class="social_links">
                                 <ul>
                                     <li><a href="#"> <i class="fa fa-facebook-official"></i> </a></li>
@@ -308,10 +326,10 @@ include"inc/navbar.php";
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-4">
+                <div class="col-xl-3 col-md-3">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                         <div class="team_thumb">
-                            <img src="img/about_page/team/senior-gd.jpg" alt="">
+                            <img src="img/about_page/team/2.jpeg" alt="">
                             <div class="social_links">
                                 <ul>
                                     <li><a href="#"> <i class="fa fa-facebook-official"></i> </a></li>
@@ -326,10 +344,10 @@ include"inc/navbar.php";
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-4">
+                <div class="col-xl-3 col-md-3">
                     <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                         <div class="team_thumb">
-                            <img src="img/about_page/team/junior-gd.jpg" alt="">
+                            <img src="img/about_page/team/3.jpeg" alt="">
                             <div class="social_links">
                                 <ul>
                                     <li><a href="#"> <i class="fa fa-facebook-official"></i> </a></li>
@@ -344,6 +362,7 @@ include"inc/navbar.php";
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
