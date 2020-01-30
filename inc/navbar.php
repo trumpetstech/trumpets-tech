@@ -74,7 +74,7 @@
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            <a href="#"><span>IT solutions</span></a>
+                                                            <a href="#"><span>Our Solutions</span></a>
                                                             <!-- <ul class="submenu">
                                                                 <li><a href="it-services.html"><span>IT Services</span></a></li>
                                                                 <li><a href="managed-it-services.html"><span>Managed IT Services</span></a></li>
