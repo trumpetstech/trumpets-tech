@@ -149,7 +149,7 @@ include"inc/navbar.php";
                         <li class="nav-item">
                             <a class="nav-link active show" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="false">
                                 <div class="single_manage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                    <h4>Foundor & CEO</h4>
+                                    <h4>Founder & CEO</h4>
                                     <p></p>
                                 </div>
                             </a>
