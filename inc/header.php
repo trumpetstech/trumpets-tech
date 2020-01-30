@@ -1,32 +1,30 @@
-<!doctype html>
+<!DOCTYPE html>
 <html class="no-js" lang="zxx">
 
 
 
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Trumpets Technologies Pvt. Ltd.</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Trumpets Technologies -  IT Solutions </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="icon" href="assets/img/logo/favicon.png">
 
-    <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/logo/favicon.png">
-    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS
+        ============================================ -->
 
-    <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/material-icons.css">
-    <link rel="stylesheet" href="css/nice-select.css">
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/slicknav.css">
-    <link rel="stylesheet" href="css/style.css">
 
-    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    <!-- Vendor & Plugins CSS (Please remove the comment from below vendor.min.css & plugins.min.css for better website load performance and remove css files from avobe) -->
+
+    <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
+    <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
+
+
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/style.min.css">
+
 </head>
 

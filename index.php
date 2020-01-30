@@ -4,716 +4,858 @@ include"inc/header.php";
 <body>
 
 <?php
+include"inc/preloader.php";
+?>
+
+
+
+    <!--====================  header area ====================-->
+<?php
 include"inc/navbar.php";
 ?>
-    <!-- header_end -->
-
-    <!-- banner_area_start -->
-    <div class="banner_area banner-img">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12  col-lg-12">
-                    <div class="banner_text text-center px-5">
-                        <span class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">Let's Get Down to Business</span>
-                        <h3 class="wow fadeInLeft mb-3" data-wow-duration="1s" data-wow-delay=".2s">We Build  <br>Business Productivity Tools</h3>
-                        <p>We, at Trumpets, provide Intuitive, feature-rich and affordable Productivity Tools for Enterprises.<br>
-We’re not a reseller company, nor a consultant. Rather, we provide solutions related to Business Productivity Tools.</p>
-                        <div class="site_link_form ">
-
-                            <button type="submit" class="btn btn-secondary px-5 py-3 font-weight-bold mt-2">Check Out Our Tools</button>
-                           <!--  <form action="#" class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">
-                                <input name="text" placeholder="Enter your site link" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your site link'" required="" type="text">
-                                <input type="email"  placeholder="Enter email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email'" required="" >
-                                <button type="submit">Check Now</button>
-                            </form> -->
+    <!--====================  End of header area  ====================-->
+ <div class="site-wrapper-reveal">
+        <!--============ Infotechno Hero Start ============-->
+        <div class="infotechno-hero infotechno-bg">
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <!--baseline-->
+                    <div class="col-lg-6 col-md-6">
+                        <div class="infotechno-hero-text  wow move-up">
+                            <h6>IT Design & Consulting </h6>
+                            <h1 class="font-weight--reguler mb-15">Facilitate All <br>  Local IT-related Service Providers  </h1>
+                                <p>Highly Tailored IT Design, Management & Support Services. </p>
+                                <div class="hero-button  mt-30">
+                                    <a href="#" class="ht-btn ht-btn-md">Get details</a>
+                                </div>
                         </div>
                     </div>
-                </div>
-
-            </div>
-        </div>
-       <!--  <div class="ilstrator_img_2 d-none d-lg-block">
-            <img src="img/banner/banner.png" alt="">
-        </div> -->
-    </div>
-
-    <!-- about_area_start -->
-    <div class="about_area">
-        <div class="big_instrator_image d-none d-lg-block">
-            <img src="img/ilastrator_img/big_ils_2.png" alt="">
-        </div>
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="about_thumb wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
-                        <img src="img/about/about.png" alt="">
-                        <a class="popup-video" href="https://www.youtube.com/watch?v=VwJNdjSPaNc">
-                            <i class="fa fa-play"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="about_info">
-                        <div class="section_title">
-                            <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">About Us</span>
-                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Short Introduction</h3>
-                            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Trumpets is a software company which started operation in 2014, situated at Nashik. The Company has been promoted by highly experienced professionals. We provide total IT solution under one roof.</p>
-                            <ul>
-                                <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">We introduce innovative tips and modern technologies into the company of customers.
-
-                                </li>
-                                <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">We have some of the most knowledgeable and experienced IT professionals that offer user-friendly customized solutions & applications.
-                                </li>
-                            </ul>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="infotechno-hero-inner-images">
+                            <div class="infotechno-inner-one">
+                                <img class="img-fluid" src="assets/images/hero/home-infotechno-main-slider-slide-01-image-01.png" alt="">
+                            </div>
+                            <div class="infotechno-inner-two  wow move-up">
+                                <img class="img-fluid" src="assets/images/hero/home-infotechno-main-slider-slide-01-image-02.png" alt="">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- about_area_end -->
-
-    <!-- banner_area_end -->
-    <div class="home-text">
-        <div class="container">
-           <div class="row">
-               <div class="col-md-6">
-                   <h1 class="main-heading">Voice. Contact Center. Ai.
-All in the cloud.</h1>
-               </div>
-               <div class="col-md-6">
-                   <p>Move your phone system, conferencing and call center to the cloud. Support your modern, mobile workers. Work from anywhere and let Ai make every call a smarter call.</p>
-               </div>
-           </div>
-        </div>
-    </div>
-<div class="features">
-    <div class="container">
-
-            <div class="row">
-                <div class="col-md-6">
-                   <a href="https://pletox.com" target="_blank">
-                    <div class="card first shadow-sm">
-                        <div class="card-body">
-                            <div class="px-5 pt-3">
-                                <img src="img/logo/pletox.png" style="width: 150px;" class="pb-4">
-                                <p class="features-card">A business phone system that just works—from any device, anywhere.</p>
-                                <p style="color: #ed6123;">Explore More</p>
+        <!--============ Infotechno Hero End ============-->
+        <!--====================  brand logo slider area ====================-->
+        <div class="brand-logo-slider-area section-space--ptb_60">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- brand logo slider -->
+                        <div class="brand-logo-slider__container-area">
+                            <div class="swiper-container brand-logo-slider__container">
+                                <div class="swiper-wrapper brand-logo-slider__one">
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/img/logo/onyomark.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/img/logo/onyomark.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/img/logo/thakkar.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/img/logo/thakkar.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/img/logo/surya.jpg" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/img/logo/surya.jpg" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/img/logo/yogesh-electronic.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/img/logo/yogesh-electronic.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/img/logo/cheminova.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/img/logo/cheminova.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/images/brand/mitech-client-logo-06.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/images/brand/mitech-client-logo-06-hover.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/images/brand/mitech-client-logo-07.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/images/brand/mitech-client-logo-07-hover.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/images/brand/mitech-client-logo-08.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/images/brand/mitech-client-logo-08-hover.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/images/brand/mitech-client-logo-09.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/images/brand/mitech-client-logo-09-hover.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </a>
-                    </div>
-
-                <div class="col-md-6 mt-5 pt-5 pl-4 features-card" >
-                      <a href="https://enqubyte.trumpets.co.in" target="_blank">
-                        <div class="card two shadow-sm">
-                        <div class="card-body">
-                            <div class="px-5 pt-3">
-                                <img src="img/logo/enqubyte.png" style="width: 150px;" class="pb-4">
-                                <p class="product-text">A business phone system that just works—from any device, anywhere.</p>
-                                <a href="#"><p style="color: #ed6123;">Explore More</p></a>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                    </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 mt-5 mx-auto">
-                      <a href="https://www.freepik.com/user15168847" target="_blank">
-                        <div class="card three shadow-sm">
-                        <div class="card-body">
-                            <div class="px-5 pt-3">
-                                <img src="img/logo/desician.png" style="width: 150px;" class="pb-4">
-                                <p class="product-text">A business phone system that just works—from any device, anywhere.</p>
-                                <a href="#"><p style="color: #ed6123;">Explore More</p></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-            </div>
-    </div>
-
-</div>
-
-    <!-- features_area_start -->
-   <div class="brand_area_2 mt-5">
-        <!-- <div class="circle_shape">
-            <img src="img/home_2/shape/circle.svg" alt="">
-        </div> -->
-        <div class="container">
-            <div class="row justify-content-center mb-90">
-                <div class="col-lg-7">
-                    <div class="section_title_2 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeInUp;">
-                        <h3><span></span> Our Satisfied Clients <br>
-                           </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand_wrap">
-                        <div class="single_brand wow fadeInUp " data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeInUp;">
-                            <img src="img/logo/onyomark.png" alt="" class="client-logo">
-                        </div>
-                        <div class="single_brand wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                            <img src="img/logo/yogesh-electronic.png" alt="" class="client-logo">
-                        </div>
-                        <div class="single_brand wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                            <img src="img/logo/surya.jpg" alt="" class="client-logo">
-                        </div>
-                        <div class="single_brand wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;">
-                            <img src="img/logo/cheminova.png" alt="" class="" style="width: 120px;">
-                        </div>
-                        <div class="single_brand wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
-                            <img src="img/logo/thakkar.png" alt="" class="" style="width: 120px;">
-                        </div>
-
                     </div>
                 </div>
             </div>
         </div>
-    </div> <!-- features_area_end -->
+        <!--====================  End of brand logo slider area  ====================-->
+        <!--===========  feature-images-wrapper  Start =============-->
+        <div class="feature-images-wrapper bg-gray section-space--ptb_100">
+            <div class="container">
 
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- section-title-wrap Start -->
+                        <div class="section-title-wrap text-center">
+                            <h6 class="section-sub-title mb-20">Our services</h6>
+                            <h3 class="heading">For your very specific industry, <br> we have <span class="text-color-primary"> highly-tailored IT solutions.</span></h3>
+                        </div>
+                        <!-- section-title-wrap Start -->
+                    </div>
+                </div>
 
-    <!-- service_area_start -->
-    <!-- <div class="service_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-85">
-                        <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Services We Offer</span>
-                        <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Results driven Marketing <br>
-                            Brand Strategy & Web Development.</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-3 col-lg-6 col-md-6">
-                    <div class="single_service text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-                        <div class="service_icon">
-                            <img src="img/icon/1.png" alt="">
-                        </div>
-                        <h3>SEO/PPC</h3>
-                        <p>Reprehenderit in voluptate esse cillum dolore fugiat nulla</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6">
-                    <div class="single_service text-center green wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                        <div class="service_icon">
-                            <img src="img/icon/2.png" alt="">
-                        </div>
-                        <h3>Design</h3>
-                        <p>Reprehenderit in voluptate esse cillum dolore fugiat nulla</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6">
-                    <div class="single_service text-center violate wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                        <div class="service_icon">
-                            <img src="img/icon/3.png" alt="">
-                        </div>
-                        <h3>Development</h3>
-                        <p>Reprehenderit in voluptate esse cillum dolore fugiat nulla</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6">
-                    <div class="single_service text-center orange wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                        <div class="service_icon">
-                            <img src="img/icon/4.png" alt="">
-                        </div>
-                        <h3>Ecommerce</h3>
-                        <p>Reprehenderit in voluptate esse cillum dolore fugiat nulla</p>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-     --><!-- service_area_end-->
-
-    <!-- case_study_area_start -->
-    <!-- <div class="case_study_area">
-        <div class="case_study_bg d-none d-lg-block">
-            <img src="img/ilastrator_img/case_study.png" alt="">
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title mb-85">
-                        <span class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">Case Study</span>
-                        <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">Visit Some of Our <br> Remarkable
-                            Solutions</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid p-0">
-            <div class="row no-gutters">
-                <div class="case_actove owl-carousel">
-                    <div class="single-case wow fadeInUp" data-wow-duration="1s" data-wow-delay=".0s">
-                        <div class="case_thumb">
-                            <img src="img/study/1.png" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="case_heading">
-                                <a href="case_study_details.html">
-                                    <h3>Planning & Marketing Strategy <br>
-                                        for MOC Business</h3>
-                                </a>
-                            </div>
-                            <div class="list">
-                                <ul>
-                                    <li>- 200% Increased Total Site Traffic.</li>
-                                    <li>- 340% Organic Search Traffic.</li>
-                                    <li>- 80% Referral Traffic</li>
-                                </ul>
-                            </div>
-                            <div class="button">
-                                <a href="case_study_details.html" class="line_btn">View Case</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="single-case wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-                        <div class="case_thumb">
-                            <img src="img/study/2.png" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="case_heading">
-                                <a href="case_study_details.html">
-                                    <h3>Branding & Identity for <br>
-                                        COL Business</h3>
-                                </a>
-                            </div>
-                            <div class="list">
-                                <ul>
-                                    <li>- 200% Increased Total Site Traffic.</li>
-                                    <li>- 340% Organic Search Traffic.</li>
-                                    <li>- 80% Referral Traffic</li>
-                                </ul>
-                            </div>
-                            <div class="button">
-                                <a href="case_study_details.html" class="line_btn">View Case</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="single-case wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                        <div class="case_thumb">
-                            <img src="img/study/3.png" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="case_heading">
-                                <a href="case_study_details.html">
-                                    <h3>Ecommerce Sale Increase from <br>
-                                        Startup Shop</h3>
-                                </a>
-                            </div>
-                            <div class="list">
-                                <ul>
-                                    <li>- 200% Increased Total Site Traffic.</li>
-                                    <li>- 340% Organic Search Traffic.</li>
-                                    <li>- 80% Referral Traffic</li>
-                                </ul>
-                            </div>
-                            <div class="button">
-                                <a href="case_study_details.html" class="line_btn">View Case</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="single-case wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                        <div class="case_thumb">
-                            <img src="img/study/4.png" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="case_heading">
-                                <a href="case_study_details.html">
-                                    <h3>Web Development for Creative <br>
-                                        Brand </h3>
-                                </a>
-                            </div>
-                            <div class="list">
-                                <ul>
-                                    <li>- 200% Increased Total Site Traffic.</li>
-                                    <li>- 340% Organic Search Traffic.</li>
-                                    <li>- 80% Referral Traffic</li>
-                                </ul>
-                            </div>
-                            <div class="button">
-                                <a href="case_study_details.html" class="line_btn">View Case</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="single-case wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                        <div class="case_thumb">
-                            <img src="img/study/5.png" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="case_heading">
-                                <a href="case_study_details.html">
-                                    <h3>Planning & Marketing Strategy <br>
-                                        for MOC Business</h3>
-                                </a>
-                            </div>
-                            <div class="list">
-                                <ul>
-                                    <li>- 200% Increased Total Site Traffic.</li>
-                                    <li>- 340% Organic Search Traffic.</li>
-                                    <li>- 80% Referral Traffic</li>
-                                </ul>
-                            </div>
-                            <div class="button">
-                                <a href="case_study_details.html" class="line_btn">View Case</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="single-case wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                        <div class="case_thumb">
-                            <img src="img/study/2.png" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="case_heading">
-                                <a href="case_study_details.html">
-                                    <h3>Branding & Identity for <br>
-                                        COL Business</h3>
-                                </a>
-                            </div>
-                            <div class="list">
-                                <ul>
-                                    <li>- 200% Increased Total Site Traffic.</li>
-                                    <li>- 340% Organic Search Traffic.</li>
-                                    <li>- 80% Referral Traffic</li>
-                                </ul>
-                            </div>
-                            <div class="button">
-                                <a href="case_study_details.html" class="line_btn">View Case</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="single-case wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                        <div class="case_thumb">
-                            <img src="img/study/3.png" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="case_heading">
-                                <a href="case_study_details.html">
-                                    <h3>Ecommerce Sale Increase from <br>
-                                        Startup Shop</h3>
-                                </a>
-                            </div>
-                            <div class="list">
-                                <ul>
-                                    <li>- 200% Increased Total Site Traffic.</li>
-                                    <li>- 340% Organic Search Traffic.</li>
-                                    <li>- 80% Referral Traffic</li>
-                                </ul>
-                            </div>
-                            <div class="button">
-                                <a href="case_study_details.html" class="line_btn">View Case</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="single-case wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
-                        <div class="case_thumb">
-                            <img src="img/study/1.png" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="case_heading">
-                                <a href="case_study_details.html">
-                                    <h3>Web Development for Creative <br>
-                                        Brand </h3>
-                                </a>
-                            </div>
-                            <div class="list">
-                                <ul>
-                                    <li>- 200% Increased Total Site Traffic.</li>
-                                    <li>- 340% Organic Search Traffic.</li>
-                                    <li>- 80% Referral Traffic</li>
-                                </ul>
-                            </div>
-                            <div class="button">
-                                <a href="case_study_details.html" class="line_btn">View Case</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-     --><!-- case_study_area_end -->
-
-    <!-- chose_area_start -->
-  <!--   <div class="chose_area">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-7 col-lg-6 col-md-6">
-                    <div class="chose_img wow bounce" data-wow-duration="2s" data-wow-delay=".2s">
-                        <img src="img/chose/1.png" alt="">
-                        <div class="animated_small_img">
-                            <div class="animated_img_1 amination_custom10 ">
-                                <img src="img/ilastrator_img/star.png" alt="">
-                            </div>
-                            <div class="animated_img_2 amination_custom11">
-                                <img src="img/ilastrator_img/traiange.png" alt="">
-                            </div>
-                            <div class="animated_img_3 amination_custom3">
-                                <img src="img/ilastrator_img/round.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-5 col-lg-6 col-md-6">
-                    <div class="chose_info">
-                        <div class="section_title">
-                            <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Why Choose Us</span>
-                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">How Saasco Start <br>
-                                    your Business Growth.</h3>
-                        </div>
-                        <div class="chose_list">
-                            <ul>
-                                <li class="d-flex wow fadeInRight" data-wow-duration="1s" data-wow-delay=".1s">
-                                    <div class="chose_mark">
-                                        <span class="red">01</span>
-                                    </div>
-                                    <div class="chose_text">
-                                        <h3>100% white hat method.</h3>
-                                        <p>Reprehenderit in voluptate esse cillum dolore fugiat nulla pariatur.</p>
-                                    </div>
-                                </li>
-                                <li class="d-flex wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s">
-                                    <div class="chose_mark">
-                                        <span class="green">02</span>
-                                    </div>
-                                    <div class="chose_text">
-                                        <h3>Clear and concise reporting.</h3>
-                                        <p>Reprehenderit in voluptate esse cillum dolore fugiat nulla pariatur.</p>
-                                    </div>
-                                </li>
-                                <li class="d-flex wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
-                                    <div class="chose_mark">
-                                        <span class="violate">03</span>
-                                    </div>
-                                    <div class="chose_text">
-                                        <h3>Dedicated account manager.</h3>
-                                        <p>Reprehenderit in voluptate esse cillum dolore fugiat nulla pariatur.</p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- chose_area_end -->
-
-    <!-- testmonial_area_start -->
-    <div class="testmonial_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="testimonial_left">
-                            <div class="section_title mb-65">
-                                    <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">What our Customer Says</span>
-                                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">See Our Clients Word <br>
-                                            What they Say</h3>
-                                </div>
-                        <a href="#" class="boxed_btn wow fadeInUp btn-secondary" data-wow-duration="1s" data-wow-delay=".3s">More Stories</a>
-                    </div>
-                </div>
-                <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-6">
-                    <div class="testmonial_active owl-carousel">
-                            <div class="testmonial_review">
-                                    <div class="author d-flex align-items-center">
-                                        <!-- <div class="thumb">
-                                            <img src="img/testmonial/1.png" alt="">
-                                        </div> -->
-                                        <div class="author_name">
-                                            <h4>Karan Patil</h4>
-                                            <span>Cheminova Agro Pvt. Ltd</span>
-                                        </div>
-                                    </div>
-                                    <p>Platforms provided by Trumpets have made our industry's output to a more better entext and have simplied a lot of our process.</p>
-                                </div>
-                            <div class="testmonial_review">
-                                    <div class="author d-flex align-items-center">
-                                        <!-- <div class="thumb">
-                                            <img src="img/testmonial/1.png" alt="">
-                                        </div> -->
-                                        <div class="author_name">
-                                            <h4>Gaurav Pangahvane</h4>
-                                            <span>Bhrama Valley</span>
-                                        </div>
-                                    </div>
-                                    <p>We needed a minimal solution to manage our grocery inventory and Invento from Trumpets got to be the perfect choice.</p>
-                                </div>
-                            <div class="testmonial_review">
-                                    <div class="author d-flex align-items-center">
-                                       <!--  <div class="thumb">
-                                            <img src="img/testmonial/1.png" alt="">
-                                        </div> -->
-                                        <div class="author_name">
-                                            <h4>Shekhar Bam</h4>
-                                            <span>Surya Group</span>
-                                        </div>
-                                    </div>
-                                    <p>Enqubyte has eleminated a lot of our manual and paperwork and has brought up a huge impact on our company workflow.</p>
-                                </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- testmonial_area_end -->
-
-    <!-- counter_area_start -->
-   <!--  <div class="counter_area">
-        <div class="couner_ilstrator_bg d-none d-lg-block">
-            <img src="img/ilastrator_img/big_ils_2.png" alt="">
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4">
-                    <div class="single_counter wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                        <div class="counter_icon">
-                            <img src="img/icon/5.png" alt="">
-                        </div>
-                        <h3><span class="counter" >35467</span><span>+</span></h3>
-                        <span class="conter_subtitle">Happy Client</span>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-4">
-                    <div class="single_counter wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                        <div class="counter_icon">
-                            <img src="img/icon/6.png" alt="">
-                        </div>
-                        <h3><span class="counter">6374</span><span>+</span></h3>
-                        <span class="conter_subtitle">Daily Message</span>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-4">
-                    <div class="single_counter wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                        <div class="counter_icon">
-                            <img src="img/icon/7.png" alt="">
-                        </div>
-                        <h3><span class="counter">20</span><span>+</span></h3>
-                        <span class="conter_subtitle">Countries We Serve</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- counter_area_end -->
-
-    <!-- news_area_start -->
-    <div class="news_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-85">
-                        <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Latest News</span>
-                        <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Visit Our Company Insights to <br>
-                                Know More.</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single_news wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                        <div class="news_thumb">
-                            <a href="blog_details.html">
-                                <img src="img/news/1.png" alt="">
-                            </a>
-                        </div>
-                        <div class="news_content">
-                            <h3><a href="blog_details.html">Top Tips For Optimizing <br>
-                                    E-Commerce Website Speed</a></h3>
-                            <p>Posted on 12 June 2019</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single_news wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                        <div class="news_thumb">
-                            <a href="blog_details.html">
-                                <img src="img/news/2.png" alt="">
-                            </a>
-                        </div>
-                        <div class="news_content">
-                            <h3><a href="blog_details.html">Avoid Unnecessary Competition <br>
-                                    To Overcome Local PPC </a></h3>
-                            <p>Posted on 12 June 2019</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single_news wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                        <div class="news_thumb">
-                            <a href="blog_details.html">
-                                <img src="img/news/3.png" alt="">
-                            </a>
-                        </div>
-                        <div class="news_content">
-                            <h3><a href="blog_details.html">Your Questions for SEO and <br>
-                                    We Answered</a></h3>
-                            <p>Posted on 12 June 2019</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- news_area_end -->
-
-    <!-- contact_area_start  -->
-    <!-- <div class="contact_area">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-5 col-lg-6 col-md-6">
-                    <div class="contact_form_info ">
-                        <div class="section_title mb-85">
-                            <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Get an Estimate</span>
-                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Are you Ready to Take <br>
-                                    your Business to Top?</h3>
-                        </div>
-                        <form action="#" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="feature-images__one">
                             <div class="row">
-                                <div class="col-xl-6">
-                                    <input name="text" placeholder="Your name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your name'" required="" type="text">
-                                </div>
-                                <div class="col-xl-6">
-                                    <input name="EMAIL" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" required="" type="email">
-                                </div>
-                                <div class="col-xl-12">
-                                        <input name="Website" placeholder="Website" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Website'" required="" type="text">
-                                </div>
-                                <div class="col-xl-12">
-                                    <textarea placeholder="Your Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Message'" required=""></textarea>
 
+                                <div class="col-lg-4 col-md-6 wow move-up">
+                                    <!-- ht-box-icon Start -->
+                                    <div class="ht-box-images style-01">
+                                        <div class="image-box-wrap">
+                                            <div class="box-image">
+                                                <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-01-image-01-100x108.png" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h5 class="heading">IT Design </h5>
+                                                <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
+                                                </div>
+                                                <div class="circle-arrow">
+                                                    <div class="middle-dot"></div>
+                                                    <div class="middle-dot dot-2"></div>
+                                                    <a href="#">
+                                                        <i class="far fa-long-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- ht-box-icon End -->
                                 </div>
-                                <div class="col-xl-12">
-                                        <button class="boxed_btn" type="submit" >Submit</button>
+
+                                <div class="col-lg-4 col-md-6 wow move-up">
+                                    <!-- ht-box-icon Start -->
+                                    <div class="ht-box-images style-01">
+                                        <div class="image-box-wrap">
+                                            <div class="box-image">
+                                                <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-01-image-02-100x108.png" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h5 class="heading">IT Management</h5>
+                                                <div class="text">It’s possible to simultaneously manage and transform information from one server to another.
+                                                </div>
+                                                <div class="circle-arrow">
+                                                    <div class="middle-dot"></div>
+                                                    <div class="middle-dot dot-2"></div>
+                                                    <a href="#">
+                                                        <i class="far fa-long-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- ht-box-icon End -->
                                 </div>
+
+                                <div class="col-lg-4 col-md-6 wow move-up">
+                                    <!-- ht-box-icon Start -->
+                                    <div class="ht-box-images style-01">
+                                        <div class="image-box-wrap">
+                                            <div class="box-image">
+                                                <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-01-image-03-100x108.png" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h5 class="heading">Data Security</h5>
+                                                <div class="text">Back up your database, store in a safe and secure place while still maintaining its accessibility.
+                                                </div>
+                                                <div class="circle-arrow">
+                                                    <div class="middle-dot"></div>
+                                                    <div class="middle-dot dot-2"></div>
+                                                    <a href="#">
+                                                        <i class="far fa-long-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- ht-box-icon End -->
+                                </div>
+
                             </div>
-                        </form>
+                        </div>
+
+                        <div class="section-under-heading text-center section-space--mt_60 section-space--pt_30">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+
                     </div>
                 </div>
-                <div class="col-xl-6 offset-xl-1 col-lg-5 offset-lg-1 col-md-6">
-                    <div class="contact_thumb wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s">
-                        <div class="thumb_inner">
-                            <img src="img/contact/contact.jpg" alt="">
+            </div>
+        </div>
+        <!--===========  feature-images-wrapper  End =============-->
+
+        <!-- ============ Our Experience Wrapper Start =============== -->
+        <div class="section-space--ptb_100 infotechno-section-bg-01">
+
+            <div class="our-experience-wrapper">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-5">
+                            <div class="section-title small-mb__40 tablet-mb__40">
+                                <h6 class="section-sub-title mb-20">Our company</h6>
+                                <h3 class="heading">We’ve been thriving in <span class="text-color-primary">38 years</span></h3>
+                                <p class="text mt-20">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
+
+                                <div class="sider-title-button-box mt-30">
+                                    <a href="#" class="ht-btn ht-btn-md">Join us now</a>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-5 ml-auto">
+                            <div class="ht-list style-auto-numbered-02">
+                                <div class="list-item">
+                                    <a class="link" href="#">
+                                        <div class="list-header">
+                                            <div class="marker">
+                                                01
+                                            </div>
+                                            <div class="title-wrap">
+                                                <h6 class="title">How we can help your business? </h6>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="list-item">
+                                    <a class="link" href="#">
+                                        <div class="list-header">
+                                            <div class="marker">
+                                                02
+                                            </div>
+                                            <div class="title-wrap">
+                                                <h6 class="title">Why become our partner? </h6>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="list-item">
+                                    <a class="link" href="#">
+                                        <div class="list-header">
+                                            <div class="marker"> 03</div>
+                                            <div class="title-wrap">
+                                                <h6 class="title"> What are the best of Mitech? </h6>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--===========  feature-large-images-wrapper  Start =============-->
+            <div class="feature-large-images-wrapper section-space--pt_100">
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_30">
+                                <h6 class="section-sub-title mb-20">Hire us, why not?</h6>
+                                <h3 class="heading">How we claim to <span class="text-color-primary"> excel?</span></h3>
+                            </div>
+                            <!-- section-title-wrap Start -->
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="row row--35">
+
+                                <div class="col-lg-4 col-md-6 mt-30">
+                                    <!-- Box large image warap Start -->
+                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                        <div class="box-large-image__box">
+                                            <div class="box-large-image__midea">
+                                                <div class="images-midea">
+                                                    <img src="assets/images/box-image/blog-01-330x330.jpg" class="img-fluid" alt="">
+
+                                                    <div class="button-wrapper">
+                                                        <div class="btn tm-button">
+                                                            <span class="button-text">Learn more</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="heading-wrap">
+                                                        <h5 class="heading">Mitech Management Systems</h5>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                            <div class="box-large-image__content mt-30 text-center">
+                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Box large image warap End -->
+                                </div>
+
+                                <div class="col-lg-4 col-md-6  mt-30">
+                                    <!-- Box large image warap Start -->
+                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                        <div class="box-large-image__box">
+                                            <div class="box-large-image__midea">
+                                                <div class="images-midea">
+                                                    <img src="assets/images/box-image/mitech-home-infotechno-box-large-image-02-330x330.jpg" class="img-fluid" alt="">
+
+                                                    <div class="button-wrapper">
+                                                        <div class="btn tm-button">
+                                                            <span class="button-text">Learn more</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="heading-wrap">
+                                                        <h5 class="heading">Efficient Database Security </h5>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                            <div class="box-large-image__content mt-30 text-center">
+                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Box large image warap End -->
+                                </div>
+
+
+                                <div class="col-lg-4 col-md-6  mt-30">
+                                    <!-- Box large image warap Start -->
+                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                        <div class="box-large-image__box">
+                                            <div class="box-large-image__midea">
+                                                <div class="images-midea">
+                                                    <img src="assets/images/box-image/mitech-home-infotechno-box-large-image-03-330x330.jpg" class="img-fluid" alt="">
+
+                                                    <div class="button-wrapper">
+                                                        <div class="btn tm-button">
+                                                            <span class="button-text">Learn more</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="heading-wrap">
+                                                        <h5 class="heading">Reliable Multi-function Technology</h5>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                            <div class="box-large-image__content mt-40 text-center">
+                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Box large image warap End -->
+                                </div>
+                            </div>
+
+                            <div class="section-under-heading text-center section-space--mt_40"><a href="#">Learn more about how we work span <i class="ml-1 button-icon far fa-long-arrow-right"></i></a></div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--===========  feature-large-images-wrapper  End =============-->
+
+
+        </div>
+        <!-- ============ Our Experience Wrapper End =============== -->
+        <!--=========== fun fact Wrapper Start ==========-->
+        <div class="fun-fact-wrapper">
+            <div class="container">
+                <div class="fun-fact-grid-4">
+                    <div class="grid-item  wow move-up">
+                        <div class="fun-fact--one text-center">
+                            <h5 class="fun-fact__title">Successfully work <br> with </h5>
+                                <div class="fun-fact__count counter">1056</div>
+                                <span class="fun-fact__text">HAPPY CLIENTS</span>
+                        </div>
+                    </div>
+                    <div class="grid-item  wow move-up">
+                        <div class="fun-fact--one text-center">
+                            <h5 class="fun-fact__title">Successfully <br> completed</h5>
+                                <div class="fun-fact__count counter">491</div>
+                                <span class="fun-fact__text">Finished projects</span>
+                        </div>
+                    </div>
+                    <div class="grid-item  wow move-up">
+                        <div class="fun-fact--one text-center">
+                            <h5 class="fun-fact__title">Recruit more <br> than</h5>
+                                <div class="fun-fact__count counter">245</div>
+                                <span class="fun-fact__text">SKilled Experts</span>
+                        </div>
+                    </div>
+                    <div class="grid-item  wow move-up">
+                        <div class="fun-fact--one text-center">
+                            <h5 class="fun-fact__title">Blog <br> update </h5>
+                                <div class="fun-fact__count counter">1090</div>
+                                <span class="fun-fact__text">Media Posts</span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
-    <!-- contact_area_end -->
+        <!--=========== fun fact Wrapper End ==========-->
+        <!--=========== Infotechno Video Wrapper Start ==========-->
+        <div class="infotechno-video-wrapper infotechno-video-ptb infotechno-video-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-10 col-11 ml-auto">
+                        <div class="video-content-wrap">
+                            <div class="vieeo-content-inner">
+                                <h2 class="heading">Share the joy of achieving glorious moments<br>&amp; climbing up the top.</h2>
 
-<?php
-include"inc/cta.php";
-?>
+                                    <div class="viewo-text-wrap">
+                                        <div class="video-popup infotech-video-box">
+                                            <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="single-popup-wrap video-link">
+                                                <div class="video-content">
+                                                    <div class="ht-popup-video video-button">
+                                                        <div class="video-mark">
+                                                            <div class="wave-pulse wave-pulse-1"></div>
+                                                            <div class="wave-pulse wave-pulse-2"></div>
+                                                        </div>
+                                                        <div class="video-button__two">
+                                                            <div class="video-play">
+                                                                <span class="video-play-icon"></span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="video-text">
+                                                        Watch video<br>intro
+                                        </div>
+                                                    </div>
+                                            </a>
+                                        </div>
 
-    <?php
+                                    </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--=========== Infotechno Video Wrapper End ==========-->
+        <!--===========  Projects wrapper Start =============-->
+        <div class="projects-wrapper projectinfotechno-bg section-space--ptb_100">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- section-title-wrap Start -->
+                        <div class="section-title-wrap text-center section-space--mb_40">
+                            <h6 class="section-sub-title mb-20">Case studies</h6>
+                            <h3 class="heading">Proud projects that<span class="text-color-primary">  make us stand out</span></h3>
+                        </div>
+                        <!-- section-title-wrap Start -->
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12">
+                        <div class="projects-wrap swiper-container projects-slider__container">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image">
+                                                <img class="img-fluid" src="assets/images/projects/case-study-01-480x298.jpg" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Mitech-Smart Vision</h6>
+                                                <div class="post-categories">Cyber Security</div>
+                                                <div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image">
+                                                <img class="img-fluid" src="assets/images/projects/case-study-02-480x298.jpg" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Arden-Internal Networking</h6>
+                                                <div class="post-categories">Cyber Security</div>
+                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image">
+                                                <img class="img-fluid" src="assets/images/projects/case-study-03-480x298.jpg" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">A Freeserve case study</h6>
+                                                <div class="post-categories">Cyber Security</div>
+                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image">
+                                                <img class="img-fluid" src="assets/images/projects/case-study-04-480x298.jpg" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Aqua – Research and Energy</h6>
+                                                <div class="post-categories">Cyber Security</div>
+                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                            </div>
+                            <div class="swiper-pagination swiper-pagination-project mt_20"></div>
+                        </div>
+
+                        <div class="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--===========  Projects wrapper End =============-->
+
+        <!--====================  testimonial section ====================-->
+        <div class="testimonial-slider-area section-space--ptb_120 bg-gray-3">
+            <div class="container-fluid container-fluid--cp-80">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title-wrap text-center section-space--mb_60">
+                            <h6 class="section-sub-title mb-20">Testimonials</h6>
+                            <h3 class="heading">Why do people praise about<span class="text-color-primary"> Mitech?</span></h3>
+                        </div>
+                        <div class="testimonial-slider">
+                            <div class="swiper-container testimonial-slider__container-two">
+                                <div class="swiper-wrapper testimonial-slider__wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-slider__single wow move-up">
+                                            <h6 class="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
+                                            <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. Their popularity and reputation are just evident. </div>
+                                            <div class="author-info">
+                                                <div class="testimonial-slider__media">
+                                                    <img src="assets/images/testimonial/mitech-testimonial-avata-04-70x70.jpg" class="img-fluid" alt="">
+                                                </div>
+                                                <div class="testimonial-slider__author">
+                                                    <h6 class="name">Maggie Strickland</h6>
+                                                    <span class="designation">WEB DESIGNER</span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-slider__single wow move-up">
+                                            <h6 class="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
+                                            <div class="testimonial-slider__text">I discovered @Mitech services by chance on the Internet to find a suitable IT services provider. This must be fate, not an accident at all.</div>
+                                            <div class="author-info">
+                                                <div class="testimonial-slider__media">
+                                                    <img src="assets/images/testimonial/mitech-testimonial-avata-02-70x70.jpg" class="img-fluid" alt="">
+                                                </div>
+                                                <div class="testimonial-slider__author">
+                                                    <h6 class="name">Robert Amplilian</h6>
+                                                    <span class="designation">Marketing</span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-slider__single wow move-up">
+                                            <h6 class="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
+                                            <div class="testimonial-slider__text">IT service is not an easy path to follow. But these guys can make it to the top with premium services and dedicated customer support.</div>
+                                            <div class="author-info">
+                                                <div class="testimonial-slider__media">
+                                                    <img src="assets/images/testimonial/mitech-testimonial-avata-01-70x70.jpg" class="img-fluid" alt="">
+                                                </div>
+                                                <div class="testimonial-slider__author">
+                                                    <h6 class="name">Stephen Mearsley</h6>
+                                                    <span class="designation">PR Officer</span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-slider__single wow move-up">
+                                            <h6 class="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
+                                            <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. Their popularity and reputation are just evident. </div>
+                                            <div class="author-info">
+                                                <div class="testimonial-slider__media">
+                                                    <img src="assets/images/testimonial/mitech-testimonial-avata-03-70x70.jpg" class="img-fluid" alt="">
+                                                </div>
+                                                <div class="testimonial-slider__author">
+                                                    <h6 class="name">Monica Blews</h6>
+                                                    <span class="designation">PR Officer</span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-pagination swiper-pagination-t0 section-space--mt_40"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--====================  End of testimonial section  ====================-->
+
+
+        <!--====================  Blog Section Start ====================-->
+        <div class="blog-section-wrapper section-space--pt_100  section-space--pb_70">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-12 wow move-up">
+
+                        <div class="section-title tablet-mb__60 section-space--mb_30 tablet-mt__0 small-mt__0 small-mb__60 mt-30">
+                            <h6 class="section-sub-title mb-20">Blogs & news</h6>
+                            <h3 class="heading">Interesting articles<span class="text-color-primary"> updated daily</span></h3>
+                            <ul class="infotechno-blog-list mt-30">
+                                <li>
+                                    <a href="#">Ideas for High Returns on Investment</a>
+                                </li>
+                                <li>
+                                    <a href="#">How Technology Made Businesses More Efficient</a>
+                                </li>
+                                <li>
+                                    <a href="#">Data Secure on Transitioning to a New Office</a>
+                                </li>
+                                <li>
+                                    <a href="#">The Keys to Persuading Customers Nowadays</a>
+                                </li>
+                                <li>
+                                    <a href="#">Blockchain Technology Effects on Logistics Sector?</a>
+                                </li>
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 wow move-up">
+                        <!--======= Single Blog Item Start ========-->
+                        <div class="single-blog-item blog-grid">
+                            <!-- Post Feature Start -->
+                            <div class="post-feature blog-thumbnail">
+                                <a href="blog-post-layout-one.html">
+                                    <img class="img-fluid" src="assets/images/blog/blog-03-370x230.jpg" alt="Blog Images">
+                                </a>
+                            </div>
+                            <!-- Post Feature End -->
+
+                            <!-- Post info Start -->
+                            <div class="post-info lg-blog-post-info">
+                                <div class="post-meta">
+                                    <div class="post-date">
+                                        <span class="far fa-calendar meta-icon"></span>
+                                        February 28, 2019
+                                    </div>
+                                </div>
+
+                                <h5 class="post-title font-weight--bold">
+                                    <a href="#">5 Ways Technology Has Improved Business Today</a>
+                                </h5>
+
+                                <div class="post-excerpt mt-15">
+                                    <p>They play a role in making operations more seamless, bridging the gap between authorities, consumers and businesses. …</p>
+                                </div>
+                                <div class="btn-text">
+                                    <a href="#">Read more <i class="ml-1 button-icon far fa-long-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <!-- Post info End -->
+                        </div>
+                        <!--===== Single Blog Item End =========-->
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 wow move-up">
+                        <!--======= Single Blog Item Start ========-->
+                        <div class="single-blog-item blog-grid">
+                            <!-- Post Feature Start -->
+                            <div class="post-feature blog-thumbnail">
+                                <a href="blog-post-layout-one.html">
+                                    <img class="img-fluid" src="assets/images/blog/blog-02-370x230.jpg" alt="Blog Images">
+                                </a>
+                            </div>
+                            <!-- Post Feature End -->
+
+                            <!-- Post info Start -->
+                            <div class="post-info lg-blog-post-info">
+                                <div class="post-meta">
+                                    <div class="post-date">
+                                        <span class="far fa-calendar meta-icon"></span>
+                                        February 28, 2019
+                                    </div>
+                                </div>
+
+                                <h5 class="post-title font-weight--bold">
+                                    <a href="#">How Wireless Technology is Changing Business</a>
+                                </h5>
+
+                                <div class="post-excerpt mt-15">
+                                    <p>It is far wiser to do your own installations and ensure that all data flowing through the organization has end-to-end encryption. …</p>
+                                </div>
+                                <div class="btn-text">
+                                    <a href="#">Read more <i class="ml-1 button-icon far fa-long-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <!-- Post info End -->
+                        </div>
+                        <!--===== Single Blog Item End =========-->
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <!--====================  Blog Section End  ====================-->
+        <!--====================  Conact us Section Start ====================-->
+        <div class="contact-us-section-wrappaer infotechno-contact-us-bg section-space--ptb_120">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-lg-6">
+                        <div class="conact-us-wrap-one">
+                            <h3 class="heading">Obtaining further information by <span class="text-color-primary">make a contact</span> with our experienced IT staffs. </h3>
+
+                            <div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6 col-lg-6">
+                            <div class="contact-info-one text-center">
+                                <div class="icon">
+                                    <span class="fal fa-phone"></span>
+                                </div>
+                                <h6 class="heading font-weight--reguler">Reach out now!</h6>
+                                <h2 class="call-us"><a href="tel:190068668">1900 68668</a></h2>
+                                <div class="contact-us-button mt-20">
+                                    <a href="#" class="btn btn--secondary">Contact us</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--====================  Conact us Section End  ====================-->
+        </div>
+
+
+        <!--====================  footer area ====================-->
+        <?php
 include"inc/footer.php";
-    ?>
+        ?>
