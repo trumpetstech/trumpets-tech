@@ -24,7 +24,7 @@
                                         </li>
                                         <li><a href="about.php">Company</a></li>
                                             <!-- submenu  -->
-                                                 <li><a href="service.php">Services</a></li>
+                                              <!--    <li><a href="service.php">Services</a></li> -->
                                         <li><a href="products.php">Products</a></li>
                                        <!--  <li class="submenu dropdown mega-dropdown" style="">
                                              <a href="products.php" class="dropdown-toggle" data-toggle="dropdown">Products <span class="caret"></span></a>

@@ -8508,10 +8508,12 @@ padding-bottom: 30px;
     padding-top: 5px;
     padding-bottom: 5px;
 }
-.banner_area .banner_text {
+/*.banner_area .banner_text {
     margin-top: -160px;
+}*/
+.banner_area .banner_text {
+    margin-top: 0px;
 }
-
 .banner_area .banner_text span {
     margin-bottom: 0px;
     font-size: 15px;
@@ -8622,5 +8624,13 @@ width: 100%;
 }
 .features-card{
       margin-top: 0px !important;
+}
+.banner-img {
+    /* background-image: url(../img/banner/2.jpg); */
+    background-size: cover;
+    background: #e6e6e6;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-top: 50px;
 }
 }
