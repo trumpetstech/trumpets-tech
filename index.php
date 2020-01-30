@@ -56,7 +56,7 @@ include"inc/navbar.php";
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/img/logo/onyomark.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/5.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
                                                 <img src="assets/img/logo/onyomark.png" class="img-fluid" alt="">
@@ -66,7 +66,7 @@ include"inc/navbar.php";
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/img/logo/thakkar.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/6.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
                                                 <img src="assets/img/logo/thakkar.png" class="img-fluid" alt="">
@@ -76,7 +76,7 @@ include"inc/navbar.php";
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/img/logo/surya.jpg" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/3.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
                                                 <img src="assets/img/logo/surya.jpg" class="img-fluid" alt="">
@@ -86,7 +86,7 @@ include"inc/navbar.php";
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/img/logo/yogesh-electronic.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/7.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
                                                 <img src="assets/img/logo/yogesh-electronic.png" class="img-fluid" alt="">
@@ -96,7 +96,7 @@ include"inc/navbar.php";
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/img/logo/cheminova.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/4.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
                                                 <img src="assets/img/logo/cheminova.png" class="img-fluid" alt="">
@@ -106,24 +106,24 @@ include"inc/navbar.php";
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-06.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/1.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-06-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/droghers.jpeg" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-07.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/2.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-07-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/agies.jpeg" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                <!--     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
                                                 <img src="assets/images/brand/mitech-client-logo-08.png" class="img-fluid" alt="">
@@ -132,8 +132,8 @@ include"inc/navbar.php";
                                                 <img src="assets/images/brand/mitech-client-logo-08-hover.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
-                                    </div>
-                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                    </div> -->
+                                    <!-- <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
                                                 <img src="assets/images/brand/mitech-client-logo-09.png" class="img-fluid" alt="">
@@ -142,7 +142,7 @@ include"inc/navbar.php";
                                                 <img src="assets/images/brand/mitech-client-logo-09-hover.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -263,8 +263,8 @@ include"inc/navbar.php";
                         <div class="col-lg-5">
                             <div class="section-title small-mb__40 tablet-mb__40">
                                 <h6 class="section-sub-title mb-20">Our company</h6>
-                                <h3 class="heading">We’ve been thriving in <span class="text-color-primary">38 years</span></h3>
-                                <p class="text mt-20">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
+                                <h3 class="heading">We’ve been thriving in <span class="text-color-primary">3 years</span></h3>
+                                <p class="text mt-20">Trumpets Technologies specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
 
                                 <div class="sider-title-button-box mt-30">
                                     <a href="#" class="ht-btn ht-btn-md">Join us now</a>
