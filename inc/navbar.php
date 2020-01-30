@@ -70,7 +70,7 @@
                                                                 <li><a href="our-history.html"><span>Our history</span></a></li>
                                                                 <li><a href="faqs.html"><span>FAQs</span></a></li>
                                                                 <li><a href="careers.html"><span>Careers</span></a></li>
-                                                                <li><a href="pricing-plans.html"><span>Pricing plans</span></a></li>
+                                                               <!--  <li><a href="pricing-plans.html"><span>Pricing plans</span></a></li> -->
                                                             </ul>
                                                         </li>
                                                         <li>
@@ -83,8 +83,8 @@
                                                                 <li><a href="it-services-details.html"><span>IT Services Details</span></a></li>
                                                             </ul> -->
                                                         </li>
-                                                        <li>
-                                                            <a href="#"><span>Elements</span></a>
+                                                        <!-- <li>
+                                                            <a href="#"><span>Elements</span></a> -->
                                                             <!-- mega menu -->
                                                          <!--    <ul class="megamenu megamenu--mega">
                                                                 <li>
@@ -135,15 +135,20 @@
                                                                         <li><a href="element-typed-text.html"><span>Typed Text</span></a></li>
                                                                     </ul>
                                                                 </li>
-                                                            </ul> -->
-                                                        </li>
+                                                            </ul> 
+                                                        </li-->
                                                         <li class="has-children has-children--multilevel-submenu">
                                                             <a href="#"><span>Our Products</span></a>
                                                             <!-- multilevel submenu -->
                                                             <ul class="submenu">
-                                                                <li><a href="case-studies.html"><span>Case Studies 01</span></a></li>
-                                                                <li><a href="case-studies-02.html"><span>Case Studies 02</span></a></li>
-                                                                <li><a href="single-smart-vision.html"><span>Single Layout</span></a></li>
+                                                                <li><a href="case-studies.html"><span>Human Resource Tools</span></a></li>
+                                                                <li><a href="case-studies-02.html"><span>Customer Relationship Tools</span></a></li>
+                                                                <li><a href="single-smart-vision.html"><span>Order Lifecycle Management Tools</span></a></li>
+                                                                <li><a href="single-smart-vision.html"><span>Video Conferencing Tools Tools</span></a></li>
+                                                                 <li><a href="single-smart-vision.html"><span>Retail POS Software Tools</span></a></li>
+                                                                 <li><a href="single-smart-vision.html"><span>Help Desk Software</span></a></li>
+                                                                  <li><a href="single-smart-vision.html"><span>Self-Hosted Files Management</span></a></li>
+
                                                             </ul>
                                                         </li>
                                                         <li>

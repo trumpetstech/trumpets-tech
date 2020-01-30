@@ -478,7 +478,7 @@ include"inc/navbar.php";
 
                                     <div class="viewo-text-wrap">
                                         <div class="video-popup infotech-video-box">
-                                            <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="single-popup-wrap video-link">
+                                            <a href="https://www.youtube.com/watch?v=VwJNdjSPaNc&t=6s" class="single-popup-wrap video-link">
                                                 <div class="video-content">
                                                     <div class="ht-popup-video video-button">
                                                         <div class="video-mark">
@@ -531,10 +531,10 @@ include"inc/navbar.php";
                                     <a href="#" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
-                                                <img class="img-fluid" src="assets/images/projects/case-study-01-480x298.jpg" alt="">
+                                                <img class="img-fluid" src="/assets/img/products/hr.jpg" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Mitech-Smart Vision</h6>
+                                                <h6 class="heading">Human Resource Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
                                                 <div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.
                                                 </div>
@@ -553,10 +553,10 @@ include"inc/navbar.php";
                                     <a href="#" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
-                                                <img class="img-fluid" src="assets/images/projects/case-study-02-480x298.jpg" alt="">
+                                                <img class="img-fluid" src="/assets/img/products/leads.jpg" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Arden-Internal Networking</h6>
+                                                <h6 class="heading">Customer Relationship Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
                                                 <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
                                                 </div>
@@ -575,10 +575,10 @@ include"inc/navbar.php";
                                     <a href="#" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
-                                                <img class="img-fluid" src="assets/images/projects/case-study-03-480x298.jpg" alt="">
+                                                <img class="img-fluid" src="/assets/img/products/enqubyte.jpg" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">A Freeserve case study</h6>
+                                                <h6 class="heading">Order Lifecycle Management Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
                                                 <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
                                                 </div>
@@ -597,10 +597,76 @@ include"inc/navbar.php";
                                     <a href="#" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
-                                                <img class="img-fluid" src="assets/images/projects/case-study-04-480x298.jpg" alt="">
+                                                <img class="img-fluid" src="/assets/img/products/pletox.jpg" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Aqua – Research and Energy</h6>
+                                                <h6 class="heading">Video Conferencing Tools</h6>
+                                                <div class="post-categories">Cyber Security</div>
+                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image">
+                                                <img class="img-fluid" src="/assets/img/products/pos.jpg" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Retail POS Software</h6>
+                                                <div class="post-categories">Cyber Security</div>
+                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image">
+                                                <img class="img-fluid" src="/assets/img/products/helpdesk.jpg" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Help Desk Software</h6>
+                                                <div class="post-categories">Cyber Security</div>
+                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image">
+                                                <img class="img-fluid" src="/assets/img/products/drive.jpg" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Self-Hosted Files Management</h6>
                                                 <div class="post-categories">Cyber Security</div>
                                                 <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
                                                 </div>

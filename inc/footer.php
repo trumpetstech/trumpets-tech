@@ -158,21 +158,21 @@
         <!--====================  End of scroll top  ====================-->
 
         <!--====================  mobile menu overlay ====================-->
-        <!-- <div class="mobile-menu-overlay" id="mobile-menu-overlay">
+        <div class="mobile-menu-overlay" id="mobile-menu-overlay">
             <div class="mobile-menu-overlay__inner">
                 <div class="mobile-menu-overlay__header">
                     <div class="container-fluid">
                         <div class="row align-items-center">
-                            <div class="col-md-6 col-8"> -->
+                            <div class="col-md-6 col-8"> 
                                 <!-- logo -->
-                               <!--  <div class="logo">
+                                <div class="logo">
                                     <a href="index.php">
                                         <img src="assets/img/logo/logo.png" class="img-fluid" alt="">
                                     </a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-4">
-                                <!-- mobile menu content
+                                <!-- mobile menu content-->
                                 <div class="mobile-menu-content text-right">
                                     <span class="mobile-navigation-close-icon" id="mobile-menu-close-trigger"></span>
                                 </div>
@@ -183,34 +183,16 @@
                 <div class="mobile-menu-overlay__body">
                     <nav class="offcanvas-navigation">
                         <ul>
-                            <li class="has-children">
-                                <a href="index.html">Home</a>
-                                <ul class="sub-menu">
-                                    <li><a href="index-infotechno.html"><span>Infotechno</span></a></li>
-                                    <li><a href="index-processing.html"><span>Processing</span></a></li>
-                                    <li><a href="index-appointment.html"><span>Appointment</span></a></li>
-                                    <li><a href="index-services.html"><span>Services</span></a></li>
-                                    <li><a href="index-resolutions.html"><span>Resolutions</span></a></li>
-                                    <li><a href="index-cybersecurity.html"><span>cybersecurity</span></a></li>
-                                </ul>
+                            <li>
+                                <a href="index.php">Home</a>
+                                
                             </li>
                             <li class="has-children">
                                 <a href="#">Company</a>
                                 <ul class="sub-menu">
-                                    <li class="has-children">
-                                        <a href="about-us-01.html"><span>About us</span></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="about-us-01.html"><span>About us 01</span></a></li>
-                                            <li><a href="about-us-02.html"><span>About us 02</span></a></li>
-                                            <li class="has-children">
-                                                <a href="#"><span>Submenu Level Two</span></a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                    <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                    <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
+                                    <li>
+                                        <a href="about.php"><span>About us</span></a>
+                                        
                                     </li>
                                     <li><a href="contact-us.html"><span>Contact us</span></a></li>
                                     <li><a href="leadership.html"><span>Leadership</span></a></li>
@@ -218,20 +200,20 @@
                                     <li><a href="our-history.html"><span>Our history</span></a></li>
                                     <li><a href="faqs.html"><span>FAQs</span></a></li>
                                     <li><a href="careers.html"><span>Careers</span></a></li>
-                                    <li><a href="pricing-plans.html"><span>Pricing plans</span></a></li>
+                                    <!-- <li><a href="pricing-plans.html"><span>Pricing plans</span></a></li> -->
                                 </ul>
                             </li>
-                            <li class="has-children">
-                                <a href="#">IT solutions</a>
-                                <ul class="sub-menu">
+                            <li>
+                                <a href="#">Our Solutions</a>
+                               <!--  <ul class="sub-menu">
                                     <li><a href="it-services.html"><span>IT Services</span></a></li>
                                     <li><a href="managed-it-services.html"><span>Managed IT Services</span></a></li>
                                     <li><a href="industries.html"><span>Industries</span></a></li>
                                     <li><a href="business-solution.html"><span>Business solution</span></a></li>
                                     <li><a href="it-services-details.html"><span>IT Services Details</span></a></li>
-                                </ul>
+                                </ul> -->
                             </li>
-                            <li class="has-children">
+                            <!-- <li class="has-children">
                                 <a href="#">Elements</a>
                                 <ul class="sub-menu">
                                     <li class="has-children">
@@ -284,17 +266,21 @@
                                     </li>
 
                                 </ul>
-                            </li>
+                            </li> -->
                             <li class="has-children">
-                                <a href="javascript:void(0)">Case Studies</a>
+                                <a href="javascript:void(0)">Our Products</a>
                                 <ul class="sub-menu">
-                                    <li><a href="case-studies.html"><span>Case Studies 01</span></a></li>
-                                    <li><a href="case-studies-02.html"><span>Case Studies 02</span></a></li>
-                                    <li><a href="single-smart-vision.html"><span>Single Layout</span></a></li>
+                                    <li><a href="case-studies.html"><span>Human Resource Tools</span></a></li>
+                                    <li><a href="case-studies-02.html"><span>Customer Relationship Tools</span></a></li>
+                                    <li><a href="single-smart-vision.html"><span>Order Lifecycle Management Tools</span></a></li>
+                                    <li><a href="single-smart-vision.html"><span>Video Conferencing Tools Tools</span></a></li>
+                                    <li><a href="single-smart-vision.html"><span>Retail POS Software Tools</span></a></li>
+                                     <li><a href="single-smart-vision.html"><span>Help Desk Software</span></a></li>
+                                      <li><a href="single-smart-vision.html"><span>Self-Hosted Files Management</span></a></li>
                                 </ul>
                             </li>
-                            <li class="has-children">
-                                <a href="javascript:void(0)">Blogs</a>
+                            <li>
+                                <a href="https://blog.trumpets.co.in" target="_blank">Blogs</a>
                                 <ul class="sub-menu">
                                     <li><a href="blog-list-large-image.html"><span>List Large Image</span></a></li>
                                     <li><a href="blog-list-left-large-image.html"><span>Left Large Image</span></a></li>
@@ -314,7 +300,7 @@
                     </nav>
                 </div>
             </div>
-        </div> -->
+        </div>
         <!--====================  End of mobile menu overlay  ====================-->
 
 

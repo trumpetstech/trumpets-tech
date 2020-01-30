@@ -13285,3 +13285,6 @@ a:hover {
 .bg-theme-default {
     background: #ee6123 !important;
 }
+.header__logo>a img {
+    width: 180px !important;
+}
