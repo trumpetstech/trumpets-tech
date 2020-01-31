@@ -131,7 +131,7 @@ include"inc/preloader.php";
                                     <div class="content">
                                         <h6 class="heading">Video Conferencing Tools</h6>
                                         <div class="post-categories">Cyber Security</div>
-                                        <div class="text">Our collaboration tools brings everything together in a meeting space where teams can  video call, chat, meet, share files and collaborate simultaneously.
+                                        <div class="text">We provide tools with a meeting space where teams can  video call, chat, meet, share files and collaborate simultaneously.
                                         </div>
                                         <div class="box-projects-arrow">
                                             <span class="button-text home-btn">View case study</span>
