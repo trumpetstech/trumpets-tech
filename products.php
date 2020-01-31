@@ -60,7 +60,7 @@ include"inc/preloader.php";
                             <a href="hr.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/images/projects/hr.jpg" alt="">
+                                        <img class="img-fluid" src="assets/img/products/hr.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Human Resource Tools</h6>
@@ -82,7 +82,7 @@ include"inc/preloader.php";
                             <a href="crm.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/images/projects/crm.jpg" alt="">
+                                        <img class="img-fluid" src="assets/img/products/crm.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Customer Relationship Tools</h6>
@@ -104,7 +104,7 @@ include"inc/preloader.php";
                             <a href="olc.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/images/projects/enqubyte.jpg" alt="">
+                                        <img class="img-fluid" src="assets/images/img/products.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Order Lifecycle Management Tools</h6>
@@ -126,7 +126,7 @@ include"inc/preloader.php";
                             <a href="pletox.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/images/projects/pletox.jpg" alt="">
+                                        <img class="img-fluid" src="assets/img/products/pletox.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Video Conferencing Tools Tools</h6>
@@ -148,7 +148,7 @@ include"inc/preloader.php";
                             <a href="pos.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/images/projects/pos.jpg" alt="">
+                                        <img class="img-fluid" src="assets/img/products/pos.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Retail POS Software Tools</h6>
@@ -170,7 +170,7 @@ include"inc/preloader.php";
                             <a href="helpdesk.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/images/projects/helpdesk.jpg" alt="">
+                                        <img class="img-fluid" src="assets/img/products/helpdesk.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Help Desk Software</h6>
@@ -191,7 +191,7 @@ include"inc/preloader.php";
                             <a href="drive.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/images/projects/drive.jpg" alt="">
+                                        <img class="img-fluid" src="assets/img/products/drive.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Self-Hosted Files Management</h6>
