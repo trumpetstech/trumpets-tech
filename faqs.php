@@ -72,7 +72,7 @@ include"inc/navbar.php";
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                         <div class="card-body">
-                                            <p>Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
+                                            <p>Trumpets takes into consideration every little detail to make sure the system run smoothly and responsively. Trumpets employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -80,14 +80,14 @@ include"inc/navbar.php";
                                     <div class="card-header" id="headingThree">
                                         <h5 class="mb-0">
                                             <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                What are the advantages of Mitech? <span> <i class="fas fa-chevron-down"></i>
+                                                What are the advantages of Trumpets? <span> <i class="fas fa-chevron-down"></i>
                                             <i class="fas fa-chevron-up"></i> </span>
                                             </button>
                                         </h5>
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body">
-                                            <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
+                                            <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Trumpets would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -120,14 +120,14 @@ include"inc/navbar.php";
                                         <div class="card-header" id="faq_2">
                                             <h5 class="mb-0">
                                                 <button class="btn-link collapsed" data-toggle="collapse" data-target="#faq_two" aria-expanded="false" aria-controls="faq_two">
-                                                    What are the advantages of Mitech?<span> <i class="fas fa-chevron-down"></i>
+                                                    What are the advantages of Trumpets?<span> <i class="fas fa-chevron-down"></i>
                                             <i class="fas fa-chevron-up"></i> </span>
                                                 </button>
                                             </h5>
                                         </div>
                                         <div id="faq_two" class="collapse" aria-labelledby="faq_2">
                                             <div class="card-body">
-                                                <p>Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
+                                                <p>Trumpets takes into consideration every little detail to make sure the system run smoothly and responsively. Trumpets employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
                                             </div>
                                         </div>
                                     </div>
@@ -142,7 +142,7 @@ include"inc/navbar.php";
                                         </div>
                                         <div id="faq_three" class="collapse" aria-labelledby="faq_3">
                                             <div class="card-body">
-                                                <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
+                                                <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Trumpets would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
                                             </div>
                                         </div>
                                     </div>
@@ -213,7 +213,7 @@ include"inc/navbar.php";
                                     <div class="card-header" id="heading__11">
                                         <h5 class="mb-0">
                                             <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-                                                What are the advantages of Mitech?<span>
+                                                What are the advantages of Trumpets?<span>
                                         <i class="far fa-caret-circle-down"></i>
                                         <i class="far fa-caret-circle-right"></i>  </span>
                                             </button>
@@ -221,7 +221,7 @@ include"inc/navbar.php";
                                     </div>
                                     <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-parent="#accordion_two">
                                         <div class="card-body">
-                                            <p>Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
+                                            <p>Trumpets takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -236,7 +236,7 @@ include"inc/navbar.php";
                                     </div>
                                     <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-parent="#accordion_two">
                                         <div class="card-body">
-                                            <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
+                                            <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Trumpets would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -304,7 +304,7 @@ include"inc/navbar.php";
                                     <span class="fal fa-phone"></span>
                                 </div>
                                 <h6 class="heading font-weight--reguler">Reach out now!</h6>
-                                <h2 class="call-us"><a href="tel:190068668">1900 68668</a></h2>
+                                <h2 class="call-us"><a href="tel:190068668">+91 9922367414</a></h2>
                                 <div class="contact-us-button mt-20">
                                     <a href="#" class="btn btn--secondary">Contact us</a>
                                 </div>
