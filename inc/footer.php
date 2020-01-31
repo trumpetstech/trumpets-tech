@@ -9,6 +9,7 @@
                             </div>
                             <ul class="footer-widget__list">
                                 <li>1, Grandueur apartment, college road, Nashik, Maharashtra - 422005</li>
+                               <!--  <li>D-25, Dhanraj Mahal, C.S.M. Road, Apollo Bunder, Mumbai 400 001D-25, Dhanraj Mahal, C.S.M. Road, Apollo Bunder, Mumbai 400 001</li> -->
                                 <li><a href="mailto:info@trumpets.co.in" class="hover-style-link">info@trumpets.co.in</a></li>
                                  <li><a href="mailto:careers@trumpets.co.in" class="hover-style-link">careers@trumpets.co.in</a></li>
                                 <!-- <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+68)1221 09876</a></li>
@@ -16,41 +17,47 @@
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">IT Services</h6>
+                            <h6 class="footer-widget__title mb-20">Quick Link</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Managed IT</a></li>
-                                <li><a href="#" class="hover-style-link">IT Support</a></li>
-                                <li><a href="#" class="hover-style-link">IT Consultancy</a></li>
-                                <li><a href="#" class="hover-style-link">Cloud Computing</a></li>
-                                <li><a href="#" class="hover-style-link">Cyber Security</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">Quick links</h6>
-                            <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Pick up locations</a></li>
-                                <li><a href="#" class="hover-style-link">Terms of Payment</a></li>
+                                <li><a href="index.php" class="hover-style-link">Home</a></li>
+                                <li><a href="our-solutions.php" class="hover-style-link">Our Solutions</a></li>
+                                <li><a href="https://blog.trumpets.co.in" class="hover-style-link">Blog</a></li>
                                 <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
-                                <li><a href="#" class="hover-style-link">Where to Find Us</a></li>
+                                <li><a href="#" class="hover-style-link">Terms & Condition</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">Support</h6>
+                            <h6 class="footer-widget__title mb-20">Company</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Forum Support</a></li>
-                                <li><a href="#" class="hover-style-link">Help & FAQ</a></li>
-                                <li><a href="#" class="hover-style-link">Contact Us</a></li>
-                                <li><a href="#" class="hover-style-link">Pricing and plans</a></li>
-                                <li><a href="#" class="hover-style-link">Cookies Policy</a></li>
+                                <li><a href="about.php" class="hover-style-link">About</a></li>
+                             <!--    <li><a href="#" class="hover-style-link">About</a></li> -->
+                                <li><a href="leadership.php" class="hover-style-link">Leadership</a></li>
+                                <li><a href="why-choose-us.php" class="hover-style-link">Why choose us</a></li>
+                                    <li><a href="our-history.php" class="hover-style-link">Our History</a></li>
+                                    <li><a href="faqs.php" class="hover-style-link">FAQs</a></li>
+                                    <li><a href="careers.php" class="hover-style-link">Careers</a></li>
+                                    <li><a href="contact.php" class="hover-style-link">Contact Us</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
+                        <div class="col-lg-4 col-md-4 col-sm-6 footer-widget">
+                            <h6 class="footer-widget__title mb-20">Products</h6>
+                            <ul class="footer-widget__list">
+                                <li><a href="#" class="hover-style-link">Human Resource Tools</a></li>
+                                <li><a href="#" class="hover-style-link">Customer Relationship Tools</a></li>
+                                <li><a href="#" class="hover-style-link">Order Lifecycle Management Tools</a></li>
+                                <li><a href="#" class="hover-style-link">Video Conferencing Tools Tools</a></li>
+                                <li><a href="#" class="hover-style-link">Retail POS Software Tools</a></li>
+                                <li><a href="#" class="hover-style-link">Help Desk Software</a></li>
+                                <li><a href="#" class="hover-style-link">Self-Hosted Files Management</a></li>
+                            </ul>
+                        </div>
+                       <!--  <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                             <div class="footer-widget__title section-space--mb_50"></div>
                             <ul class="footer-widget__list">
                                 <li><a href="#" class="image_btn"><img class="img-fluid" src="assets/images/icons/aeroland-button-google-play.jpg" alt=""></a></li>
                                 <li><a href="#" class="image_btn"><img class="img-fluid" src="assets/images/icons/aeroland-button-app-store.jpg" alt=""></a></li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -64,22 +71,22 @@
                             <ul class="list ht-social-networks solid-rounded-icon">
 
                                 <li class="item">
-                                    <a href="https://twitter.com/" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
+                                    <a href="https://twitter.com/trumpetstech" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
                                         <i class="fab fa-twitter link-icon"></i>
                                     </a>
                                 </li>
                                 <li class="item">
-                                    <a href="https://facebook.com/" target="_blank" aria-label="Facebook" class="social-link hint--bounce hint--top hint--primary">
+                                    <a href="https://www.facebook.com/meettrumpets/" target="_blank" aria-label="Facebook" class="social-link hint--bounce hint--top hint--primary">
                                         <i class="fab fa-facebook-f link-icon"></i>
                                     </a>
                                 </li>
                                 <li class="item">
-                                    <a href="https://instagram.com/" target="_blank" aria-label="Instagram" class="social-link hint--bounce hint--top hint--primary">
+                                    <a href="https://www.instagram.com/trumpetstech/" target="_blank" aria-label="Instagram" class="social-link hint--bounce hint--top hint--primary">
                                         <i class="fab fa-instagram link-icon"></i>
                                     </a>
                                 </li>
                                 <li class="item">
-                                    <a href="https://linkedin.com/" target="_blank" aria-label="Linkedin" class="social-link hint--bounce hint--top hint--primary">
+                                    <a href="https://www.linkedin.com/company/trumpets-technologies" target="_blank" aria-label="Linkedin" class="social-link hint--bounce hint--top hint--primary">
                                         <i class="fab fa-linkedin link-icon"></i>
                                     </a>
                                 </li>
@@ -163,7 +170,7 @@
                 <div class="mobile-menu-overlay__header">
                     <div class="container-fluid">
                         <div class="row align-items-center">
-                            <div class="col-md-6 col-8"> 
+                            <div class="col-md-6 col-8">
                                 <!-- logo -->
                                 <div class="logo">
                                     <a href="index.php">
@@ -185,26 +192,26 @@
                         <ul>
                             <li>
                                 <a href="index.php">Home</a>
-                                
+
                             </li>
                             <li class="has-children">
                                 <a href="#">Company</a>
                                 <ul class="sub-menu">
                                     <li>
                                         <a href="about.php"><span>About us</span></a>
-                                        
+
                                     </li>
-                                    <li><a href="contact-us.html"><span>Contact us</span></a></li>
-                                    <li><a href="leadership.html"><span>Leadership</span></a></li>
-                                    <li><a href="why-choose-us.html"><span>Why choose us</span></a></li>
-                                    <li><a href="our-history.html"><span>Our history</span></a></li>
-                                    <li><a href="faqs.html"><span>FAQs</span></a></li>
-                                    <li><a href="careers.html"><span>Careers</span></a></li>
+                                    <li><a href="contact.php"><span>Contact us</span></a></li>
+                                    <li><a href="leadership.php"><span>Leadership</span></a></li>
+                                    <li><a href="why-choose-us.php"><span>Why choose us</span></a></li>
+                                    <li><a href="our-history.php"><span>Our history</span></a></li>
+                                    <li><a href="faqs.php"><span>FAQs</span></a></li>
+                                    <li><a href="careers.php"><span>Careers</span></a></li>
                                     <!-- <li><a href="pricing-plans.html"><span>Pricing plans</span></a></li> -->
                                 </ul>
                             </li>
                             <li>
-                                <a href="#">Our Solutions</a>
+                                <a href="our-solutions.php">Our Solutions</a>
                                <!--  <ul class="sub-menu">
                                     <li><a href="it-services.html"><span>IT Services</span></a></li>
                                     <li><a href="managed-it-services.html"><span>Managed IT Services</span></a></li>
@@ -268,20 +275,20 @@
                                 </ul>
                             </li> -->
                             <li class="has-children">
-                                <a href="javascript:void(0)">Our Products</a>
+                                <a href="#">Our Products</a>
                                 <ul class="sub-menu">
-                                    <li><a href="case-studies.html"><span>Human Resource Tools</span></a></li>
-                                    <li><a href="case-studies-02.html"><span>Customer Relationship Tools</span></a></li>
-                                    <li><a href="single-smart-vision.html"><span>Order Lifecycle Management Tools</span></a></li>
-                                    <li><a href="single-smart-vision.html"><span>Video Conferencing Tools Tools</span></a></li>
-                                    <li><a href="single-smart-vision.html"><span>Retail POS Software Tools</span></a></li>
-                                     <li><a href="single-smart-vision.html"><span>Help Desk Software</span></a></li>
-                                      <li><a href="single-smart-vision.html"><span>Self-Hosted Files Management</span></a></li>
+                                    <li><a href="case-studies.php"><span>Human Resource Tools</span></a></li>
+                                    <li><a href="case-studies.php"><span>Customer Relationship Tools</span></a></li>
+                                    <li><a href="case-studies.php"><span>Order Lifecycle Management Tools</span></a></li>
+                                    <li><a href="case-studies.php"><span>Video Conferencing Tools Tools</span></a></li>
+                                    <li><a href="case-studies.php"><span>Retail POS Software Tools</span></a></li>
+                                     <li><a href="case-studies.php"><span>Help Desk Software</span></a></li>
+                                      <li><a href="case-studies.php"><span>Self-Hosted Files Management</span></a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="https://blog.trumpets.co.in" target="_blank">Blogs</a>
-                                <ul class="sub-menu">
+                              <!--   <ul class="sub-menu">
                                     <li><a href="blog-list-large-image.html"><span>List Large Image</span></a></li>
                                     <li><a href="blog-list-left-large-image.html"><span>Left Large Image</span></a></li>
                                     <li><a href="blog-grid-classic.html"><span>Grid Classic</span></a></li>
@@ -294,7 +301,7 @@
                                             <li><a href="blog-post-no-sidebar.html"><span>No Sidebar</span></a></li>
                                         </ul>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
                         </ul>
                     </nav>

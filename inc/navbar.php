@@ -5,7 +5,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p class="text-center top-message"><a href="#">Now Hiring:</a> Are you a driven and motivated 1st Line IT Support Engineer?</p>
+                        <p class="text-center top-message"><a href="careers.php">Now Hiring:</a> Are you a driven and motivated 1st Line IT Support Engineer?</p>
                     </div>
                 </div>
             </div>
@@ -64,17 +64,18 @@
                                                                         </li>
                                                                     </ul> -->
                                                                 </li>
-                                                                <li><a href="contact-us.html"><span>Contact us</span></a></li>
-                                                                <li><a href="leadership.html"><span>Leadership</span></a></li>
-                                                                <li><a href="why-choose-us.html"><span>Why choose us</span></a></li>
-                                                                <li><a href="our-history.html"><span>Our history</span></a></li>
-                                                                <li><a href="faqs.html"><span>FAQs</span></a></li>
-                                                                <li><a href="careers.html"><span>Careers</span></a></li>
+
+                                                                <li><a href="leadership.php"><span>Leadership</span></a></li>
+                                                                <li><a href="why-choose-us.php"><span>Why choose us</span></a></li>
+                                                                <li><a href="our-history.php"><span>Our history</span></a></li>
+                                                                <li><a href="faqs.php"><span>FAQs</span></a></li>
+                                                                <li><a href="careers.php"><span>Careers</span></a></li>
+                                                                  <li><a href="contact.php"><span>Contact us</span></a></li>
                                                                <!--  <li><a href="pricing-plans.html"><span>Pricing plans</span></a></li> -->
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            <a href="#"><span>Our Solutions</span></a>
+                                                            <a href="our-solutions.php"><span>Our Solutions</span></a>
                                                             <!-- <ul class="submenu">
                                                                 <li><a href="it-services.html"><span>IT Services</span></a></li>
                                                                 <li><a href="managed-it-services.html"><span>Managed IT Services</span></a></li>
@@ -135,24 +136,24 @@
                                                                         <li><a href="element-typed-text.html"><span>Typed Text</span></a></li>
                                                                     </ul>
                                                                 </li>
-                                                            </ul> 
+                                                            </ul>
                                                         </li-->
                                                         <li class="has-children has-children--multilevel-submenu">
                                                             <a href="#"><span>Our Products</span></a>
                                                             <!-- multilevel submenu -->
                                                             <ul class="submenu">
-                                                                <li><a href="case-studies.html"><span>Human Resource Tools</span></a></li>
-                                                                <li><a href="case-studies-02.html"><span>Customer Relationship Tools</span></a></li>
-                                                                <li><a href="single-smart-vision.html"><span>Order Lifecycle Management Tools</span></a></li>
-                                                                <li><a href="single-smart-vision.html"><span>Video Conferencing Tools Tools</span></a></li>
-                                                                 <li><a href="single-smart-vision.html"><span>Retail POS Software Tools</span></a></li>
+                                                                <li><a href="products.php"><span>Human Resource Tools</span></a></li>
+                                                                <li><a href="products.php"><span>Customer Relationship Tools</span></a></li>
+                                                                <li><a href="products.phpl"><span>Order Lifecycle Management Tools</span></a></li>
+                                                                <li><a href="products.php"><span>Video Conferencing Tools Tools</span></a></li>
+                                                                 <li><a href="products.php"><span>Retail POS Software Tools</span></a></li>
                                                                  <li><a href="single-smart-vision.html"><span>Help Desk Software</span></a></li>
                                                                   <li><a href="single-smart-vision.html"><span>Self-Hosted Files Management</span></a></li>
 
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            <a href="blog-list-large-image.html"><span>Blog</span></a>
+                                                            <a href="https://blog.trumpets.co.in" target="_blank"><span>Blog</span></a>
                                                             <!-- multilevel submenu -->
                                                           <!--   <ul class="submenu">
                                                                 <li><a href="blog-list-large-image.html"><span>List Large Image</span></a></li>
