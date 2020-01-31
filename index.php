@@ -709,9 +709,9 @@ include"inc/navbar.php";
                                             <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
                                             <div class="testimonial-slider__text">Platforms provided by Trumpets have made our industry's output to a more better entext and have simplied a lot of our process. </div>
                                             <div class="author-info">
-                                                <div class="testimonial-slider__media">
+                                              <!--   <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-04-70x70.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
                                                 <div class="testimonial-slider__author">
                                                     <h6 class="name">Karan Patil</h6>
                                                     <span class="designation">Cheminova Agro Pvt. Ltd.</span>
@@ -725,9 +725,9 @@ include"inc/navbar.php";
                                             <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
                                             <div class="testimonial-slider__text">We needed a minimal solution to manage our grocery inventory and Invento from Trumpets got to be the perfect choice.</div>
                                             <div class="author-info">
-                                                <div class="testimonial-slider__media">
+                                             <!--    <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-02-70x70.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
                                                 <div class="testimonial-slider__author">
                                                     <h6 class="name">Gaurav Pangahvane</h6>
                                                     <span class="designation">Bhrama Valley</span>
@@ -741,9 +741,9 @@ include"inc/navbar.php";
                                             <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
                                             <div class="testimonial-slider__text">Enqubyte has eleminated a lot of our manual and paperwork and has brought up a huge impact on our company workflow.</div>
                                             <div class="author-info">
-                                                <div class="testimonial-slider__media">
+                                                <!-- <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-01-70x70.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
                                                 <div class="testimonial-slider__author">
                                                     <h6 class="name">Shekhar Bam</h6>
                                                     <span class="designation">Surya Group</span>
@@ -757,9 +757,9 @@ include"inc/navbar.php";
                                             <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
                                             <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. </div>
                                             <div class="author-info">
-                                                <div class="testimonial-slider__media">
+                                               <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-03-70x70.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
                                                 <div class="testimonial-slider__author">
                                                     <h6 class="name"> Himanshu Ratnaparkhi</h6>
                                                     <span class="designation">CEO, Solicitous</span>

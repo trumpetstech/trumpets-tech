@@ -13500,3 +13500,11 @@ menu>ul>li.active>a:after {
     transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
     overflow: hidden;
 }
+.ht-social-networks.solid-rounded-icon .social-link:hover {
+    border: 1px solid #ee6123 !important;
+    color: #ffffff;
+}
+.ht-social-networks.flat-round .social-link:hover, .ht-social-networks.solid-rounded-icon .social-link:hover {
+    color: #ffffff !important;
+    background: #ee6123 !important;
+}

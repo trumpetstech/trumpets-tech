@@ -292,9 +292,9 @@ include"inc/navbar.php"
                                         <div class="testimonial-slider__one wow move-up">
 
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
+                                               <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-02-90x90.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
 
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">
@@ -319,9 +319,9 @@ include"inc/navbar.php"
                                         <div class="testimonial-slider__one wow move-up">
 
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
+                                              <!--   <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-03-90x90.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
 
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">
@@ -346,9 +346,9 @@ include"inc/navbar.php"
                                         <div class="testimonial-slider__one wow move-up">
 
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
+                                               <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-04-90x90.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
 
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">
@@ -373,9 +373,9 @@ include"inc/navbar.php"
                                         <div class="testimonial-slider__one wow move-up">
 
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
+                                               <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-01-90x90.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
 
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">

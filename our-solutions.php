@@ -18,7 +18,7 @@ include"inc/navbar.php";
                 <div class="row">
                     <div class="col-lg-8 ml-auto mr-auto">
                         <div class="about-banner-content text-center">
-                            <h1 class="mb-15 text-white">Our solution</h1>
+                            <h1 class="mb-15 text-white">Our Solutions</h1>
                             <h5 class="font-weight--normal text-white">Reach out to the world’s most reliable IT services.</h5>
                         </div>
                     </div>
@@ -278,9 +278,9 @@ include"inc/navbar.php";
                                         <div class="testimonial-slider__one wow move-up">
 
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
+                                               <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-02-90x90.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
 
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">
@@ -305,9 +305,9 @@ include"inc/navbar.php";
                                         <div class="testimonial-slider__one wow move-up">
 
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
+                                               <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-03-90x90.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
 
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">
@@ -332,9 +332,9 @@ include"inc/navbar.php";
                                         <div class="testimonial-slider__one wow move-up">
 
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
+                                               <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-04-90x90.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
 
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">
@@ -359,9 +359,9 @@ include"inc/navbar.php";
                                         <div class="testimonial-slider__one wow move-up">
 
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
+                                               <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-01-90x90.jpg" class="img-fluid" alt="">
-                                                </div>
+                                                </div> -->
 
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">
@@ -528,7 +528,7 @@ include"inc/navbar.php";
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading" style="color: #000;">Call for advice now!</h6>
-                                                <div class="text" style="color: #000;">1900 68668</div>
+                                                <div class="text" style="color: #000;">+91 9922367414</div>
                                             </div>
                                         </div>
                                     </div>
@@ -541,7 +541,7 @@ include"inc/navbar.php";
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading">Say hello</h6>
-                                                <div class="text">hello@mitech.com</div>
+                                                <div class="text">hello@trumpets.co.in</div>
                                             </div>
                                         </div>
                                     </div>

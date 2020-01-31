@@ -42,13 +42,13 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 footer-widget">
                             <h6 class="footer-widget__title mb-20">Products</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Human Resource Tools</a></li>
-                                <li><a href="#" class="hover-style-link">Customer Relationship Tools</a></li>
-                                <li><a href="#" class="hover-style-link">Order Lifecycle Management Tools</a></li>
-                                <li><a href="#" class="hover-style-link">Video Conferencing Tools Tools</a></li>
-                                <li><a href="#" class="hover-style-link">Retail POS Software Tools</a></li>
-                                <li><a href="#" class="hover-style-link">Help Desk Software</a></li>
-                                <li><a href="#" class="hover-style-link">Self-Hosted Files Management</a></li>
+                                <li><a href="hr.php" class="hover-style-link">Human Resource Tools</a></li>
+                                <li><a href="crm.php" class="hover-style-link">Customer Relationship Tools</a></li>
+                                <li><a href="olc.php" class="hover-style-link">Order Lifecycle Management Tools</a></li>
+                                <li><a href="pletox.php" class="hover-style-link">Video Conferencing Tools Tools</a></li>
+                                <li><a href="pos.php" class="hover-style-link">Retail POS Software Tools</a></li>
+                                <li><a href="helpdesk.php" class="hover-style-link">Help Desk Software</a></li>
+                                <li><a href="drive.php" class="hover-style-link">Self-Hosted Files Management</a></li>
                             </ul>
                         </div>
                        <!--  <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
@@ -277,13 +277,13 @@
                             <li class="has-children">
                                 <a href="#">Our Products</a>
                                 <ul class="sub-menu">
-                                    <li><a href="case-studies.php"><span>Human Resource Tools</span></a></li>
-                                    <li><a href="case-studies.php"><span>Customer Relationship Tools</span></a></li>
-                                    <li><a href="case-studies.php"><span>Order Lifecycle Management Tools</span></a></li>
-                                    <li><a href="case-studies.php"><span>Video Conferencing Tools Tools</span></a></li>
-                                    <li><a href="case-studies.php"><span>Retail POS Software Tools</span></a></li>
-                                     <li><a href="case-studies.php"><span>Help Desk Software</span></a></li>
-                                      <li><a href="case-studies.php"><span>Self-Hosted Files Management</span></a></li>
+                                    <li><a href="hr.php"><span>Human Resource Tools</span></a></li>
+                                    <li><a href="crm.php"><span>Customer Relationship Tools</span></a></li>
+                                    <li><a href="olc.php"><span>Order Lifecycle Management Tools</span></a></li>
+                                    <li><a href="pletox.php"><span>Video Conferencing Tools Tools</span></a></li>
+                                    <li><a href="pos.php"><span>Retail POS Software Tools</span></a></li>
+                                     <li><a href="helpdesk.php"><span>Help Desk Software</span></a></li>
+                                      <li><a href="drive.php"><span>Self-Hosted Files Management</span></a></li>
                                 </ul>
                             </li>
                             <li>
