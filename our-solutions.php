@@ -18,7 +18,7 @@ include"inc/navbar.php";
                 <div class="row">
                     <div class="col-lg-8 ml-auto mr-auto">
                         <div class="about-banner-content text-center">
-                            <h1 class="mb-15 text-white">Business solution</h1>
+                            <h1 class="mb-15 text-white">Our solution</h1>
                             <h5 class="font-weight--normal text-white">Reach out to the world’s most reliable IT services.</h5>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ include"inc/navbar.php";
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="conact-us-wrap-one managed-it">
-                                <h5 class="heading ">Mitech specializes in <span class="text-color-primary"> technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
+                                <h5 class="heading ">Trumpets specializes in <span class="text-color-primary"> technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
                             </div>
                         </div>
                         <div class="col-lg-7 offset-lg-1">
@@ -153,7 +153,7 @@ include"inc/navbar.php";
                                             </div>
                                             <div class="content">
                                                 <h5 class="heading">Infrastructure Plan</h5>
-                                                <div class="text">Mitech takes into account all conditions and budgets needed for building infrastructure plan..</div>
+                                                <div class="text">Trumpets takes into account all conditions and budgets needed for building infrastructure plan..</div>
                                             </div>
                                         </div>
                                     </a>
@@ -201,7 +201,7 @@ include"inc/navbar.php";
                                 <div class="marker"></div>
                                 <div class="title-wrap">
                                     <h5 class="title">Infrastructure Plan </h5>
-                                    <div class="desc">Mitech takes into account all conditions and budgets needed for building infrastructure plan. </div>
+                                    <div class="desc">Trumpets takes into account all conditions and budgets needed for building infrastructure plan. </div>
                                 </div>
                             </div>
                         </div>
@@ -263,13 +263,13 @@ include"inc/navbar.php";
         </div>
         <!--========= About Resources Wrapper End ===========-->
         <!--====================  testimonial section ====================-->
-        <div class="testimonial-slider-area section-space--pt_100">
+       <div class="testimonial-slider-area section-space--pt_100">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title-wrap text-center section-space--mb_40">
                             <h6 class="section-sub-title mb-20">Testimonials</h6>
-                            <h3 class="heading">What do people praise about <span class="text-color-primary"> Mitech?</span></h3>
+                            <h3 class="heading">What do people praise about <span class="text-color-primary"> Trumpets?</span></h3>
                         </div>
                         <div class="testimonial-slider">
                             <div class="swiper-container testimonial-slider__container">
@@ -291,13 +291,13 @@ include"inc/navbar.php";
                                                         <span class="fa fa-star"></span>
                                                     </div>
                                                     <div class="author-info">
-                                                        <h6 class="name">Abbie Ferguson</h6>
-                                                        <span class="designation">Marketing</span>
+                                                        <h6 class="name">Karan Patil</h6>
+                                                        <span class="designation">Cheminova Agro Pvt. Ltd.</span>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                            <div class="testimonial-slider__text">Platforms provided by Trumpets have made our industry's output to a more better entext and have simplied a lot of our process.</div>
 
                                         </div>
                                     </div>
@@ -318,13 +318,13 @@ include"inc/navbar.php";
                                                         <span class="fa fa-star"></span>
                                                     </div>
                                                     <div class="author-info">
-                                                        <h6 class="name">Monica Blews</h6>
-                                                        <span class="designation">Web designer</span>
+                                                        <h6 class="name"> Gaurav Pangahvane</h6>
+                                                        <span class="designation">Bhrama Valley</span>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                            <div class="testimonial-slider__text">We needed a minimal solution to manage our grocery inventory and Invento from Trumpets got to be the perfect choice.</div>
 
                                         </div>
                                     </div>
@@ -345,13 +345,13 @@ include"inc/navbar.php";
                                                         <span class="fa fa-star"></span>
                                                     </div>
                                                     <div class="author-info">
-                                                        <h6 class="name">Abbie Ferguson</h6>
-                                                        <span class="designation">WEB DESIGNER</span>
+                                                        <h6 class="name">Shekhar Bam</h6>
+                                                        <span class="designation"> Surya Group</span>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                            <div class="testimonial-slider__text">Enqubyte has eleminated a lot of our manual and paperwork and has brought up a huge impact on our company workflow.</div>
 
                                         </div>
                                     </div>
@@ -372,8 +372,8 @@ include"inc/navbar.php";
                                                         <span class="fa fa-star"></span>
                                                     </div>
                                                     <div class="author-info">
-                                                        <h6 class="name">Abbie Ferguson</h6>
-                                                        <span class="designation">WEB DESIGNER</span>
+                                                        <h6 class="name">Himanshu Ratnaparkhi</h6>
+                                                        <span class="designation">CEO, Solicitious</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -390,10 +390,10 @@ include"inc/navbar.php";
                 </div>
             </div>
         </div>
-        <!--====================  End of testimonial section  ====================-->
+         <!--====================  End of testimonial section  ====================-->
 
         <!--====================  brand logo slider area ====================-->
-        <div class="brand-logo-slider-area section-space--ptb_60">
+<div class="brand-logo-slider-area section-space--ptb_60">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -404,74 +404,74 @@ include"inc/navbar.php";
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-01.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/5.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-01-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/onyomark.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-02.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/6.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-02-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/thakkar.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-03.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/3.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-03-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/surya.jpg" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-04.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/7.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-04-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/yogesh-electronic.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-05.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/4.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-05-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/cheminova.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-06.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/1.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-06-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/droghers.jpeg" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/images/brand/mitech-client-logo-07.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/2.jpg" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/images/brand/mitech-client-logo-07-hover.png" class="img-fluid" alt="">
+                                                <img src="assets/img/logo/agies.jpeg" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                <!--     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
                                                 <img src="assets/images/brand/mitech-client-logo-08.png" class="img-fluid" alt="">
@@ -480,8 +480,8 @@ include"inc/navbar.php";
                                                 <img src="assets/images/brand/mitech-client-logo-08-hover.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
-                                    </div>
-                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                    </div> -->
+                                    <!-- <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
                                                 <img src="assets/images/brand/mitech-client-logo-09.png" class="img-fluid" alt="">
@@ -490,7 +490,7 @@ include"inc/navbar.php";
                                                 <img src="assets/images/brand/mitech-client-logo-09-hover.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -498,7 +498,7 @@ include"inc/navbar.php";
                 </div>
             </div>
         </div>
-        <!--====================  End of brand logo slider area  ====================-->
+                <!--====================  End of brand logo slider area  ====================-->
         <!--============ Contact Us Area Start =================-->
         <div class="contact-us-area service-contact-bg section-space--ptb_100">
             <div class="container">
@@ -508,7 +508,7 @@ include"inc/navbar.php";
                         <div class="contact-info sytle-one text-left">
 
                             <div class="contact-info-title-wrap text-center">
-                                <h3 class="heading text-white mb-10">4.9/5.0</h3>
+                                <h3 class="heading mb-10">4.9/5.0</h3>
                                 <div class="ht-star-rating lg-style">
                                     <span class="fa fa-star"></span>
                                     <span class="fa fa-star"></span>
@@ -516,7 +516,7 @@ include"inc/navbar.php";
                                     <span class="fa fa-star"></span>
                                     <span class="fa fa-star"></span>
                                 </div>
-                                <p class="sub-text">by 700+ customers for 3200+ clients</p>
+                                <p class="sub-text" style="color: #000;">by 700+ customers for 3200+ clients</p>
                             </div>
 
                             <div class="contact-list-item">
@@ -527,8 +527,8 @@ include"inc/navbar.php";
                                                 <span class="fal fa-phone"></span>
                                             </div>
                                             <div class="main-content">
-                                                <h6 class="heading">Call for advice now!</h6>
-                                                <div class="text">1900 68668</div>
+                                                <h6 class="heading" style="color: #000;">Call for advice now!</h6>
+                                                <div class="text" style="color: #000;">1900 68668</div>
                                             </div>
                                         </div>
                                     </div>
