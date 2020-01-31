@@ -82,7 +82,7 @@ include"inc/preloader.php";
                             <a href="crm.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/img/products/crm.jpg" alt="">
+                                        <img class="img-fluid" src="assets/img/products/leads.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Customer Relationship Tools</h6>
@@ -104,7 +104,7 @@ include"inc/preloader.php";
                             <a href="olc.php" class="projects-wrap style-01">
                                 <div class="projects-image-box">
                                     <div class="projects-image">
-                                        <img class="img-fluid" src="assets/images/img/products.jpg" alt="">
+                                        <img class="img-fluid" src="assets/img/products/enqubyte.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Order Lifecycle Management Tools</h6>
