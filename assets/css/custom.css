@@ -13596,8 +13596,28 @@ menu>ul>li.active>a:after {
     -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
+.ht-box-images.style-06 .image-box-wrap .content a:hover {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    height: 56px;
+    line-height: 55px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+
+    border-top: 1px solid #eee;
+    color: #fff !important;
+}
 .messonry-button button.is-checked span {
     border-bottom: 2px solid #ee6123 !important;
+}
+.fa-long-arrow-right:before {
+    content: "\f178";
+    color:#ee6123 !important;
+
 }
 .testimonial-slider__author .designation:before {
     content: ' - ' !important;
@@ -13617,4 +13637,14 @@ menu>ul>li.active>a:after {
        -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.cta-button-group--two .btn-one {
+    background: #086AD8;
+    color: #ffffff;
+    margin: 10px;
+}
+.cta-button-group--two .btn-one {
+    background:#ee6123 !important;
+    color: #ffffff;
+    margin: 10px;
 }

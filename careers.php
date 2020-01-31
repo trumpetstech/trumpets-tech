@@ -239,7 +239,7 @@ include"inc/navbar.php";
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-lg-6">
                         <div class="conact-us-wrap-one">
-                            <h3 class="heading">Obtaining further information by <span class="text-color-primary">make a contact</span> with our experienced IT staffs. </h3>
+                            <h3 class="heading">Obtain further information by <span class="text-color-primary">making a contact</span> with our experienced IT staffs. </h3>
 
                             <div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
 
@@ -252,7 +252,7 @@ include"inc/navbar.php";
                                     <span class="fal fa-phone"></span>
                                 </div>
                                 <h6 class="heading font-weight--reguler">Reach out now!</h6>
-                                <h2 class="call-us"><a href="tel:190068668">1900 68668</a></h2>
+                                <h2 class="call-us"><a href="tel:190068668">+91 9922367414</a></h2>
                                 <div class="contact-us-button mt-20">
                                     <a href="#" class="btn btn--secondary">Contact us</a>
                                 </div>

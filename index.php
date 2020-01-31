@@ -437,30 +437,30 @@ include"inc/navbar.php";
                 <div class="fun-fact-grid-4">
                     <div class="grid-item  wow move-up">
                         <div class="fun-fact--one text-center">
-                            <h5 class="fun-fact__title">Successfully work <br> with </h5>
-                                <div class="fun-fact__count counter">1056</div>
+                            <h5 class="fun-fact__title">Successfully worked <br> with </h5>
+                                <div class="fun-fact__count counter">50</div>
                                 <span class="fun-fact__text">HAPPY CLIENTS</span>
                         </div>
                     </div>
                     <div class="grid-item  wow move-up">
                         <div class="fun-fact--one text-center">
                             <h5 class="fun-fact__title">Successfully <br> completed</h5>
-                                <div class="fun-fact__count counter">491</div>
+                                <div class="fun-fact__count counter">65</div>
                                 <span class="fun-fact__text">Finished projects</span>
                         </div>
                     </div>
                     <div class="grid-item  wow move-up">
                         <div class="fun-fact--one text-center">
                             <h5 class="fun-fact__title">Recruit more <br> than</h5>
-                                <div class="fun-fact__count counter">245</div>
+                                <div class="fun-fact__count counter">17</div>
                                 <span class="fun-fact__text">SKilled Experts</span>
                         </div>
                     </div>
                     <div class="grid-item  wow move-up">
                         <div class="fun-fact--one text-center">
-                            <h5 class="fun-fact__title">Blog <br> update </h5>
-                                <div class="fun-fact__count counter">1090</div>
-                                <span class="fun-fact__text">Media Posts</span>
+                            <h5 class="fun-fact__title">We <br>consumed  </h5>
+                                <div class="fun-fact__count counter">500</div>
+                                <span class="fun-fact__text">Coffee</span>
                         </div>
                     </div>
                 </div>
@@ -699,7 +699,7 @@ include"inc/navbar.php";
                     <div class="col-lg-12">
                         <div class="section-title-wrap text-center section-space--mb_60">
                             <h6 class="section-sub-title mb-20">Testimonials</h6>
-                            <h3 class="heading">Why do people say  about<span class="text-color-primary"> Trumpets?</span></h3>
+                            <h3 class="heading">What do people say  about<span class="text-color-primary"> Trumpets?</span></h3>
                         </div>
                         <div class="testimonial-slider">
                             <div class="swiper-container testimonial-slider__container-two">

@@ -84,8 +84,8 @@ include"inc/navbar.php"
                                                 <h5 class="heading">What we can do?</h5>
                                                 <div class="text">We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.
                                                 </div>
-                                                <a href="#" class="box-images-arrow">
-                                                    <span class="button-text">Discover now</span>
+                                                <a href="our-solutions.php" class="box-images-arrow">
+                                                    <span class="button-text home-btn">Discover now</span>
                                                     <i class="far fa-long-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -104,10 +104,10 @@ include"inc/navbar.php"
                                             </div>
                                             <div class="content">
                                                 <h5 class="heading">Become our partners?</h5>
-                                                <div class="text">Our preventive and progressive approach will help you take the lead while addressing possible threats in managing data.
+                                                <div class="text ">Our preventive and progressive approach will help you take the lead while addressing possible threats in managing data.
                                                 </div>
-                                                <a href="#" class="box-images-arrow">
-                                                    <span class="button-text">Discover now</span>
+                                                <a href="about.php" class="box-images-arrow">
+                                                    <span class="button-text  home-btn">Discover now</span>
                                                     <i class="far fa-long-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -128,8 +128,8 @@ include"inc/navbar.php"
                                                 <h5 class="heading">Need a hand?</h5>
                                                 <div class="text">Our support team is available 24/7 a day, 7 days a week and can get ready for solving any of your situational rising problems.
                                                 </div>
-                                                <a href="#" class="box-images-arrow">
-                                                    <span class="button-text">Discover now</span>
+                                                <a href="products.php" class="box-images-arrow">
+                                                    <span class="button-text  home-btn">Discover now</span>
                                                     <i class="far fa-long-arrow-right"></i>
                                                 </a>
                                             </div>
@@ -171,7 +171,7 @@ include"inc/navbar.php"
                         <div class="resources-right-box">
                             <div class="resources-right-inner text-center">
                                 <div class="resources-images">
-                                    <img class="img-fluid" src="assets/images/banners/managed-it-services-book-cover.png" alt="">
+                                    <img class="img-fluid" src="assets/img/pagination.sync="".png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -250,26 +250,26 @@ include"inc/navbar.php"
                 <div class="row">
                     <div class="col-md-3 col-sm-6 wow move-up">
                         <div class="fun-fact--two text-center">
-                            <div class="fun-fact__count counter">120</div>
+                            <div class="fun-fact__count counter">50</div>
                             <h6 class="fun-fact__text">Happy clients</h6>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 wow move-up">
                         <div class="fun-fact--two text-center">
-                            <div class="fun-fact__count counter">32</div>
+                            <div class="fun-fact__count counter">65</div>
                             <h6 class="fun-fact__text">Finished projects</h6>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 wow move-up">
                         <div class="fun-fact--two text-center">
-                            <div class="fun-fact__count counter">73</div>
+                            <div class="fun-fact__count counter">17</div>
                             <h6 class="fun-fact__text">Skilled Experts</h6>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 wow move-up">
                         <div class="fun-fact--two text-center">
-                            <div class="fun-fact__count counter">318</div>
-                            <h6 class="fun-fact__text">Media Posts</h6>
+                            <div class="fun-fact__count counter">500</div>
+                            <h6 class="fun-fact__text">Coffee</h6>
                         </div>
                     </div>
                 </div>
