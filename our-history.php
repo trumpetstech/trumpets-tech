@@ -71,7 +71,7 @@ include"inc/navbar.php";
                                             <div class="col-md-6 timeline-col left timeline-feature">
                                                 <div class="inner">
                                                     <div class="date-wrap">
-                                                        <h2 class="year">1988</h2>
+                                                        <h2 class="year">2016</h2>
                                                     </div>
 
                                                     <div class="photo">
@@ -83,10 +83,10 @@ include"inc/navbar.php";
                                                 <div class="inner">
                                                     <div class="content-wrap">
                                                         <div class="content-body">
-                                                            <h6 class="heading">The Foundation of Mitech</h6>
+                                                            <h6 class="heading">We build Websites</h6>
 
                                                             <div class="text">
-                                                                The beginning of Mitech Co. was laid by three men: Jackie Moodle, Alan Morray and Burrow Kills. Back in 1988, three passionate young pupils, whose major is Information Technology, had discussed with each other about starting a company to deliver technological &amp; digital services in an old rented apartment. </div>
+                                                                Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.! </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -102,7 +102,7 @@ include"inc/navbar.php";
                                             <div class="col-md-6 timeline-col left timeline-feature">
                                                 <div class="inner">
                                                     <div class="date-wrap">
-                                                        <h6 class="year"> 1993 </h6>
+                                                        <h6 class="year"> 2018 </h6>
                                                     </div>
 
                                                     <div class="photo">
@@ -114,10 +114,10 @@ include"inc/navbar.php";
                                                 <div class="inner">
                                                     <div class="content-wrap">
                                                         <div class="content-body">
-                                                            <h6 class="heading">Mitech’s Golden Age</h6>
+                                                            <h6 class="heading">We work with Startups</h6>
 
                                                             <div class="text">
-                                                                Mitech had been operating for 5 years when it reached the golden age in the company’s history. They received two prestigious awards for Dedicated Services &amp; Community Contribution (in 1990), plus three successive award nominations for Best IT Company of the year (respectively in 1991, 1992 &amp; 1993).
+                                                                Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!
                                                             </div>
                                                         </div>
                                                     </div>
@@ -134,7 +134,7 @@ include"inc/navbar.php";
                                             <div class="col-md-6 timeline-col left timeline-feature">
                                                 <div class="inner">
                                                     <div class="date-wrap">
-                                                        <h6 class="year"> 1995 </h6>
+                                                        <h6 class="year"> 2019</h6>
                                                     </div>
 
                                                     <div class="photo">
@@ -146,11 +146,42 @@ include"inc/navbar.php";
                                                 <div class="inner">
                                                     <div class="content-wrap">
                                                         <div class="content-body">
-                                                            <h6 class="heading">Mitech’s Turning Point</h6>
+                                                            <h6 class="heading">We sold ERP Systems</h6>
 
                                                             <div class="text">
-                                                                The company has a turning point in 1995 when one of its founders left the board of the management and established a new company in Healthcare & Assurance – HealSoul. Later on, Mitech and HealSoul have successfully cooperated in several projects to integrate technology into taking care of people’s health. .
+                                                                Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!
                                                             </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                     <li class="item animate">
+                                        <div class="dots">
+                                            <div class="middle-dot"></div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-6 timeline-col left timeline-feature">
+                                                <div class="inner">
+                                                    <div class="date-wrap">
+                                                        <h2 class="year">2020</h2>
+                                                    </div>
+
+                                                    <div class="photo">
+                                                        <img src="assets/images/timeline/timeline-image-01.jpg" alt="timeline-image-01" class="img-fluid">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 timeline-col right timeline-info">
+                                                <div class="inner">
+                                                    <div class="content-wrap">
+                                                        <div class="content-body">
+                                                            <h6 class="heading">We develop SaaS Platforms</h6>
+
+                                                            <div class="text">
+                                                                Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.! </div>
                                                         </div>
                                                     </div>
                                                 </div>
