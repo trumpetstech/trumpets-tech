@@ -65,7 +65,7 @@ include"inc/preloader.php";
                                     <div class="content">
                                         <h6 class="heading">Human Resource Tools</h6>
                                         <div class="post-categories">Cyber Security</div>
-                                        <div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.
+                                        <div class="text">Our human resource tools improvises and automates the employee management process in an organization.
                                         </div>
                                         <div class="box-projects-arrow">
                                             <span class="button-text home-btn">View case study</span>
@@ -87,7 +87,7 @@ include"inc/preloader.php";
                                     <div class="content">
                                         <h6 class="heading">Customer Relationship Tools</h6>
                                         <div class="post-categories">Cyber Security</div>
-                                        <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                        <div class="text">Managing leads & customer data is a crucial process for oragnization. We provide tools to make this process efficient and hassle-free.
                                         </div>
                                         <div class="box-projects-arrow">
                                             <span class="button-text home-btn">View case study</span>
@@ -109,7 +109,7 @@ include"inc/preloader.php";
                                     <div class="content">
                                         <h6 class="heading">Order Lifecycle Management Tools</h6>
                                         <div class="post-categories">Cyber Security</div>
-                                        <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                        <div class="text">Our OLM tools help organizations to build an efficient hierarchy in enquiry to production to sale workflow with keeping necessary records.
                                         </div>
                                         <div class="box-projects-arrow">
                                             <span class="button-text home-btn">View case study</span>
@@ -129,9 +129,9 @@ include"inc/preloader.php";
                                         <img class="img-fluid" src="assets/img/products/pletox.jpg" alt="">
                                     </div>
                                     <div class="content">
-                                        <h6 class="heading">Video Conferencing Tools Tools</h6>
+                                        <h6 class="heading">Video Conferencing Tools</h6>
                                         <div class="post-categories">Cyber Security</div>
-                                        <div class="text">From its founding in 1990 in Cambridge in the UK, it has grown to become a major developer of digital electronic products. The company has offices around the …
+                                        <div class="text">Our collaboration tools brings everything together in a meeting space where teams can  video call, chat, meet, share files and collaborate simultaneously.
                                         </div>
                                         <div class="box-projects-arrow">
                                             <span class="button-text home-btn">View case study</span>
@@ -151,7 +151,7 @@ include"inc/preloader.php";
                                         <img class="img-fluid" src="assets/img/products/pos.jpg" alt="">
                                     </div>
                                     <div class="content">
-                                        <h6 class="heading">Retail POS Software Tools</h6>
+                                        <h6 class="heading">Retail POS Software</h6>
                                         <div class="post-categories">IT consultancy</div>
                                         <div class="text">Their energy, drive, and enthusiasm laid the foundations for the development of a business, which has now become one of the UK’s leading retail chains with a unique …
                                         </div>

@@ -536,7 +536,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Human Resource Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential
+                                                <div class="text">Our human resource tools improvises and automates the employee management process in an organization.
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text home-btn ">View case study</span>
@@ -558,7 +558,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Customer Relationship Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                <div class="text">Managing leads & customer data is a crucial process for oragnization. We provide tools to make this process efficient and hassle-free.
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text home-btn ">View case study</span>
@@ -580,7 +580,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Order Lifecycle Management Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                <div class="text">Our OLM tools help organizations to build an efficient hierarchy in enquiry to production to sale workflow with keeping necessary records.
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text home-btn ">View case study</span>
@@ -602,7 +602,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Video Conferencing Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                <div class="text">Our collaboration tools brings everything together in a meeting space where teams can  video call, chat, meet, share files and collaborate simultaneously.
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text">View case study</span>

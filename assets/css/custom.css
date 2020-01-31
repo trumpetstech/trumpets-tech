@@ -13205,6 +13205,7 @@ a:hover {
 .projects-wrap.style-01 .content .box-projects-arrow::before {
     background-color: #ee6123 !important;
     content: '';
+    color: #fff !important;
     position: absolute;
     top: 0;
     left: 0;
@@ -13579,6 +13580,9 @@ menu>ul>li.active>a:after {
 .home-btn {
      color: #ee6123 !important;
 
+}
+.home-btn:hover{
+    color: #fff !important;
 }
 .messonry-button button span.filter-text {
     font-size: 18px;
