@@ -605,7 +605,7 @@ include"inc/navbar.php";
                                                 <div class="text">We provide tools with a meeting space where teams can  video call, chat, meet, share files and collaborate simultaneously.
                                                 </div>
                                                 <div class="box-projects-arrow">
-                                                    <span class="button-text">View case study</span>
+                                                    <span class="button-text home-btn">View case study</span>
                                                     <i class="fa fa-long-arrow-right ml-1"></i>
                                                 </div>
                                             </div>
@@ -649,7 +649,7 @@ include"inc/navbar.php";
                                                 <div class="text">Providing online support to customers involves numerous steps if done manually. We provide efficient tools to automate this process.
                                                 </div>
                                                 <div class="box-projects-arrow">
-                                                    <span class="button-text">View case study</span>
+                                                    <span class="button-text home-btn">View case study</span>
                                                     <i class="fa fa-long-arrow-right ml-1"></i>
                                                 </div>
                                             </div>

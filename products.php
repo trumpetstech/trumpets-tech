@@ -199,7 +199,7 @@ include"inc/preloader.php";
                                         <div class="text">We provide tools for securely storing, managing and sharing files within organizations seamlessly and efficiently.
                                         </div>
                                         <div class="box-projects-arrow">
-                                            <span class="button-text">View case study</span>
+                                            <span class="button-text home-btn">View case study</span>
                                             <i class="fa fa-long-arrow-right ml-1"></i>
                                         </div>
                                     </div>

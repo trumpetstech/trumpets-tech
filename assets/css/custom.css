@@ -13584,6 +13584,9 @@ menu>ul>li.active>a:after {
 .home-btn:hover{
     color: #fff !important;
 }
+.project-wrap.style-01:hover .home-btn{
+  color: #fff !important
+}
 .messonry-button button span.filter-text {
     font-size: 18px;
     font-weight: 500;
