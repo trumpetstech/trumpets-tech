@@ -13576,3 +13576,19 @@ menu>ul>li.active>a:after {
     background-image: -o-linear-gradient(top, transparent 39%, #ee6123 100%) !important;
     background-image: linear-gradient(-180deg, transparent 39%, #ee6123 100%) !important;
 }
+.home-btn {
+     color: #ee6123 !important;
+
+}
+.messonry-button button span.filter-text {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.74;
+    color: #ee6123 !important;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.messonry-button button.is-checked span {
+    border-bottom: 2px solid #ee6123 !important;
+}

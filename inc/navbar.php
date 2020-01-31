@@ -128,7 +128,7 @@
                                                             </ul>
                                                         </li-->
                                                         <li class="has-children has-children--multilevel-submenu">
-                                                            <a href="#"><span>Our Products</span></a>
+                                                            <a href="products.php"><span>Our Products</span></a>
                                                             <!-- multilevel submenu -->
                                                             <ul class="submenu">
                                                                 <li><a href="hr.php"><span>Human Resource Tools</span></a></li>

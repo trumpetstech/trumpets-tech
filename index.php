@@ -539,7 +539,7 @@ include"inc/navbar.php";
                                                 <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential
                                                 </div>
                                                 <div class="box-projects-arrow">
-                                                    <span class="button-text">View case study</span>
+                                                    <span class="button-text home-btn ">View case study</span>
                                                     <i class="fa fa-long-arrow-right ml-1"></i>
                                                 </div>
                                             </div>
@@ -561,7 +561,7 @@ include"inc/navbar.php";
                                                 <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
                                                 </div>
                                                 <div class="box-projects-arrow">
-                                                    <span class="button-text">View case study</span>
+                                                    <span class="button-text home-btn ">View case study</span>
                                                     <i class="fa fa-long-arrow-right ml-1"></i>
                                                 </div>
                                             </div>
@@ -583,7 +583,7 @@ include"inc/navbar.php";
                                                 <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
                                                 </div>
                                                 <div class="box-projects-arrow">
-                                                    <span class="button-text">View case study</span>
+                                                    <span class="button-text home-btn ">View case study</span>
                                                     <i class="fa fa-long-arrow-right ml-1"></i>
                                                 </div>
                                             </div>
