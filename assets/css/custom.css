@@ -13563,3 +13563,16 @@ menu>ul>li.active>a:after {
     transform: translateX(0);
     color: #ee6123 !important;
 }
+.box-large-image__midea .images-midea::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: .5;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(39%, transparent), to(#ee6123));
+    background-image: -webkit-linear-gradient(top, transparent 39%, #ee6123 100%) !important;
+    background-image: -o-linear-gradient(top, transparent 39%, #ee6123 100%) !important;
+    background-image: linear-gradient(-180deg, transparent 39%, #ee6123 100%) !important;
+}

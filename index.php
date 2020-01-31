@@ -267,7 +267,7 @@ include"inc/navbar.php";
                                 <p class="text mt-20 main-para">Trumpets Technologies specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
 
                                 <div class="sider-title-button-box mt-30">
-                                    <a href="#" class="ht-btn ht-btn-md">Join us now</a>
+                                    <a href="contact.php" class="ht-btn ht-btn-md">Partner with us</a>
                                 </div>
 
                             </div>
@@ -348,14 +348,14 @@ include"inc/navbar.php";
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
-                                                        <h5 class="heading">Trumpets Management Systems</h5>
+                                                        <h5 class="heading">Modern Management Systems</h5>
                                                     </div>
 
                                                 </div>
                                             </div>
 
                                             <div class="box-large-image__content mt-30 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>Our technical experts have a flair for developing <strong>clean-coded softwares</strong> based on customers’ needs, global guidelines and trends.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -383,7 +383,7 @@ include"inc/navbar.php";
                                             </div>
 
                                             <div class="box-large-image__content mt-30 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>We ensure to provide high end security to our clients important and confidential data by storing it with <b> 2-Tier encryption.</b></p>
                                             </div>
                                         </div>
                                     </a>
@@ -412,7 +412,7 @@ include"inc/navbar.php";
                                             </div>
 
                                             <div class="box-large-image__content mt-40 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>Our technical experts build tools and products that are <b>ready for diversified markets</b> with future proof technology.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -420,7 +420,7 @@ include"inc/navbar.php";
                                 </div>
                             </div>
 
-                            <div class="section-under-heading text-center section-space--mt_40"><a href="#">Learn more about how we work span <i class="ml-1 button-icon far fa-long-arrow-right"></i></a></div>
+                            <div class="section-under-heading text-center section-space--mt_40"><a href="our-solutions.php">Learn more about how we work <i class="ml-1 button-icon far fa-long-arrow-right"></i></a></div>
 
                         </div>
                     </div>
