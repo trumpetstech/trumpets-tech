@@ -51,18 +51,7 @@
                                                             <ul class="submenu">
                                                                 <li>
                                                                     <a href="about.php"><span>About us</span></a>
-                                                                   <!--  <ul class="submenu">
-                                                                        <li><a href="about-us-01.html"><span>About us 01</span></a></li>
-                                                                        <li><a href="about-us-02.html"><span>About us 02</span></a></li>
-                                                                        <li class="has-children">
-                                                                            <a href="#"><span>Submenu Level Two</span></a>
-                                                                            <ul class="submenu">
-                                                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul> -->
+
                                                                 </li>
 
                                                                 <li><a href="leadership.php"><span>Leadership</span></a></li>
@@ -142,13 +131,13 @@
                                                             <a href="#"><span>Our Products</span></a>
                                                             <!-- multilevel submenu -->
                                                             <ul class="submenu">
-                                                                <li><a href="products.php"><span>Human Resource Tools</span></a></li>
-                                                                <li><a href="products.php"><span>Customer Relationship Tools</span></a></li>
-                                                                <li><a href="products.phpl"><span>Order Lifecycle Management Tools</span></a></li>
-                                                                <li><a href="products.php"><span>Video Conferencing Tools Tools</span></a></li>
-                                                                 <li><a href="products.php"><span>Retail POS Software Tools</span></a></li>
-                                                                 <li><a href="single-smart-vision.html"><span>Help Desk Software</span></a></li>
-                                                                  <li><a href="single-smart-vision.html"><span>Self-Hosted Files Management</span></a></li>
+                                                                <li><a href="hr.php"><span>Human Resource Tools</span></a></li>
+                                                                <li><a href="crm.php"><span>Customer Relationship Tools</span></a></li>
+                                                                <li><a href="olc.php"><span>Order Lifecycle Management Tools</span></a></li>
+                                                                <li><a href="pletox.php"><span>Video Conferencing Tools Tools</span></a></li>
+                                                                 <li><a href="pos.php"><span>Retail POS Software Tools</span></a></li>
+                                                                 <li><a href="helpdesk.php"><span>Help Desk Software</span></a></li>
+                                                                  <li><a href="drive.php"><span>Self-Hosted Files Management</span></a></li>
 
                                                             </ul>
                                                         </li>

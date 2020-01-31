@@ -33,7 +33,7 @@ include"inc/navbar.php"
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="modern-number-01">
-                                <h3 class="heading mt-30">Human<span class="text-color-primary"> Resource <br> Tools</span></h3>
+                                <h3 class="heading mt-30">Retail POS<span class="text-color-primary"> Software <br> Tools</span></h3>
                             </div>
                         </div>
                         <div class="col-lg-7 offset-lg-1">
@@ -50,7 +50,7 @@ include"inc/navbar.php"
             </div>
             <div class="col-md-12">
                 <div class="container mx-auto text-center">
-                   <img src="assets/img/hr.jpg">
+                   <img src="assets/img/pos.jpg">
                 </div>
             </div>
             <!--===========  feature-large-images-wrapper  End =============-->

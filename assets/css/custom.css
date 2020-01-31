@@ -13431,7 +13431,7 @@ menu>ul>li.active>a:after {
     color: #ffffff;
 }
 .service-contact-bg {
-    background-color: #f8f8f8 !important;
+    background-color: #fcf5f2 !important;
     background-image: url(../images/bg/mitech-home-services-contact-bg.png);
     background-repeat: no-repeat;
     background-position: left bottom;
@@ -13448,4 +13448,28 @@ menu>ul>li.active>a:after {
     line-height: 1.78;
     margin-bottom: 13px;
     color: #000 !important;
+}
+.submenu>li.active>a {
+    color: #ababab !important;
+}
+.cta-button-group--one .btn-two:hover {
+    background: #ee6123 !important;
+    color: #ffffff !important;
+}
+.cta-button-group--one .btn-one {
+    color: #ee6123 !important;
+    margin: 10px;
+}
+.cta-button-group--one .btn-one:hover {
+    background: #ee6123 !important;
+    color: #ffffff !important;
+}
+.ht-box-icon.style-03 .icon-box-wrap .content-header .heading {
+    color: #ee6123 !important;
+    margin-bottom: 10px;
+}
+.faq-two-wrapper .card-header h5 button[aria-expanded="true"] {
+    color: #ee6123 !important;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
