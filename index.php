@@ -624,7 +624,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Retail POS Software</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                <div class="text">We tune in modern cloud based POS platforms that enable retails store to manage their business from anywhere with fesibility.
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text">View case study</span>
@@ -646,7 +646,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Help Desk Software</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                <div class="text">Providing online support to customers involves numerous steps if done manually. We provide efficient tools to automate this process.
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text">View case study</span>
@@ -668,7 +668,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Self-Hosted Files Management</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential …
+                                                <div class="text">We provide tools for securely storing, managing and sharing files within organizations seamlessly and efficiently.
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text">View case study</span>
