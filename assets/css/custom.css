@@ -13599,3 +13599,22 @@ menu>ul>li.active>a:after {
 .messonry-button button.is-checked span {
     border-bottom: 2px solid #ee6123 !important;
 }
+.testimonial-slider__author .designation:before {
+    content: ' - ' !important;
+    padding: 0 5px;
+}
+.ht-team-member .social-networks {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    padding: 10px 0;
+    opacity: 0;
+    visibility: hidden;
+    text-align: center;
+    padding: 6px 0;
+    background-color: #ee6123 !important;
+       -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}

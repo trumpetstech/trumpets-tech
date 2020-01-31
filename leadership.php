@@ -46,7 +46,7 @@ include"inc/navbar.php";
                         <div class="grid-item">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="assets/images/team/team-member-07-370x455.jpg" alt="">
+                                    <img class="img-fluid" src="assets/img/team/ceo.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
@@ -59,8 +59,8 @@ include"inc/navbar.php";
                                     </div>
                                 </div>
                                 <div class="team-info text-center">
-                                    <h5 class="name">Dollie Horton </h5>
-                                    <div class="position">Marketing</div>
+                                    <h5 class="name">Abhishek Wani</h5>
+                                    <div class="position">Founder & CEO</div>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ include"inc/navbar.php";
                         <div class="grid-item">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="assets/images/team/team-member-01-370x455.jpg" alt="">
+                                    <img class="img-fluid" src="assets/img/team/director.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
@@ -82,8 +82,8 @@ include"inc/navbar.php";
                                     </div>
                                 </div>
                                 <div class="team-info text-center">
-                                    <h5 class="name">Stephen Mearsley </h5>
-                                    <div class="position">President & CEO</div>
+                                    <h5 class="name">Akash Wani </h5>
+                                    <div class="position">Director & Shareholder</div>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +92,7 @@ include"inc/navbar.php";
                         <div class="grid-item">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="assets/images/team/team-member-06-370x455.jpg" alt="">
+                                    <img class="img-fluid" src="assets/img/team/shubham.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
@@ -105,8 +105,8 @@ include"inc/navbar.php";
                                     </div>
                                 </div>
                                 <div class="team-info text-center">
-                                    <h5 class="name">Maggie Strickland </h5>
-                                    <div class="position">Financial Services</div>
+                                    <h5 class="name">Shubham Navarkar </h5>
+                                    <div class="position">Chief Operations Head</div>
                                 </div>
                             </div>
                         </div>
@@ -118,7 +118,7 @@ include"inc/navbar.php";
                         <div class="grid-item mb-30">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="assets/images/team/team-member-04-370x452.jpg" alt="">
+                                    <img class="img-fluid" src="assets/img/team/nikita.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
@@ -131,8 +131,8 @@ include"inc/navbar.php";
                                     </div>
                                 </div>
                                 <div class="team-info text-center">
-                                    <h6 class="name">Stephany Mearsley </h6>
-                                    <div class="position">Marketing</div>
+                                    <h6 class="name">Nikita Jadhav</h6>
+                                    <div class="position">Front-end Developer & Marketing</div>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@ include"inc/navbar.php";
                         <div class="grid-item  mb-30">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="assets/images/team/team-member-05-370x452.jpg" alt="">
+                                    <img class="img-fluid" src="assets/img/team/devangi.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
@@ -155,8 +155,8 @@ include"inc/navbar.php";
                                     </div>
                                 </div>
                                 <div class="team-info text-center">
-                                    <h6 class="name">Monica Blews </h6>
-                                    <div class="position">Marketing</div>
+                                    <h6 class="name">Devangi Mehta </h6>
+                                    <div class="position">Senior Graphics Designer</div>
                                 </div>
                             </div>
                         </div>
@@ -166,7 +166,7 @@ include"inc/navbar.php";
                         <div class="grid-item mb-30">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="assets/images/team/team-member-03-370x452.jpg" alt="">
+                                    <img class="img-fluid" src="assets/img/team/vishakha.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
@@ -179,8 +179,8 @@ include"inc/navbar.php";
                                     </div>
                                 </div>
                                 <div class="team-info text-center">
-                                    <h6 class="name">Maggie Strickland </h6>
-                                    <div class="position">Marketing</div>
+                                    <h6 class="name">Vishakha Pathak </h6>
+                                    <div class="position">UI/UX Designer</div>
                                 </div>
                             </div>
                         </div>
@@ -190,7 +190,7 @@ include"inc/navbar.php";
                         <div class="grid-item mb-30">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="assets/images/team/team-member-02-370x452.jpg" alt="">
+                                    <img class="img-fluid" src="assets/img/team/team-member-02-370x452.jpg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
@@ -216,7 +216,7 @@ include"inc/navbar.php";
         </div>
         <!-- ============ Team Member Wrapper End =============== -->
 
-        <div class="list-member-area section-space--pb_70">
+        <!-- <div class="list-member-area section-space--pb_70">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 team_member-list mb-30">
@@ -257,7 +257,7 @@ include"inc/navbar.php";
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
 

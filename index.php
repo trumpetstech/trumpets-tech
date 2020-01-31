@@ -580,7 +580,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Order Lifecycle Management Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">Our OLM tools help organizations to build an efficient hierarchy in enquiry to production to sale workflow with keeping necessary records.
+                                                <div class="text">Our OLM tools help organizations to build an efficient hierarchy in enquiry to production to sale workflow with keeping necessary...
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text home-btn ">View case study</span>
@@ -646,7 +646,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Help Desk Software</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">Providing online support to customers involves numerous steps if done manually. We provide efficient tools to automate this process.
+                                                <div class="text">Providing online support to customers involves numerous steps if done manually. We provide efficient tools to automate...
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text home-btn">View case study</span>
@@ -684,7 +684,7 @@ include"inc/navbar.php";
                             <div class="swiper-pagination swiper-pagination-project mt_20"></div>
                         </div>
 
-                        <div class="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                        <!-- <div class="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div> -->
 
                     </div>
                 </div>
@@ -699,14 +699,14 @@ include"inc/navbar.php";
                     <div class="col-lg-12">
                         <div class="section-title-wrap text-center section-space--mb_60">
                             <h6 class="section-sub-title mb-20">Testimonials</h6>
-                            <h3 class="heading">Why do people praise about<span class="text-color-primary"> Mitech?</span></h3>
+                            <h3 class="heading">Why do people say  about<span class="text-color-primary"> Trumpets?</span></h3>
                         </div>
                         <div class="testimonial-slider">
                             <div class="swiper-container testimonial-slider__container-two">
                                 <div class="swiper-wrapper testimonial-slider__wrapper">
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
-                                            <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
+                                            <!-- <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6> -->
                                             <div class="testimonial-slider__text">Platforms provided by Trumpets have made our industry's output to a more better entext and have simplied a lot of our process. </div>
                                             <div class="author-info">
                                               <!--   <div class="testimonial-slider__media">
@@ -722,7 +722,7 @@ include"inc/navbar.php";
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
-                                            <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
+                                            <!-- <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6> -->
                                             <div class="testimonial-slider__text">We needed a minimal solution to manage our grocery inventory and Invento from Trumpets got to be the perfect choice.</div>
                                             <div class="author-info">
                                              <!--    <div class="testimonial-slider__media">
@@ -738,7 +738,7 @@ include"inc/navbar.php";
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
-                                            <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
+                                            <!-- <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6> -->
                                             <div class="testimonial-slider__text">Enqubyte has eleminated a lot of our manual and paperwork and has brought up a huge impact on our company workflow.</div>
                                             <div class="author-info">
                                                 <!-- <div class="testimonial-slider__media">
@@ -754,7 +754,7 @@ include"inc/navbar.php";
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
-                                            <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
+                                           <!--  <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6> -->
                                             <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. </div>
                                             <div class="author-info">
                                                <!--  <div class="testimonial-slider__media">
@@ -895,7 +895,7 @@ include"inc/navbar.php";
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-lg-6">
                         <div class="conact-us-wrap-one">
-                            <h3 class="heading">Obtaining further information by <span class="text-color-primary">make a contact</span> with our experienced IT staffs. </h3>
+                            <h3 class="heading">Obtain further information by <span class="text-color-primary">making a contact</span> with our experienced IT staffs. </h3>
 
                             <div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
 

@@ -20,7 +20,7 @@ include"inc/navbar.php"
                     <div class="col-lg-8 ml-auto mr-auto">
                         <div class="about-banner-content text-center">
                             <h1 class="mb-15 text-white">About Trumpets</h1>
-                            <h5 class="font-weight--normal text-white">Trumpets specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
+                            <h5 class="font-weight--normal text-white">We build Productivity Tools for Enterprises that drives the business of our customers with software at the core of their digital transformation.</h5>
                         </div>
                     </div>
                 </div>
@@ -52,9 +52,9 @@ include"inc/navbar.php"
 
                         <div class="col-lg-5 offset-lg-1">
                             <div class="cybersecurity-about-text">
-                                <div class="text">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</div>
+                                <div class="text">Trumpets specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</div>
                                 <div class="button-text">
-                                    <a href="#" class="btn-text">
+                                    <a href="products.php" class="btn-text">
                                         Discover now
                                         <span class="button-icon ml-1">
                                     <i class="far fa-long-arrow-right"></i>
