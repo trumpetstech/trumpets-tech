@@ -304,7 +304,7 @@ include"inc/navbar.php";
                                         <div class="list-header">
                                             <div class="marker"> 03</div>
                                             <div class="title-wrap">
-                                                <h6 class="title"> What are the best of Mitech? </h6>
+                                                <h6 class="title"> What are the best of Trumpets? </h6>
                                             </div>
                                         </div>
                                     </a>
@@ -348,7 +348,7 @@ include"inc/navbar.php";
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
-                                                        <h5 class="heading">Mitech Management Systems</h5>
+                                                        <h5 class="heading">Trumpets Management Systems</h5>
                                                     </div>
 
                                                 </div>
@@ -536,7 +536,7 @@ include"inc/navbar.php";
                                             <div class="content">
                                                 <h6 class="heading">Human Resource Tools</h6>
                                                 <div class="post-categories">Cyber Security</div>
-                                                <div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.
+                                                <div class="text">The prospects for a company operating in this new market are varied and exciting. The potential
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text">View case study</span>
@@ -706,15 +706,15 @@ include"inc/navbar.php";
                                 <div class="swiper-wrapper testimonial-slider__wrapper">
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
-                                            <h6 class="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
-                                            <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. Their popularity and reputation are just evident. </div>
+                                            <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
+                                            <div class="testimonial-slider__text">Platforms provided by Trumpets have made our industry's output to a more better entext and have simplied a lot of our process. </div>
                                             <div class="author-info">
                                                 <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-04-70x70.jpg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="testimonial-slider__author">
-                                                    <h6 class="name">Maggie Strickland</h6>
-                                                    <span class="designation">WEB DESIGNER</span>
+                                                    <h6 class="name">Karan Patil</h6>
+                                                    <span class="designation">Cheminova Agro Pvt. Ltd.</span>
                                                 </div>
                                             </div>
 
@@ -722,15 +722,15 @@ include"inc/navbar.php";
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
-                                            <h6 class="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
-                                            <div class="testimonial-slider__text">I discovered @Mitech services by chance on the Internet to find a suitable IT services provider. This must be fate, not an accident at all.</div>
+                                            <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
+                                            <div class="testimonial-slider__text">We needed a minimal solution to manage our grocery inventory and Invento from Trumpets got to be the perfect choice.</div>
                                             <div class="author-info">
                                                 <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-02-70x70.jpg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="testimonial-slider__author">
-                                                    <h6 class="name">Robert Amplilian</h6>
-                                                    <span class="designation">Marketing</span>
+                                                    <h6 class="name">Gaurav Pangahvane</h6>
+                                                    <span class="designation">Bhrama Valley</span>
                                                 </div>
                                             </div>
 
@@ -738,15 +738,15 @@ include"inc/navbar.php";
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
-                                            <h6 class="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
-                                            <div class="testimonial-slider__text">IT service is not an easy path to follow. But these guys can make it to the top with premium services and dedicated customer support.</div>
+                                            <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
+                                            <div class="testimonial-slider__text">Enqubyte has eleminated a lot of our manual and paperwork and has brought up a huge impact on our company workflow.</div>
                                             <div class="author-info">
                                                 <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-01-70x70.jpg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="testimonial-slider__author">
-                                                    <h6 class="name">Stephen Mearsley</h6>
-                                                    <span class="designation">PR Officer</span>
+                                                    <h6 class="name">Shekhar Bam</h6>
+                                                    <span class="designation">Surya Group</span>
                                                 </div>
                                             </div>
 
@@ -754,15 +754,15 @@ include"inc/navbar.php";
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
-                                            <h6 class="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
-                                            <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. Their popularity and reputation are just evident. </div>
+                                            <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6>
+                                            <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. </div>
                                             <div class="author-info">
                                                 <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-03-70x70.jpg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="testimonial-slider__author">
-                                                    <h6 class="name">Monica Blews</h6>
-                                                    <span class="designation">PR Officer</span>
+                                                    <h6 class="name"> Himanshu Ratnaparkhi</h6>
+                                                    <span class="designation">CEO, Solicitous</span>
                                                 </div>
                                             </div>
 
@@ -908,7 +908,7 @@ include"inc/navbar.php";
                                     <span class="fal fa-phone"></span>
                                 </div>
                                 <h6 class="heading font-weight--reguler">Reach out now!</h6>
-                                <h2 class="call-us"><a href="tel:190068668">1900 68668</a></h2>
+                                <h2 class="call-us"><a href="tel:190068668">+91 9922367414</a></h2>
                                 <div class="contact-us-button mt-20">
                                     <a href="#" class="btn btn--secondary">Contact us</a>
                                 </div>
