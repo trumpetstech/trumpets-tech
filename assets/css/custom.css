@@ -13508,3 +13508,58 @@ menu>ul>li.active>a:after {
     color: #ffffff !important;
     background: #ee6123 !important;
 }
+.tm-button{
+  color:#ee6123 !important;
+}
+.box-large-image__box .button-wrapper .btn {
+    background: #fff;
+    color:#ee6123 !important;
+    -webkit-transform: translateY(100%);
+    -ms-transform: translateY(100%);
+    transform: translateY(100%);
+    opacity: 0;
+}
+.ht-box-images.style-01 .circle-arrow a:hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 56px;
+    height: 56px;
+    line-height: 56px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 24px;
+    color: #fff !important;
+    background: #ee6123 !important;
+}
+/*.box-large-image__wrap:hover{
+  background:#ee6123 !important;
+}*/
+.box-large-image__wrap:hover .images-midea::after {
+    background:#ee6123 !important;
+    opacity: .8;
+}
+.ht-box-images.style-01:hover .circle-arrow a {
+    background:#ee6123 !important;
+}
+.top-message a {
+    color: #ee6123 !important;
+    font-weight: 500;
+}
+.main-para{
+  font-size: 18px!important;
+}
+.ht-list.style-auto-numbered-02 .list-item .link:hover .title {
+    color: #ee6123 !important;
+}
+.ht-list.style-auto-numbered-02 .list-item .link:hover .marker {
+    color: #ee6123 !important;
+}
+.ht-list.style-auto-numbered-02 .list-item .link:hover .title::after {
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+    color: #ee6123 !important;
+}

@@ -5,7 +5,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p class="text-center top-message"><a href="careers.php">Now Hiring:</a> Are you a driven and motivated 1st Line IT Support Engineer?</p>
+                        <p class="text-center top-message"><a href="careers.php">Now Hiring:</a> We are looking for Sales Executive.</p>
                     </div>
                 </div>
             </div>

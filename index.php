@@ -22,11 +22,11 @@ include"inc/navbar.php";
                     <!--baseline-->
                     <div class="col-lg-6 col-md-6">
                         <div class="infotechno-hero-text  wow move-up">
-                            <h6>IT Design & Consulting </h6>
-                            <h1 class="font-weight--reguler mb-15">Facilitate All <br>  Local IT-related Service Providers  </h1>
+                            <h6>IT Services & Consultancy </h6>
+                            <h1 class="font-weight--reguler mb-15">We invest in <br> building & growing <br>   the right technology </h1>
                                 <p>Highly Tailored IT Design, Management & Support Services. </p>
                                 <div class="hero-button  mt-30">
-                                    <a href="#" class="ht-btn ht-btn-md">Get details</a>
+                                    <a href="our-solutions.php" class="ht-btn ht-btn-md">Get details</a>
                                 </div>
                         </div>
                     </div>
@@ -160,7 +160,7 @@ include"inc/navbar.php";
                         <!-- section-title-wrap Start -->
                         <div class="section-title-wrap text-center">
                             <h6 class="section-sub-title mb-20">Our services</h6>
-                            <h3 class="heading">For your very specific industry, <br> we have <span class="text-color-primary"> highly-tailored IT solutions.</span></h3>
+                            <h3 class="heading">For any specific industry, <br> we have <span class="text-color-primary"> highly-tailored IT solutions.</span></h3>
                         </div>
                         <!-- section-title-wrap Start -->
                     </div>
@@ -179,7 +179,7 @@ include"inc/navbar.php";
                                                 <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-01-image-01-100x108.png" alt="">
                                             </div>
                                             <div class="content">
-                                                <h5 class="heading">IT Design </h5>
+                                                <h5 class="heading">Cloud ERP </h5>
                                                 <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                 </div>
                                                 <div class="circle-arrow">
@@ -203,7 +203,7 @@ include"inc/navbar.php";
                                                 <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-01-image-02-100x108.png" alt="">
                                             </div>
                                             <div class="content">
-                                                <h5 class="heading">IT Management</h5>
+                                                <h5 class="heading">Business Automation</h5>
                                                 <div class="text">It’s possible to simultaneously manage and transform information from one server to another.
                                                 </div>
                                                 <div class="circle-arrow">
@@ -246,7 +246,7 @@ include"inc/navbar.php";
                             </div>
                         </div>
 
-                        <div class="section-under-heading text-center section-space--mt_60 section-space--pt_30">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                        <div class="section-under-heading text-center section-space--mt_60 section-space--pt_30">Challenges are just opportunities in disguise. <a href="contact.php">Give us a challenge!</a></div>
 
                     </div>
                 </div>
@@ -263,8 +263,8 @@ include"inc/navbar.php";
                         <div class="col-lg-5">
                             <div class="section-title small-mb__40 tablet-mb__40">
                                 <h6 class="section-sub-title mb-20">Our company</h6>
-                                <h3 class="heading">We’ve been thriving in <span class="text-color-primary">3 years</span></h3>
-                                <p class="text mt-20">Trumpets Technologies specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
+                                <h3 class="heading">We’ve been thriving for <span class="text-color-primary">3 years</span></h3>
+                                <p class="text mt-20 main-para">Trumpets Technologies specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
 
                                 <div class="sider-title-button-box mt-30">
                                     <a href="#" class="ht-btn ht-btn-md">Join us now</a>
@@ -276,7 +276,7 @@ include"inc/navbar.php";
                         <div class="col-lg-5 ml-auto">
                             <div class="ht-list style-auto-numbered-02">
                                 <div class="list-item">
-                                    <a class="link" href="#">
+                                    <a class="link" href="our-solutions.php">
                                         <div class="list-header">
                                             <div class="marker">
                                                 01
@@ -288,7 +288,7 @@ include"inc/navbar.php";
                                     </a>
                                 </div>
                                 <div class="list-item">
-                                    <a class="link" href="#">
+                                    <a class="link" href="why-choose-us.php">
                                         <div class="list-header">
                                             <div class="marker">
                                                 02
@@ -300,7 +300,7 @@ include"inc/navbar.php";
                                     </a>
                                 </div>
                                 <div class="list-item">
-                                    <a class="link" href="#">
+                                    <a class="link" href="about.php">
                                         <div class="list-header">
                                             <div class="marker"> 03</div>
                                             <div class="title-wrap">
@@ -344,7 +344,7 @@ include"inc/navbar.php";
 
                                                     <div class="button-wrapper">
                                                         <div class="btn tm-button">
-                                                            <span class="button-text">Learn more</span>
+                                                            <span>Learn more</span>
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
@@ -372,7 +372,7 @@ include"inc/navbar.php";
 
                                                     <div class="button-wrapper">
                                                         <div class="btn tm-button">
-                                                            <span class="button-text">Learn more</span>
+                                                            <span>Learn more</span>
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
@@ -401,7 +401,7 @@ include"inc/navbar.php";
 
                                                     <div class="button-wrapper">
                                                         <div class="btn tm-button">
-                                                            <span class="button-text">Learn more</span>
+                                                            <span>Learn more</span>
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
