@@ -254,7 +254,7 @@ include"inc/navbar.php";
                                 <h6 class="heading font-weight--reguler">Reach out now!</h6>
                                 <h2 class="call-us"><a href="tel:190068668">+91 9922367414</a></h2>
                                 <div class="contact-us-button mt-20">
-                                    <a href="#" class="btn btn--secondary">Contact us</a>
+                                    <a href="contact.php" class="btn btn--secondary">Contact us</a>
                                 </div>
                             </div>
                         </div>

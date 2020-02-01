@@ -13648,3 +13648,10 @@ menu>ul>li.active>a:after {
     color: #ffffff;
     margin: 10px;
 }
+.contact-button a {
+    color: #ee6123 !important;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.45;
+    border-bottom: 1px solid #ddd;
+}
