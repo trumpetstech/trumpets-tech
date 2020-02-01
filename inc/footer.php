@@ -65,7 +65,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-6 text-center text-md-left">
-                           <p class="mb-0 f_400" style="text-align: center;">&copy; 2019 All rights reserved by <a href="#" style="color: #ee6123;">Trumpets Technologies Pvt. Ltd.</a></p>
+                           <p class="mb-0 f_400" style="text-align: center;">&copy; 2019 All rights reserved by <a href="https://trumpets.co.in" style="color: #ee6123;">Trumpets Technologies Pvt. Ltd.</a></p>
                         </div>
                         <div class="col-md-6 text-center text-md-right">
                             <ul class="list ht-social-networks solid-rounded-icon">
