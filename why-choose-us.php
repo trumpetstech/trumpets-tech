@@ -51,7 +51,7 @@ include"inc/navbar.php"
                         <!-- section-title-wrap Start -->
                         <div class="section-title-wrap text-center section-space--mb_30">
                             <h3 class="heading mb-20">Preparing for your success, <br> we provide <span class="text-color-primary">truly prominent IT solutions.</span> </h3>
-                            <p class="title-dec-text">The IT services that Mitech are running can be segmented by the type of skills employed to deliver the service (design, build, run). Technically, these fall into three main categories: business process services, application services, and infrastructure services.</p>
+                            <p class="title-dec-text">The IT services that Trumpets are running can be segmented by the type of skills employed to deliver the service (design, build, run). Technically, these fall into three main categories: business process services, application services, and infrastructure services.</p>
                         </div>
                         <!-- section-title-wrap Start -->
                     </div>
@@ -61,7 +61,7 @@ include"inc/navbar.php"
                     <div class="row">
                         <div class="col-lg-4 offset-lg-1">
                             <div class="modern-number-01  mt-30">
-                                <h2 class="heading  mr-5"><span class="mark-text">38</span>Years’ Experience in IT</h2>
+                                <h2 class="heading  mr-5"><span class="mark-text">3</span>Years’ Experience in IT</h2>
                                 <h3 class="heading mt-30">Learn More About Our <span class="text-color-primary"> Success <br>Stories </span> </h3>
                             </div>
                         </div>
@@ -70,7 +70,7 @@ include"inc/navbar.php"
                             <div class="progress-bar--one mt-30 section-space--mb_60">
                                 <!-- Start Single Progress Charts -->
                                 <div class="progress-charts">
-                                    <h6 class="heading ">UI/UX</h6>
+                                    <h6 class="heading ">UI/UX Design</h6>
                                     <div class="progress">
                                         <div class="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" role="progressbar" style="width: 81%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span class="percent-label">81%</span></div>
                                     </div>
@@ -79,7 +79,7 @@ include"inc/navbar.php"
 
                                 <!-- Start Single Progress Charts -->
                                 <div class="progress-charts">
-                                    <h6 class="heading ">Ideas</h6>
+                                    <h6 class="heading ">Graphic Design</h6>
                                     <div class="progress">
                                         <div class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar" style="width: 72%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span class="percent-label">72%</span></div>
                                     </div>
@@ -88,7 +88,7 @@ include"inc/navbar.php"
 
                                 <!-- Start Single Progress Charts -->
                                 <div class="progress-charts ">
-                                    <h6 class="heading ">Marketing</h6>
+                                    <h6 class="heading ">Backend Development</h6>
                                     <div class="progress">
                                         <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".8s" role="progressbar" style="width: 89%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"><span class="percent-label">89%</span></div>
                                     </div>
@@ -97,7 +97,7 @@ include"inc/navbar.php"
 
                                 <!-- Start Single Progress Charts -->
                                 <div class="progress-charts ">
-                                    <h6 class="heading ">Consulting</h6>
+                                    <h6 class="heading ">Fronend Design</h6>
                                     <div class="progress">
                                         <div class="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".9s" role="progressbar" style="width: 57%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"><span class="percent-label">57%</span></div>
                                     </div>
@@ -134,7 +134,7 @@ include"inc/navbar.php"
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
-                                                        <h5 class="heading">Mitech Management Systems</h5>
+                                                        <h5 class="heading">Trumpets Management Systems</h5>
                                                     </div>
 
                                                 </div>
@@ -205,7 +205,7 @@ include"inc/navbar.php"
                                 </div>
                             </div>
 
-                            <div class="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                            <div class="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="contact.php">Give us a challenge!</a></div>
 
                         </div>
                     </div>
@@ -239,7 +239,7 @@ include"inc/navbar.php"
                                     <span class="fa fa-star"></span>
                                     <span class="fa fa-star"></span>
                                 </div>
-                                <p class="sub-text">From online reviews & feedbacks/p>
+                                <p class="sub-text">From online reviews &amp; feedbacks</p>
                             </div>
 
                             <div class="contact-list-item">
@@ -251,7 +251,7 @@ include"inc/navbar.php"
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading">Call for advice now!</h6>
-                                                <div class="text">1900 68668</div>
+                                                <div class="text"> +91 9922367414</div>
                                             </div>
                                         </div>
                                     </div>
@@ -264,7 +264,7 @@ include"inc/navbar.php"
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading">Say hello</h6>
-                                                <div class="text">hello@mitech.com</div>
+                                                <div class="text">hello@trumpets.co.in</div>
                                             </div>
                                         </div>
                                     </div>

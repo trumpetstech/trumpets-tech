@@ -141,7 +141,7 @@ include"inc/navbar.php"
                             </div>
                         </div>
 
-                        <div class="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                        <div class="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a href="#">Give us a challenge!</a></div>
 
                     </div>
                 </div>
@@ -283,7 +283,7 @@ include"inc/navbar.php"
                     <div class="col-lg-12">
                         <div class="section-title-wrap text-center section-space--mb_40">
                             <h6 class="section-sub-title mb-20">Testimonials</h6>
-                            <h3 class="heading">What do people praise about <span class="text-color-primary"> Trumpets?</span></h3>
+                            <h3 class="heading">What do people say about <span class="text-color-primary"> Trumpets?</span></h3>
                         </div>
                         <div class="testimonial-slider">
                             <div class="swiper-container testimonial-slider__container">

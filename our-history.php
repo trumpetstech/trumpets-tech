@@ -231,7 +231,7 @@ include"inc/navbar.php";
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading">Call for advice now!</h6>
-                                                <div class="text">1900 68668</div>
+                                                <div class="text">+91 9922367414</div>
                                             </div>
                                         </div>
                                     </div>
@@ -244,7 +244,7 @@ include"inc/navbar.php";
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading">Say hello</h6>
-                                                <div class="text">hello@mitech.com</div>
+                                                <div class="text">hello@trumpets.co.in</div>
                                             </div>
                                         </div>
                                     </div>

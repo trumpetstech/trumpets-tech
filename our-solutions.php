@@ -162,7 +162,7 @@ include"inc/navbar.php";
                             </div>
                         </div>
 
-                        <div class="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                        <div class="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a href="contact.php">Give us a challenge!</a></div>
 
                     </div>
                 </div>
@@ -244,7 +244,7 @@ include"inc/navbar.php";
                                 <h6 class="sub-title mb-20">Resources</h6>
                                 <h3 class="heading">Get a copy of brochure on <span class="text-color-primary"> Brand New IT Tech.</span></h3>
                                 <div class="button mt-30">
-                                    <a href="#" class="ht-btn ht-btn-md">Download now (3MB)</a>
+                                    <a href="pdf/Trumpets.pdf" class="ht-btn ht-btn-md" download="pdf/Trumpets.pdf" target="_blank">Download now (3MB)</a>
                                 </div>
                             </div>
                         </div>
@@ -253,7 +253,7 @@ include"inc/navbar.php";
                         <div class="resources-right-box">
                             <div class="resources-right-inner text-center">
                                 <div class="resources-images">
-                                    <img class="img-fluid" src="assets/images/banners/managed-it-services-book-cover.png" alt="">
+                                    <img class="img-fluid" src="assets/img/page.png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -516,7 +516,7 @@ include"inc/navbar.php";
                                     <span class="fa fa-star"></span>
                                     <span class="fa fa-star"></span>
                                 </div>
-                                <p class="sub-text" style="color: #000;">by 700+ customers for 3200+ clients</p>
+                               <p class="sub-text">From online reviews &amp; feedbacks</p>
                             </div>
 
                             <div class="contact-list-item">

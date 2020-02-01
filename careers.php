@@ -64,7 +64,7 @@ include"inc/navbar.php";
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div class="job-info">
-                                                <h5 class="job-name">IT Operations Specialist</h5>
+                                                <h5 class="job-name">Full Stack Developer</h5>
                                                 <span class="job-time">Full time</span>
                                             </div>
                                         </div>
@@ -86,13 +86,13 @@ include"inc/navbar.php";
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div class="job-info">
-                                                <h5 class="job-name">IT Desktop Support </h5>
+                                                <h5 class="job-name">Front-end Developer</h5>
                                                 <span class="job-time">Full time</span>
                                             </div>
                                         </div>
 
                                         <div class="col-md-6">
-                                            <div class="job-description">The Mitech IT team believes in full transparency, being flexible, reliable and being great team players. We are problem solvers, always ready to help and support each other and the organization. </div>
+                                            <div class="job-description">The Trumpets IT team believes in full transparency, being flexible, reliable and being great team players. We are problem solvers, always ready to help and support each other and the organization. </div>
                                         </div>
 
                                         <div class="col-md-3">
@@ -108,13 +108,13 @@ include"inc/navbar.php";
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div class="job-info">
-                                                <h4 class="job-name">IT Summer Intern</h4>
+                                                <h4 class="job-name">Marketing Executive</h4>
                                                 <span class="job-time">Full time</span>
                                             </div>
                                         </div>
 
                                         <div class="col-md-6">
-                                            <div class="job-description">Mitech is looking for a summer intern to work in the Information &amp; Technology Services area. This position is part of a team which supports Microsoft Server Operating Systems, storage systems, and Client device technologies.</div>
+                                            <div class="job-description">Trumpets is looking for a marketing executive to work in the Information &amp; Technology Services area. This position is part of a team which supports Microsoft Server Operating Systems, storage systems, and Client device technologies.</div>
                                         </div>
 
                                         <div class="col-md-3">
@@ -130,7 +130,7 @@ include"inc/navbar.php";
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div class="job-info">
-                                                <h4 class="job-name">Software Engineer</h4>
+                                                <h4 class="job-name">Sales Executive</h4>
                                                 <span class="job-time">Full time</span>
                                             </div>
                                         </div>
@@ -164,7 +164,7 @@ include"inc/navbar.php";
                         <div class="section-title-wrap text-center">
                             <h3 class="section-title mb-15 wow move-up">Pay a visit & have some coffee!</h3>
                             <div class="contact-button section-space--mt_30 wow move-up">
-                                <a href="#" class="hover-style-link">View all team <i class="far fa-long-arrow-right"></i></a>
+                                <a href="leadership.php" class="hover-style-link">View all team <i class="far fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -177,9 +177,9 @@ include"inc/navbar.php";
                             <!-- gallery-warp Start -->
                             <div class="gallery-warp popup-images ">
                                 <!-- single gallery Start -->
-                                <a class="single-gallery gallery-grid wow move-up" href="assets/images/gallery/blog-07-960x960.jpg">
+                                <a class="single-gallery gallery-grid wow move-up" href="assets/img/office/4.jpeg">
                                     <div class="single-gallery__item">
-                                        <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/gallery/blog-07-960x960.jpg">
+                                        <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/img/office/4.jpeg">
 
                                         </div>
                                         <div class="ht-overlay"></div>
@@ -190,9 +190,9 @@ include"inc/navbar.php";
                                 </a>
                                 <!-- single gallery End -->
                                 <!-- single gallery Start -->
-                                <a class="single-gallery gallery-grid wow move-up" href="assets/images/gallery/careers-gallery-image-01-960x960.jpg">
+                                <a class="single-gallery gallery-grid wow move-up" href="assets/img/office/1.jpeg">
                                     <div class="single-gallery__item">
-                                        <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/gallery/careers-gallery-image-01-960x960.jpg"></div>
+                                        <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/img/office/1.jpeg"></div>
                                         <div class="ht-overlay"></div>
                                         <div class="overlay-icon">
                                             <i class="far fa-search"></i>
@@ -201,9 +201,9 @@ include"inc/navbar.php";
                                 </a>
                                 <!-- single gallery End -->
                                 <!-- single gallery Start -->
-                                <a class="single-gallery gallery-grid wow move-up" href="assets/images/gallery/blog-08-960x960.jpg">
+                                <a class="single-gallery gallery-grid wow move-up" href="assets/img/office/2.jpeg">
                                     <div class="single-gallery__item">
-                                        <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/gallery/blog-08-960x960.jpg"></div>
+                                        <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/img/office/2.jpeg"></div>
                                         <div class="ht-overlay"></div>
                                         <div class="overlay-icon">
                                             <i class="far fa-search"></i>
@@ -212,9 +212,9 @@ include"inc/navbar.php";
                                 </a>
                                 <!-- single gallery End -->
                                 <!-- single gallery Start -->
-                                <a class="single-gallery gallery-grid wow move-up" href="assets/images/gallery/blog-06-960x960.jpg">
+                                <a class="single-gallery gallery-grid wow move-up" href="assets/img/office/3.jpeg">
                                     <div class="single-gallery__item">
-                                        <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/gallery/blog-06-960x960.jpg"></div>
+                                        <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/img/office/3.jpeg"></div>
                                         <div class="ht-overlay"></div>
                                         <div class="overlay-icon">
                                             <i class="far fa-search"></i>

@@ -49,12 +49,12 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/ceo.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
-                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                           <!--  <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
                                             <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -72,12 +72,12 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/director.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
-                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                          <!--   <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
                                             <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -95,12 +95,12 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/shubham.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
-                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                           <!--  <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
                                             <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -121,12 +121,12 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/nikita.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
-                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                       <!--      <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
                                             <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -145,12 +145,12 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/devangi.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
-                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                          <!--   <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
                                             <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -169,12 +169,12 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/vishakha.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
-                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                          <!--   <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
                                             <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -193,12 +193,12 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/team-member-02-370x452.jpg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
-                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                           <!--  <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
                                             <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -267,7 +267,7 @@ include"inc/navbar.php";
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-lg-6">
                         <div class="conact-us-wrap-one">
-                            <h3 class="heading">Obtaining further information by <span class="text-color-primary">make a contact</span> with our experienced IT staffs. </h3>
+                            <h3 class="heading">Obtain further information by <span class="text-color-primary">making a contact</span> with our experienced IT staffs. </h3>
 
                             <div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
 

@@ -43,144 +43,19 @@ include"inc/navbar.php";
 
     <div class="site-wrapper-reveal">
         <!--====================  Accordion area ====================-->
-        <div class="accordion-wrapper section-space--ptb_100">
-            <div class="container">
 
-                <div class="row">
-                    <div class="col-lg-12">
-                        <!-- section-title-wrap Start -->
-                        <div class="section-title-wrap text-center section-space--mb_20">
-                            <h6 class="section-sub-title mb-20">Style 01</h6>
-                            <h3 class="heading">Frequently asked questions</h3>
-                        </div>
-                        <!-- section-title-wrap Start -->
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="faq-wrapper  section-space--mt_40">
-                            <div id="accordion">
-                                <div class="card">
-                                    <div class="card-header" id="headingTwo">
-                                        <h5 class="mb-0">
-                                            <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                How can we help your business?<span> <i class="fas fa-chevron-down"></i>
-                                            <i class="fas fa-chevron-up"></i> </span>
-                                            </button>
-                                        </h5>
-                                    </div>
-                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                                        <div class="card-body">
-                                            <p>Trumpets takes into consideration every little detail to make sure the system run smoothly and responsively. Trumpets employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingThree">
-                                        <h5 class="mb-0">
-                                            <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                What are the advantages of Trumpets? <span> <i class="fas fa-chevron-down"></i>
-                                            <i class="fas fa-chevron-up"></i> </span>
-                                            </button>
-                                        </h5>
-                                    </div>
-                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                                        <div class="card-body">
-                                            <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Trumpets would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingFour">
-                                        <h5 class="mb-0">
-                                            <button class="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                How working process is simplified?<span> <i class="fas fa-chevron-down"></i>
-                                            <i class="fas fa-chevron-up"></i> </span>
-                                            </button>
-                                        </h5>
-                                    </div>
-                                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                                        <div class="card-body">
-                                            <p>Our service offerings to enhance customer experience throughout the product lifecycle includes – test and repair, service management, and end-to-end warranty management. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6">
-                        <!-- Start toggles -->
-                        <div class="toggles-wrapper section-space--mt_40">
-                            <div class="faq-wrapper">
-                                <div id="faq-toggles">
-                                    <div class="card">
-                                        <div class="card-header" id="faq_2">
-                                            <h5 class="mb-0">
-                                                <button class="btn-link collapsed" data-toggle="collapse" data-target="#faq_two" aria-expanded="false" aria-controls="faq_two">
-                                                    What are the advantages of Trumpets?<span> <i class="fas fa-chevron-down"></i>
-                                            <i class="fas fa-chevron-up"></i> </span>
-                                                </button>
-                                            </h5>
-                                        </div>
-                                        <div id="faq_two" class="collapse" aria-labelledby="faq_2">
-                                            <div class="card-body">
-                                                <p>Trumpets takes into consideration every little detail to make sure the system run smoothly and responsively. Trumpets employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="card">
-                                        <div class="card-header" id="faq_3">
-                                            <h5 class="mb-0">
-                                                <button class="btn-link collapsed" data-toggle="collapse" data-target="#faq_three" aria-expanded="false" aria-controls="faq_three">
-                                                    How working process is simplified? <span> <i class="fas fa-chevron-down"></i>
-                                            <i class="fas fa-chevron-up"></i> </span>
-                                                </button>
-                                            </h5>
-                                        </div>
-                                        <div id="faq_three" class="collapse" aria-labelledby="faq_3">
-                                            <div class="card-body">
-                                                <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Trumpets would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="card">
-                                        <div class="card-header" id="faq_4">
-                                            <h5 class="mb-0">
-                                                <button class="collapsed" data-toggle="collapse" data-target="#faq_four" aria-expanded="false" aria-controls="faq_four">
-                                                    Product Engineering & Services <span> <i class="fas fa-chevron-down"></i>
-                                                <i class="fas fa-chevron-up"></i> </span>
-                                                </button>
-                                            </h5>
-                                        </div>
-                                        <div id="faq_four" class="collapse" aria-labelledby="faq_4" data-parent="#faq-toggles">
-                                            <div class="card-body">
-                                                <p>We are available to freelance hiring with on-demand extra services, including WordPress site design/ redesign, WordPress installation, all-in-one customization, video production, video editing and stop motion video producing.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End toggles -->
-                    </div>
-                </div>
-            </div>
-        </div>
         <!--====================  Accordion area  ====================-->
 
 
         <!--====================  Accordion area ====================-->
-        <div class="accordion-wrapper section-space--ptb_100 border-top">
+        <div class="accordion-wrapper pt-5 pb-5 mt-5 mb-5">
             <div class="container">
 
                 <div class="row">
                     <div class="col-lg-12">
                         <!-- section-title-wrap Start -->
                         <div class="section-title-wrap text-center section-space--mb_20">
-                            <h6 class="section-sub-title mb-20">Style 02</h6>
+
                             <h3 class="heading">Frequently asked questions</h3>
                         </div>
                         <!-- section-title-wrap Start -->
@@ -291,7 +166,7 @@ include"inc/navbar.php";
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-lg-6">
                         <div class="conact-us-wrap-one">
-                            <h3 class="heading">Obtaining further information by <span class="text-color-primary">make a contact</span> with our experienced IT staffs. </h3>
+                            <h3 class="heading">Obtain further information by <span class="text-color-primary">making a contact</span> with our experienced IT staffs. </h3>
 
                             <div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
 

@@ -177,7 +177,7 @@ include"inc/navbar.php"
                                                             <i class="fal fa-shield-check"></i>
                                                         </div>
                                                         <h5 class="heading">
-                                                            Mitech Management Systems
+                                                            Trumpets Management Systems
                                                         </h5>
                                                     </div>
                                                     <div class="content">
@@ -238,7 +238,7 @@ include"inc/navbar.php"
                                                         </h5>
                                                     </div>
                                                     <div class="content">
-                                                        <div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.</div>
+                                                        <div class="text">At Trumpets, we have a holistic and integrated approach towards core modernization to experience technological evolution.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -467,23 +467,63 @@ include"inc/navbar.php"
 
 
             <!--========== Call to Action Area Start ============-->
-            <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-8 col-lg-7">
-                            <div class="cta-content md-text-center">
-                                <h3 class="heading text-white">We run all kinds of IT services that vow your <span class="text-color-secondary"> success</span></h3>
-                            </div>
+            <div class="contact-us-area infotechno-contact-us-bg section-space--pt_100">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-7">
+                        <div class="image">
+                            <img class="img-fluid" src="assets/images/banners/home-cybersecurity-contact-bg-image.png" alt="">
                         </div>
-                        <div class="col-xl-4 col-lg-5">
-                            <div class="cta-button-group--one text-center">
-                                <a href="#" class="btn btn--white btn-one"><span class="btn-icon mr-2"><i class="far fa-comment-alt-dots"></i></span> Let's talk</a>
-                                <a href="#" class="btn btn--secondary  btn-two"><span class="btn-icon mr-2"><i class="far fa-video"></i></span> Demo</a>
+                    </div>
+
+                    <div class="col-lg-4 ml-auto">
+                        <div class="contact-info style-two text-left">
+
+                            <div class="contact-info-title-wrap text-center">
+                                <h3 class="heading  mb-10">4.9/5.0</h3>
+                                <div class="ht-star-rating lg-style">
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                </div>
+                               <p class="sub-text">From online reviews &amp; feedbacks</p></div>
+
+                            <div class="contact-list-item">
+                                <a href="tel:190068668" class="single-contact-list">
+                                    <div class="content-wrap">
+                                        <div class="content">
+                                            <div class="icon">
+                                                <span class="fal fa-phone"></span>
+                                            </div>
+                                            <div class="main-content">
+                                                <h6 class="heading">Call for advice now!</h6>
+                                                <div class="text"> +91 9922367414</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                <a href="mailto:hello@mitech.com" class="single-contact-list">
+                                    <div class="content-wrap">
+                                        <div class="content">
+                                            <div class="icon">
+                                                <span class="fal fa-envelope"></span>
+                                            </div>
+                                            <div class="main-content">
+                                                <h6 class="heading">Say hello</h6>
+                                                <div class="text">hello@trumpets.co.in</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
                             </div>
+
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
             <!--========== Call to Action Area End ============-->
 
         </div>
