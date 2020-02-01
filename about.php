@@ -535,7 +535,7 @@ include"inc/navbar.php"
                                     <span class="fa fa-star"></span>
                                     <span class="fa fa-star"></span>
                                 </div>
-                                <p class="sub-text">by 700+ customers for 3200+ clients</p>
+                                <p class="sub-text">From online reviews & feedbacks</p>
                             </div>
 
                             <div class="contact-list-item">
