@@ -26,7 +26,7 @@ include"inc/navbar.php";
             </div>
         </div>
         <!--===========  feature-large-images-wrapper  Start =============-->
-        <div class="feature-large-images-wrapper section-space--ptb_100">
+       <!--  <div class="feature-large-images-wrapper section-space--ptb_100">
             <div class="container">
                 <div class="cybersecurity-about-box">
                     <div class="row">
@@ -48,7 +48,7 @@ include"inc/navbar.php";
                 </div>
 
             </div>
-        </div>
+        </div> -->
         <!--===========  feature-large-images-wrapper  End =============-->
 
         <!--===========  feature-images-wrapper  Start =============-->
@@ -171,7 +171,7 @@ include"inc/navbar.php";
         <!--===========  feature-images-wrapper  End =============-->
 
         <!--========= About Delivering Wrapper Start ===========-->
-        <div class="about-delivering-wrapper section-space--ptb_100">
+       <!--  <div class="about-delivering-wrapper section-space--ptb_100">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -233,7 +233,7 @@ include"inc/navbar.php";
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--========= About Resources Wrapper Start ===========-->
         <div class="about-resources-wrapper">
             <div class="container-fluid">
@@ -378,7 +378,7 @@ include"inc/navbar.php";
                                                 </div>
                                             </div>
 
-                                            <div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                            <div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Trumpets is one of the most impressive to me.</div>
 
                                         </div>
                                     </div>

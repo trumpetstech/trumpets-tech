@@ -96,7 +96,7 @@ include"inc/navbar.php";
                                     </div>
                                     <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-parent="#accordion_two">
                                         <div class="card-body">
-                                            <p>Trumpets takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
+                                            <p>Trumpets takes into consideration every little detail to make sure the system run smoothly and responsively. Trumpets employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
                                         </div>
                                     </div>
                                 </div>

@@ -755,7 +755,7 @@ include"inc/navbar.php";
                                     <div class="swiper-slide">
                                         <div class="testimonial-slider__single wow move-up">
                                            <!--  <h6 class="testimonial-subject">The Trumpets team works really hard to ensure high level of quality</h6> -->
-                                            <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. </div>
+                                            <div class="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Trumpets. </div>
                                             <div class="author-info">
                                                <!--  <div class="testimonial-slider__media">
                                                     <img src="assets/images/testimonial/mitech-testimonial-avata-03-70x70.jpg" class="img-fluid" alt="">

@@ -229,7 +229,7 @@ include"inc/navbar.php"
                                 <div class="marker"></div>
                                 <div class="title-wrap">
                                     <h5 class="title">Infrastructure Integration Technology </h5>
-                                    <div class="desc">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution. </div>
+                                    <div class="desc">At Trumpets, we have a holistic and integrated approach towards core modernization to experience technological evolution. </div>
                                 </div>
                             </div>
                             <div class="list-item">
@@ -392,7 +392,7 @@ include"inc/navbar.php"
                                                 </div>
                                             </div>
 
-                                            <div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                            <div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Trumpets is one of the most impressive to me.</div>
 
                                         </div>
                                     </div>
