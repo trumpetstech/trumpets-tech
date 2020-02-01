@@ -97,7 +97,7 @@ include"inc/navbar.php"
 
                                 <!-- Start Single Progress Charts -->
                                 <div class="progress-charts ">
-                                    <h6 class="heading ">Fronend Design</h6>
+                                    <h6 class="heading ">Frontend Design</h6>
                                     <div class="progress">
                                         <div class="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".9s" role="progressbar" style="width: 57%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"><span class="percent-label">57%</span></div>
                                     </div>
@@ -113,8 +113,19 @@ include"inc/navbar.php"
 
 
             <!--===========  feature-large-images-wrapper  Start =============-->
-            <div class="feature-large-images-wrapper section-space--pt_70">
+               <div class="feature-large-images-wrapper section-space--pt_100">
                 <div class="container">
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_30">
+                                <h6 class="section-sub-title mb-20">Hire us, why not?</h6>
+                                <h3 class="heading">How we claim to <span class="text-color-primary"> excel?</span></h3>
+                            </div>
+                            <!-- section-title-wrap Start -->
+                        </div>
+                    </div>
 
                     <div class="row">
                         <div class="col-12">
@@ -122,7 +133,7 @@ include"inc/navbar.php"
 
                                 <div class="col-lg-4 col-md-6 mt-30">
                                     <!-- Box large image warap Start -->
-                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                    <a href="our-solutions.php" class="box-large-image__wrap wow move-up">
                                         <div class="box-large-image__box">
                                             <div class="box-large-image__midea">
                                                 <div class="images-midea">
@@ -130,18 +141,18 @@ include"inc/navbar.php"
 
                                                     <div class="button-wrapper">
                                                         <div class="btn tm-button">
-                                                            <span class="button-text">Learn more</span>
+                                                            <span>Learn more</span>
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
-                                                        <h5 class="heading">Trumpets Management Systems</h5>
+                                                        <h5 class="heading">Modern Management Systems</h5>
                                                     </div>
 
                                                 </div>
                                             </div>
 
                                             <div class="box-large-image__content mt-30 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>Our technical experts have a flair for developing <strong>clean-coded softwares</strong> based on customers’ needs, global guidelines and trends.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -150,7 +161,7 @@ include"inc/navbar.php"
 
                                 <div class="col-lg-4 col-md-6  mt-30">
                                     <!-- Box large image warap Start -->
-                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                    <a href="our-solutions.php" class="box-large-image__wrap wow move-up">
                                         <div class="box-large-image__box">
                                             <div class="box-large-image__midea">
                                                 <div class="images-midea">
@@ -158,7 +169,7 @@ include"inc/navbar.php"
 
                                                     <div class="button-wrapper">
                                                         <div class="btn tm-button">
-                                                            <span class="button-text">Learn more</span>
+                                                            <span>Learn more</span>
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
@@ -169,16 +180,17 @@ include"inc/navbar.php"
                                             </div>
 
                                             <div class="box-large-image__content mt-30 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>We ensure to provide high end security to our clients important and confidential data by storing it with <b> 2-Tier encryption.</b></p>
                                             </div>
                                         </div>
                                     </a>
                                     <!-- Box large image warap End -->
                                 </div>
 
+
                                 <div class="col-lg-4 col-md-6  mt-30">
                                     <!-- Box large image warap Start -->
-                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                    <a href="our-solutions.php" class="box-large-image__wrap wow move-up">
                                         <div class="box-large-image__box">
                                             <div class="box-large-image__midea">
                                                 <div class="images-midea">
@@ -186,7 +198,7 @@ include"inc/navbar.php"
 
                                                     <div class="button-wrapper">
                                                         <div class="btn tm-button">
-                                                            <span class="button-text">Learn more</span>
+                                                            <span>Learn more</span>
                                                         </div>
                                                     </div>
                                                     <div class="heading-wrap">
@@ -197,7 +209,7 @@ include"inc/navbar.php"
                                             </div>
 
                                             <div class="box-large-image__content mt-40 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>Our technical experts build tools and products that are <b>ready for diversified markets</b> with future proof technology.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -205,7 +217,7 @@ include"inc/navbar.php"
                                 </div>
                             </div>
 
-                            <div class="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="contact.php">Give us a challenge!</a></div>
+                            <div class="section-under-heading text-center section-space--mt_40"><a href="our-solutions.php">Learn more about how we work <i class="ml-1 button-icon far fa-long-arrow-right"></i></a></div>
 
                         </div>
                     </div>
