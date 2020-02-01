@@ -516,7 +516,7 @@ include"inc/navbar.php";
                                     <span class="fa fa-star"></span>
                                     <span class="fa fa-star"></span>
                                 </div>
-                               <p class="sub-text">From online reviews &amp; feedbacks</p>
+                               <p class="sub-text" style="color: #696969;">From online reviews &amp; feedbacks</p>
                             </div>
 
                             <div class="contact-list-item">

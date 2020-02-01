@@ -269,7 +269,7 @@ include"inc/navbar.php"
                     <div class="col-md-3 col-sm-6 wow move-up">
                         <div class="fun-fact--two text-center">
                             <div class="fun-fact__count counter">500</div>
-                            <h6 class="fun-fact__text">Coffee</h6>
+                            <h6 class="fun-fact__text">Coffee Cups</h6>
                         </div>
                     </div>
                 </div>

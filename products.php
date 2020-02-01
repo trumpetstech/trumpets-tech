@@ -64,7 +64,7 @@ include"inc/preloader.php";
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Human Resource Tools</h6>
-                                        <div class="post-categories">Cyber Security</div>
+                                        <div class="post-categories">Enterprise Application</div>
                                         <div class="text">Our human resource tools improvises and automates the employee management process in an organization.
                                         </div>
                                         <div class="box-projects-arrow">
@@ -86,7 +86,7 @@ include"inc/preloader.php";
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Customer Relationship Tools</h6>
-                                        <div class="post-categories">Cyber Security</div>
+                                       <div class="post-categories">Enterprise Application</div>
                                         <div class="text">Managing leads & customer data is a crucial process for oragnization. We provide tools to make this process efficient and hassle-free.
                                         </div>
                                         <div class="box-projects-arrow">
@@ -108,7 +108,7 @@ include"inc/preloader.php";
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Order Lifecycle Management Tools</h6>
-                                        <div class="post-categories">Cyber Security</div>
+                                        <div class="post-categories">Enterprise Application</div>
                                         <div class="text">Our OLM tools help organizations to build an efficient hierarchy in enquiry to production to sale workflow with keeping necessary records.
                                         </div>
                                         <div class="box-projects-arrow">
@@ -130,7 +130,7 @@ include"inc/preloader.php";
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Video Conferencing Tools</h6>
-                                        <div class="post-categories">Cyber Security</div>
+                                       <div class="post-categories">Enterprise Application</div>
                                         <div class="text">We provide tools with a meeting space where teams can  video call, chat, meet, share files and collaborate simultaneously.
                                         </div>
                                         <div class="box-projects-arrow">
@@ -152,7 +152,7 @@ include"inc/preloader.php";
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Retail POS Softwares</h6>
-                                        <div class="post-categories">IT consultancy</div>
+                                        <div class="post-categories">Enterprise Application</div>
                                         <div class="text">We tune in modern cloud based POS platforms that enable retails store to manage their business from anywhere with fesibility.
                                         </div>
                                         <div class="box-projects-arrow">
@@ -174,7 +174,7 @@ include"inc/preloader.php";
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Help Desk Software</h6>
-                                        <div class="post-categories">IT Security</div>
+                                        <div class="post-categories">Enterprise Application</div>
                                         <div class="text">Providing online support to customers involves numerous steps if done manually. We provide efficient tools to automate this process.
                                         </div>
                                         <div class="box-projects-arrow">
@@ -195,7 +195,7 @@ include"inc/preloader.php";
                                     </div>
                                     <div class="content">
                                         <h6 class="heading">Self-Hosted Files Management</h6>
-                                        <div class="post-categories">IT Security</div>
+                                        <div class="post-categories">Enterprise Application</div>
                                         <div class="text">We provide tools for securely storing, managing and sharing files within organizations seamlessly and efficiently.
                                         </div>
                                         <div class="box-projects-arrow">
