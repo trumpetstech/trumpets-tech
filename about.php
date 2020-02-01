@@ -106,7 +106,7 @@ include"inc/navbar.php"
                                                 <h5 class="heading">Become our partners?</h5>
                                                 <div class="text ">Our preventive and progressive approach will help you take the lead while addressing possible threats in managing data.
                                                 </div>
-                                                <a href="about.php" class="box-images-arrow">
+                                                <a href="contact.php" class="box-images-arrow">
                                                     <span class="button-text  home-btn">Discover now</span>
                                                     <i class="far fa-long-arrow-right"></i>
                                                 </a>
@@ -128,7 +128,7 @@ include"inc/navbar.php"
                                                 <h5 class="heading">Need a hand?</h5>
                                                 <div class="text">Our support team is available 24/7 a day, 7 days a week and can get ready for solving any of your situational rising problems.
                                                 </div>
-                                                <a href="products.php" class="box-images-arrow">
+                                                <a href="contact.php" class="box-images-arrow">
                                                     <span class="button-text  home-btn">Discover now</span>
                                                     <i class="far fa-long-arrow-right"></i>
                                                 </a>
@@ -141,7 +141,7 @@ include"inc/navbar.php"
                             </div>
                         </div>
 
-                        <div class="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a href="#">Give us a challenge!</a></div>
+                        <div class="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a href="contact.php">Give us a challenge!</a></div>
 
                     </div>
                 </div>
@@ -162,7 +162,7 @@ include"inc/navbar.php"
                                 <h6 class="sub-title mb-20">Resources</h6>
                                 <h3 class="heading">Get a copy of brochure on <span class="text-color-primary"> Brand New IT Tech.</span></h3>
                                 <div class="button mt-30">
-                                    <a href="#" class="ht-btn ht-btn-md">Download now (3MB)</a>
+                                    <a href="pdf/Trumpets.pdf" class="ht-btn ht-btn-md" download="pdf/Trumpets.pdf" target="_blank">Download now (3MB)</a>
                                 </div>
                             </div>
                         </div>
@@ -171,7 +171,7 @@ include"inc/navbar.php"
                         <div class="resources-right-box">
                             <div class="resources-right-inner text-center">
                                 <div class="resources-images">
-                                    <img class="img-fluid" src="assets/img/pagination.sync="".png" alt="">
+                                    <img class="img-fluid" src="assets/img/page.png" alt="">
                                 </div>
                             </div>
                         </div>
