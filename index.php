@@ -185,7 +185,7 @@ include"inc/navbar.php";
                                                 <div class="circle-arrow">
                                                     <div class="middle-dot"></div>
                                                     <div class="middle-dot dot-2"></div>
-                                                    <a href="#">
+                                                    <a href="our-solutions.php">
                                                         <i class="far fa-long-arrow-right"></i>
                                                     </a>
                                                 </div>
@@ -209,7 +209,7 @@ include"inc/navbar.php";
                                                 <div class="circle-arrow">
                                                     <div class="middle-dot"></div>
                                                     <div class="middle-dot dot-2"></div>
-                                                    <a href="#">
+                                                    <a href="our-solutions.php">
                                                         <i class="far fa-long-arrow-right"></i>
                                                     </a>
                                                 </div>
@@ -233,7 +233,7 @@ include"inc/navbar.php";
                                                 <div class="circle-arrow">
                                                     <div class="middle-dot"></div>
                                                     <div class="middle-dot dot-2"></div>
-                                                    <a href="#">
+                                                    <a href="our-solutions.php">
                                                         <i class="far fa-long-arrow-right"></i>
                                                     </a>
                                                 </div>
@@ -336,7 +336,7 @@ include"inc/navbar.php";
 
                                 <div class="col-lg-4 col-md-6 mt-30">
                                     <!-- Box large image warap Start -->
-                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                    <a href="our-solutions.php" class="box-large-image__wrap wow move-up">
                                         <div class="box-large-image__box">
                                             <div class="box-large-image__midea">
                                                 <div class="images-midea">
@@ -364,7 +364,7 @@ include"inc/navbar.php";
 
                                 <div class="col-lg-4 col-md-6  mt-30">
                                     <!-- Box large image warap Start -->
-                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                    <a href="our-solutions.php" class="box-large-image__wrap wow move-up">
                                         <div class="box-large-image__box">
                                             <div class="box-large-image__midea">
                                                 <div class="images-midea">
@@ -393,7 +393,7 @@ include"inc/navbar.php";
 
                                 <div class="col-lg-4 col-md-6  mt-30">
                                     <!-- Box large image warap Start -->
-                                    <a href="#" class="box-large-image__wrap wow move-up">
+                                    <a href="our-solutions.php" class="box-large-image__wrap wow move-up">
                                         <div class="box-large-image__box">
                                             <div class="box-large-image__midea">
                                                 <div class="images-midea">
@@ -528,7 +528,7 @@ include"inc/navbar.php";
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                    <a href="hr.php" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
                                                 <img class="img-fluid" src="/assets/img/products/hr.jpg" alt="">
@@ -550,7 +550,7 @@ include"inc/navbar.php";
 
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                    <a href="crm.php" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
                                                 <img class="img-fluid" src="/assets/img/products/leads.jpg" alt="">
@@ -572,7 +572,7 @@ include"inc/navbar.php";
 
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                    <a href="olc.php" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
                                                 <img class="img-fluid" src="/assets/img/products/enqubyte.jpg" alt="">
@@ -594,7 +594,7 @@ include"inc/navbar.php";
 
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                    <a href="pletox.php" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
                                                 <img class="img-fluid" src="/assets/img/products/pletox.jpg" alt="">
@@ -616,7 +616,7 @@ include"inc/navbar.php";
 
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                    <a href="pos.php" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
                                                 <img class="img-fluid" src="/assets/img/products/pos.jpg" alt="">
@@ -638,7 +638,7 @@ include"inc/navbar.php";
 
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                    <a href="helpdesk.php" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
                                                 <img class="img-fluid" src="/assets/img/products/helpdesk.jpg" alt="">
@@ -660,7 +660,7 @@ include"inc/navbar.php";
 
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                    <a href="drive.php" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image">
                                                 <img class="img-fluid" src="/assets/img/products/drive.jpg" alt="">
@@ -910,7 +910,7 @@ include"inc/navbar.php";
                                 <h6 class="heading font-weight--reguler">Reach out now!</h6>
                                 <h2 class="call-us"><a href="tel:190068668">+91 9922367414</a></h2>
                                 <div class="contact-us-button mt-20">
-                                    <a href="#" class="btn btn--secondary">Contact us</a>
+                                    <a href="contact.php" class="btn btn--secondary">Contact us</a>
                                 </div>
                             </div>
                         </div>
