@@ -71,7 +71,7 @@ include"inc/navbar.php";
                             <div class=" row">
                                 <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- ht-box-icon Start -->
-                                    <a href="#" class="ht-box-images style-04">
+                                    <div class="ht-box-images style-04">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-01-60x60.png" alt="">
@@ -81,12 +81,12 @@ include"inc/navbar.php";
                                                 <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
                                     <!-- ht-box-icon End -->
                                 </div>
                                 <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- ht-box-icon Start -->
-                                    <a href="#" class="ht-box-images style-04">
+                                    <div class="ht-box-images style-04">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-02-60x60.png" alt="">
@@ -96,12 +96,12 @@ include"inc/navbar.php";
                                                 <div class="text">It’s possible to simultaneously manage and transform information from one server to another.</div>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
                                     <!-- ht-box-icon End -->
                                 </div>
                                 <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- ht-box-icon Start -->
-                                    <a href="#" class="ht-box-images style-04">
+                                    <div class="ht-box-images style-04">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-03-60x60.png" alt="">
@@ -111,12 +111,12 @@ include"inc/navbar.php";
                                                 <div class="text">Back up your database, store in a safe and secure place while still maintaining its accessibility.</div>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
                                     <!-- ht-box-icon End -->
                                 </div>
                                 <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- ht-box-icon Start -->
-                                    <a href="#" class="ht-box-images style-04">
+                                    <div class="ht-box-images style-04">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-04-60x60.png" alt="">
@@ -126,12 +126,12 @@ include"inc/navbar.php";
                                                 <div class="text">Suspe ndisse suscipit sagittis leo sit met condime ntum esti laiolainx bulum iscipit sagittis leo sit met con ndisse suscipit sagittis leo sit met cone su</div>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
                                     <!-- ht-box-icon End -->
                                 </div>
                                 <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- ht-box-icon Start -->
-                                    <a href="#" class="ht-box-images style-04">
+                                    <div class="ht-box-images style-04">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-05-60x60.png" alt="">
@@ -141,12 +141,12 @@ include"inc/navbar.php";
                                                 <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
                                     <!-- ht-box-icon End -->
                                 </div>
                                 <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- ht-box-icon Start -->
-                                    <a href="#" class="ht-box-images style-04">
+                                    <div class="ht-box-images style-04">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-06-60x60.png" alt="">
@@ -156,7 +156,7 @@ include"inc/navbar.php";
                                                 <div class="text">Trumpets takes into account all conditions and budgets needed for building infrastructure plan..</div>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
                                     <!-- ht-box-icon End -->
                                 </div>
                             </div>

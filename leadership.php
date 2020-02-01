@@ -49,7 +49,7 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/ceo.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
+                                            <a target="_blank" href="https://www.linkedin.com/in/abhishekwani/" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
                                            <!--  <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
