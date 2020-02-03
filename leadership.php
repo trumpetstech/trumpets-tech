@@ -121,7 +121,7 @@ include"inc/navbar.php";
                                     <img class="img-fluid" src="assets/img/team/nikita.jpeg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
-                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
+                                            <a target="_blank" href="https://www.linkedin.com/in/nikita-jadhav-8310b1174/" class=" hint--bounce  hint--top hint--theme-two" aria-label="Linkedin"><i class="fab fa-linkedin"></i>
                                             </a>
                                        <!--      <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
                                             </a>
