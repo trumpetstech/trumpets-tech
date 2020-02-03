@@ -93,8 +93,8 @@ include"inc/navbar.php";
                             <div class="conact-info-wrap mt-30">
                                 <h5 class="heading mb-20">Mumbai</h5>
                                 <ul class="conact-info__list">
-                                    <li>D-25, Dhanraj Mahal, C.S.M. Road, Apollo Bunder, Mumbai 400 001</li>
-                                    <li><a href="#" class="hover-style-link text-color-primary">contact.mumbai@trumpets.co.in</a></li>
+                                    <li>D-25, Dhanraj Mahal, C.S.M. Road, <br>Apollo Bunder, Mumbai 400 001</li>
+                                   <!--  <li><a href="#" class="hover-style-link text-color-primary">contact.mumbai@trumpets.co.in</a></li> -->
                                     <li><a href="#" class="hover-style-link text-black font-weight--bold">+91 9922367414</a></li>
                                 </ul>
                             </div>
@@ -103,8 +103,8 @@ include"inc/navbar.php";
                             <div class="conact-info-wrap mt-30">
                                 <h5 class="heading mb-20">Nashik</h5>
                                 <ul class="conact-info__list">
-                                    <li>1, Grandueur apartment, college road, Nashik, Maharashtra - 422005</li>
-                                    <li><a href="#" class="hover-style-link text-color-primary">contact.nashik@trumpets.co.in</a></li>
+                                    <li>1, Grandueur apartment, college road,<br> Nashik, Maharashtra - 422005</li>
+                                   <!--  <li><a href="#" class="hover-style-link text-color-primary">contact.nashik@trumpets.co.in</a></li> -->
                                     <li><a href="#" class="hover-style-link text-black font-weight--bold">+91 9922367414</a></li>
                                 </ul>
                             </div>
@@ -177,7 +177,7 @@ include"inc/navbar.php";
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading">Say hello</h6>
-                                                <div class="text">hello@trumpets.co.in</div>
+                                                <div class="text">sales@trumpets.co.in</div>
                                             </div>
                                         </div>
                                     </div>

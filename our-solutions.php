@@ -541,7 +541,7 @@ include"inc/navbar.php";
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading">Say hello</h6>
-                                                <div class="text">hello@trumpets.co.in</div>
+                                                <div class="text">sales@trumpets.co.in</div>
                                             </div>
                                         </div>
                                     </div>
