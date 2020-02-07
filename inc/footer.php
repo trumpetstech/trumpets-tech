@@ -10,10 +10,9 @@
                             <ul class="footer-widget__list">
                                 <li>1, Grandueur apartment, college road, Nashik, Maharashtra - 422005</li>
                                <!--  <li>D-25, Dhanraj Mahal, C.S.M. Road, Apollo Bunder, Mumbai 400 001D-25, Dhanraj Mahal, C.S.M. Road, Apollo Bunder, Mumbai 400 001</li> -->
-                                <li><a href="mailto:info@trumpets.co.in" class="hover-style-link">info@trumpets.co.in</a></li>
-                                 <li><a href="mailto:careers@trumpets.co.in" class="hover-style-link">careers@trumpets.co.in</a></li>
-                                <!-- <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+68)1221 09876</a></li>
-                                <li><a href="https://hasthemes.com/" class="hover-style-link text-color-primary">www.mitech.xperts.com</a></li> -->
+                                <li><a href="mailto:info@trumpets.co.in" class="hover-style-link">info@trumpetstechnologies.in</a></li>
+                                 <li><a href="mailto:careers@trumpetstechnologies.in" class="hover-style-link">careers@trumpetstechnologies.in</a></li>
+
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">

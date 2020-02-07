@@ -512,7 +512,7 @@ include"inc/navbar.php"
                                             </div>
                                             <div class="main-content">
                                                 <h6 class="heading">Say hello</h6>
-                                                <div class="text">sales@trumpets.co.in</div>
+                                                <div class="text">sales@trumpetstechnologies.in</div>
                                             </div>
                                         </div>
                                     </div>
@@ -524,7 +524,7 @@ include"inc/navbar.php"
                 </div>
             </div>
         </div>
-            <!--========== Call to Action Area End ============-->
+ <!--========== Call to Action Area End ============-->
 
         </div>
 
