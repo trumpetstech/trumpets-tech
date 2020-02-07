@@ -142,7 +142,7 @@
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            <a href="https://blog.trumpets.co.in" target="_blank"><span>Blog</span></a>
+                                                            <a href="http://blog.trumpetstechnologies.in/" target="_blank"><span>Blog</span></a>
                                                             <!-- multilevel submenu -->
                                                           <!--   <ul class="submenu">
                                                                 <li><a href="blog-list-large-image.html"><span>List Large Image</span></a></li>
